@@ -1,106 +1,122 @@
 # StreetNav-Agent
 
-A Strands-based agent that turns a free-form location query (e.g. *"vegetarian restaurants near NTR stadium guntur"*) into a curated set of nearby places, evidenced by Google Street View imagery.
+## 1 Overview
 
-The agent runs a fixed pipeline:
+Turns a free-text place query into a short list of evidence-backed findings using Google Maps (geocode, roads, Street View) plus a vision LLM for relevance and on-image names.
 
-1. **Geocode** the query (Google Maps).
-2. **Find Street View panoramas** on roads within a radius around that point.
-3. **Download** a few headings per panorama as images.
-4. **Score image relevance** to the user's query with a vision LLM (Cohere Aya Vision or OpenRouter Gemini).
-5. **Enrich** the YES-marked images: reverse-geocode and extract any visible name on the building/object.
-6. **Format** the final answer.
+### 1.1 Pipeline
 
-A `scripts/` directory contains the notebook's debug/baseline cells (Places-API ground truth, neighbor-distance plot, pano viewer, coverage check) — they are NOT part of the agent's runtime path.
+1. Geocode the query.
+2. Find Street View panoramas on roads in a radius.
+3. Download a few headings per panorama as PNGs.
+4. Score each image against the query with a **vision LLM** (provider is configurable; see 2.2 and 5).
+5. For high-scoring images: reverse-geocode coordinates and ask the vision LLM for any visible metadata.
+6. Format the final JSON answer.
 
-## Setup
+### 1.2 Repository layout
 
-Requires Python **≥ 3.10** (Strands SDK requirement). macOS ships 3.9, so install a newer one first.
+- `src/` — agent, tools, config.
+- `main.py` — CLI.
+- `output/` — run artifacts (JSON + images); a sample run may be committed for demos.
+- `scripts/` — optional debugging utilities (not used by the CLI pipeline).
 
-### Quick start — paste into a fresh terminal
+## 2 Requirements
 
-Run this from the project root. It installs `uv` if missing, drops any existing `.venv`, creates a clean Python 3.12 environment, and installs all dependencies.
+### 2.1 Python
 
-```bash
-cd path/to/StreetNav-Agent
-deactivate 2>/dev/null || true
-rm -rf .venv
-command -v uv >/dev/null 2>&1 || curl -LsSf https://astral.sh/uv/install.sh | sh
-source "$HOME/.local/bin/env" 2>/dev/null || true
-uv venv --python 3.12
-source .venv/bin/activate
-uv pip install -r requirements.txt
-```
+Python **3.10 or newer** (required by Strands and dependencies). Use a venv from the quick start below.
 
-### Alternative: official python.org installer
+### 2.2 API keys
 
-Download and install Python 3.12 from <https://www.python.org/downloads/macos/>, then:
+- **Google Maps / GCP:** `GCP_GMAP_KEY` is always required (geocoding, roads, Street View).
+- **Vision / text LLM:** set at least **one** of `OPENROUTER_API_KEY` or `COHERE_API_KEY` (both is fine; only one working key is required). On import, each backend is probed at most once; your `IMAGE_PROVIDER` / `AGENT_PROVIDER` preference is tried first, then the other if that side is unavailable or invalid. The chosen provider stays fixed for all LLM calls in that process.
+
+## 3 Quick start
 
 ```bash
-python3.12 -m venv .venv
-source .venv/bin/activate
-python3.12 -m pip install --upgrade pip
-python3.12 -m pip install -r requirements.txt
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env.local
+python main.py "your query here"
 ```
 
-Create `.env.local` (already gitignored):
+## 4 Run modes
+
+### 4.1 Default (Strands agent)
+
+The agent calls the same six tools in order; progress prints once per stage.
 
 ```bash
-cat > .env.local <<'EOF'
-GCP_GMAP_KEY=your_google_maps_api_key
-COHERE_API_KEY=your_cohere_api_key
-OPENROUTER_API_KEY=your_openrouter_api_key
-EOF
-chmod 600 .env.local
+python main.py "your query here"
 ```
 
-## Run
+### 4.2 Direct pipeline (no agent)
 
-Strands agent (LLM-orchestrated):
+Same steps and same `output/` files, implemented as plain function calls — no Strands orchestration.
 
 ```bash
-python3 main.py "vegetarian restaurants near NTR stadium guntur"
+python main.py --no-agent "your query here"
 ```
 
-Direct pipeline (deterministic, no LLM orchestrator — same six steps in fixed order):
+## 5 Environment overrides
+
+Set variables on the same line **before** `python` (Unix). Examples:
 
 ```bash
-python3 main.py --no-agent "vegetarian restaurants near NTR stadium guntur"
+IMAGE_PROVIDER=COHERE python main.py "…"
+AGENT_PROVIDER=OPENROUTER python main.py "…"
+OPENROUTER_MODEL_ID=your/vendor-model-id python main.py "…"
+COHERE_MODEL_ID=your-cohere-vision-model python main.py "…"
+GCP_WORKERS=16 LLM_WORKERS=8 python main.py "…"
+MAX_TOKENS=500 TEMP=0.1 python main.py "…"
 ```
 
-Both modes share the same per-tool progress output (one line per stage) and write the same artifacts under `output/` (gitignored):
+`IMAGE_PROVIDER` / `AGENT_PROVIDER` may be `OPENROUTER` or `COHERE`; each is resolved with a single cached probe per backend (see 2.2).
 
-```
-output/
-  geocode.json
-  panos.json
-  street_views/
-  relevant_images/
-  findings.json
-```
+## 6 Output files
 
-## Provider switching
+Under `output/`:
 
-Both providers default to **OpenRouter** (Gemini). Cohere is opt-in.
+- `geocode.json`, `panos.json`, `findings.json`
+- `street_views/` — PNGs + `metadata.json`
+- `relevant_images/` — copies of high-scoring PNGs + `results.json`
 
-Set in `src/config.py` (or via env):
+## 7 Optional scripts
 
-- `IMAGE_PROVIDER`: `OPENROUTER` (default) or `COHERE` — used for vision scoring and on-image name extraction.
-- `AGENT_PROVIDER`: `OPENROUTER` (default) or `COHERE` — used by the Strands orchestrator agent.
+All live under `scripts/`. Use the same venv as in section 3. See each file’s module docstring for full options.
 
-Both providers go through Strands' `OpenAIModel` (Cohere via its OpenAI-compatibility endpoint).
+### 7.1 `baseline_nearby.py`
 
-To use Cohere instead, just prefix the run command:
+Places API baseline vs the pipeline (writes `output/baseline_nearby.json` when used with the geocode path).
 
 ```bash
-AGENT_PROVIDER=COHERE IMAGE_PROVIDER=COHERE python main.py "..."
+python scripts/baseline_nearby.py "vegetarian restaurants near NTR stadium guntur"
 ```
 
-## Scripts (not part of the agent)
+### 7.2 `compare_results.py`
+
+Compares `output/baseline_nearby.json` (if present), `output/geocode.json`, and `output/findings.json`. No CLI arguments.
 
 ```bash
-python3 scripts/baseline_nearby.py "vegetarian restaurants near NTR stadium guntur"
-python3 scripts/debug_neighbor_dist.py
-python3 scripts/debug_pano_display.py 9xFAU9D-8ES3C2ZOn5RUeg
-python3 scripts/compare_results.py
+python scripts/compare_results.py
+```
+
+### 7.3 `debug_neighbor_dist.py`
+
+Plots nearest-neighbor distances for panos in `output/panos.json`. No CLI arguments.
+
+```bash
+python scripts/debug_neighbor_dist.py
+```
+
+### 7.4 `debug_pano_display.py`
+
+Download headings for one pano id, or list the five closest panos to a coordinate.
+
+```bash
+python scripts/debug_pano_display.py 9xFAU9D-8ES3C2ZOn5RUeg
+```
+
+```bash
+python scripts/debug_pano_display.py --closest 16.3159081 80.4220971
 ```

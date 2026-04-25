@@ -22,16 +22,35 @@ def _require(name: str) -> str:
 
 
 GCP_GMAP_KEY = _require("GCP_GMAP_KEY")
-COHERE_API_KEY = _require("COHERE_API_KEY")
-OPENROUTER_API_KEY = _require("OPENROUTER_API_KEY")
+COHERE_API_KEY = (os.environ.get("COHERE_API_KEY") or "").strip()
+OPENROUTER_API_KEY = (os.environ.get("OPENROUTER_API_KEY") or "").strip()
 
 OPENROUTER_MODEL_ID = os.environ.get(
     "OPENROUTER_MODEL_ID", "google/gemini-3-flash-preview"
 )
 COHERE_MODEL_ID = os.environ.get("COHERE_MODEL_ID", "command-a-vision-07-2025")
 
-IMAGE_PROVIDER = os.environ.get("IMAGE_PROVIDER", "OPENROUTER").upper()
-AGENT_PROVIDER = os.environ.get("AGENT_PROVIDER", "OPENROUTER").upper()
+IMAGE_PROVIDER_PREF = os.environ.get("IMAGE_PROVIDER", "OPENROUTER").upper()
+AGENT_PROVIDER_PREF = os.environ.get("AGENT_PROVIDER", "OPENROUTER").upper()
+
+from .provider_resolve import resolve_llm_provider  # noqa: E402
+
+IMAGE_PROVIDER = resolve_llm_provider(
+    IMAGE_PROVIDER_PREF,
+    COHERE_API_KEY,
+    OPENROUTER_API_KEY,
+    COHERE_MODEL_ID,
+    OPENROUTER_MODEL_ID,
+    role="vision (IMAGE_PROVIDER)",
+)
+AGENT_PROVIDER = resolve_llm_provider(
+    AGENT_PROVIDER_PREF,
+    COHERE_API_KEY,
+    OPENROUTER_API_KEY,
+    COHERE_MODEL_ID,
+    OPENROUTER_MODEL_ID,
+    role="agent (AGENT_PROVIDER)",
+)
 
 MAX_TOKENS = int(os.environ.get("MAX_TOKENS", "1000"))
 TEMP = float(os.environ.get("TEMP", "0.2"))

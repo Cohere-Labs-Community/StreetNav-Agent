@@ -83,7 +83,7 @@ def main() -> int:
     parser.add_argument(
         "--no-agent",
         action="store_true",
-        help="Skip Strands. Run the 6 steps directly (deterministic, no LLM orchestration).",
+        help="Run the same six-step pipeline without the Strands agent (sequential non-agentic workflow).",
     )
     args = parser.parse_args()
 

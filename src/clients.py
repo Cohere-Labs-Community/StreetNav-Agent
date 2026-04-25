@@ -17,11 +17,15 @@ def gmaps() -> googlemaps.Client:
 
 @lru_cache(maxsize=1)
 def cohere_client() -> cohere.ClientV2:
+    if not config.COHERE_API_KEY:
+        raise RuntimeError("COHERE_API_KEY is empty")
     return cohere.ClientV2(api_key=config.COHERE_API_KEY)
 
 
 @lru_cache(maxsize=1)
 def openrouter_client() -> OpenAI:
+    if not config.OPENROUTER_API_KEY:
+        raise RuntimeError("OPENROUTER_API_KEY is empty")
     return OpenAI(
         api_key=config.OPENROUTER_API_KEY,
         base_url="https://openrouter.ai/api/v1",
