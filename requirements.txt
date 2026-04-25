@@ -1,0 +1,9 @@
+strands-agents[openai]>=1.13.0
+strands-agents-tools>=0.2.0
+googlemaps>=4.10.0
+cohere>=5.13.0
+openai>=1.55.0
+python-dotenv>=1.0.1
+numpy>=1.26.0
+matplotlib>=3.9.0
+requests>=2.32.0
