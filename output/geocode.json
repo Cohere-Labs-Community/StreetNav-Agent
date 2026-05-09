@@ -1,16 +1,13 @@
 {
-  "latitude": 16.3124189,
-  "longitude": 80.423236,
-  "place_id": "ChIJebEaa2N1SjoR2TaFDX4WRSY",
+  "latitude": 12.9628957,
+  "longitude": 77.57754,
+  "place_id": "ChIJbU60yXAWrjsR4E9-UejD3_g",
   "building": null,
-  "street": "Lakshmipuram Main Road",
-  "area": "Brindavan Gardens",
-  "city": "Guntur",
-  "state": "AP",
+  "street": null,
+  "area": "Bangalore Division",
+  "city": "Bengaluru",
+  "state": "KA",
   "country": "India",
-  "postal_code": "522002",
-  "available_travel_modes": [
-    "DRIVE",
-    "WALK"
-  ]
+  "postal_code": null,
+  "available_travel_modes": []
 }
