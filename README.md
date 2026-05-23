@@ -38,7 +38,7 @@ Create `.env.local` once (see `.env.example` for variable names). Do not overwri
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-python main.py "your query here"
+python3 main.py "your query here"
 ```
 
 ## 4 Run modes
@@ -48,7 +48,7 @@ python main.py "your query here"
 The agent calls the same six tools in order; progress prints once per stage.
 
 ```bash
-python main.py "your query here"
+python3 main.py "your query here"
 ```
 
 ### 4.2 Direct pipeline (no agent)
@@ -56,20 +56,20 @@ python main.py "your query here"
 Same steps and same `output/` files, implemented as plain function calls — no Strands orchestration.
 
 ```bash
-python main.py --no-agent "your query here"
+python3 main.py --no-agent "your query here"
 ```
 
 ## 5 Environment overrides
 
-Set variables on the same line **before** `python` (Unix). Examples:
+Set variables on the same line **before** `python3` (Unix). Examples:
 
 ```bash
-IMAGE_PROVIDER=COHERE python main.py "…"
-AGENT_PROVIDER=OPENROUTER python main.py "…"
-OPENROUTER_MODEL_ID=your/vendor-model-id python main.py "…"
-COHERE_MODEL_ID=your-cohere-vision-model python main.py "…"
-GCP_WORKERS=16 LLM_WORKERS=8 python main.py "…"
-MAX_TOKENS=500 TEMP=0.1 python main.py "…"
+IMAGE_PROVIDER=COHERE python3 main.py "…"
+AGENT_PROVIDER=OPENROUTER python3 main.py "…"
+OPENROUTER_MODEL_ID=your/vendor-model-id python3 main.py "…"
+COHERE_MODEL_ID=your-cohere-vision-model python3 main.py "…"
+GCP_WORKERS=16 LLM_WORKERS=8 python3 main.py "…"
+MAX_TOKENS=500 TEMP=0.1 python3 main.py "…"
 ```
 
 `IMAGE_PROVIDER` / `AGENT_PROVIDER` may be `OPENROUTER` or `COHERE`; each is resolved with a single cached probe per backend (see 2.2).
@@ -121,7 +121,7 @@ All live under `scripts/`. Use the same venv as in section 3. See each file’s 
 Places API baseline vs the pipeline (writes `output/baseline_nearby.json` when used with the geocode path).
 
 ```bash
-python scripts/baseline_nearby.py "vegetarian restaurants near NTR stadium guntur"
+python3 scripts/baseline_nearby.py "vegetarian restaurants near NTR stadium guntur"
 ```
 
 ### 8.2 `compare_results.py`
@@ -129,7 +129,7 @@ python scripts/baseline_nearby.py "vegetarian restaurants near NTR stadium guntu
 Compares `output/baseline_nearby.json` (if present), `output/geocode.json`, and `output/findings.json`. No CLI arguments.
 
 ```bash
-python scripts/compare_results.py
+python3 scripts/compare_results.py
 ```
 
 ### 8.3 `debug_neighbor_dist.py`
@@ -137,7 +137,7 @@ python scripts/compare_results.py
 Plots nearest-neighbor distances for panos in `output/panos.json`. No CLI arguments.
 
 ```bash
-python scripts/debug_neighbor_dist.py
+python3 scripts/debug_neighbor_dist.py
 ```
 
 ### 8.4 `debug_pano_display.py`
@@ -145,9 +145,9 @@ python scripts/debug_neighbor_dist.py
 Download headings for one pano id, or list the five closest panos to a coordinate.
 
 ```bash
-python scripts/debug_pano_display.py 9xFAU9D-8ES3C2ZOn5RUeg
+python3 scripts/debug_pano_display.py 9xFAU9D-8ES3C2ZOn5RUeg
 ```
 
 ```bash
-python scripts/debug_pano_display.py --closest 16.3159081 80.4220971
+python3 scripts/debug_pano_display.py --closest 16.3159081 80.4220971
 ```
