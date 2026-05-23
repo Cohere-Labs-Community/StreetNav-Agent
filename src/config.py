@@ -88,9 +88,7 @@ FINDINGS_PATH = OUTPUT_DIR / "findings.json"
 CATALOGUE_PATH = OUTPUT_DIR / "catalogue.json"
 
 HF_TOKEN = _optional_key("HUGGINGFACE_API_KEY") or _optional_key("HF_TOKEN")
-HF_DATASET_REPO = os.environ.get(
-    "HF_DATASET_REPO", "c4ai-ml-agents/StreetView-Agents"
-).strip()
+HF_DATASET_REPO = "c4ai-ml-agents/StreetView-Agents"
 CACHE_MAX_AGE_DAYS = int(os.environ.get("CACHE_MAX_AGE_DAYS", "730"))
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)

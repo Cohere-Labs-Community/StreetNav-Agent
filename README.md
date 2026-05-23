@@ -80,7 +80,7 @@ To avoid re-burning the Google Street View Static quota for places someone else 
 
 ### 6.1 Repo layout
 
-`HF_DATASET_REPO` (default `c4ai-ml-agents/StreetView-Agents`, private, type `dataset`):
+Fixed private dataset `c4ai-ml-agents/StreetView-Agents` (type `dataset`):
 
 - `catalogue.json` — one entry per `pano_id` with `lat`, `lng`, `sv_date`, `last_downloaded` (UTC), `fov`, `pitch`, `headings`.
 - `images/<pano_id>/<pano_id>_<heading>.png` — cumulative across runs; one subfolder per pano.

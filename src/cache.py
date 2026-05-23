@@ -20,8 +20,15 @@ from . import _progress, config
 
 try:
     from huggingface_hub import snapshot_download, upload_file, upload_folder
+    from huggingface_hub.utils import (
+        GatedRepoError,
+        HfHubHTTPError,
+        RepositoryNotFoundError,
+    )
+
     _HF_AVAILABLE = True
 except ImportError:
+    GatedRepoError = HfHubHTTPError = RepositoryNotFoundError = None  # type: ignore[misc, assignment]
     _HF_AVAILABLE = False
 
 
@@ -32,8 +39,97 @@ def _now_iso() -> str:
     return dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
+def hf_disabled_reason() -> str | None:
+    """Return why the HF cache is off, or ``None`` when enabled."""
+    if not _HF_AVAILABLE:
+        return "huggingface_hub package not installed (pip install huggingface_hub)"
+    if not config.HF_TOKEN:
+        return (
+            "no HUGGINGFACE_API_KEY in .env.local "
+            "(set it to enable shared cache; pipeline continues without it)"
+        )
+    return None
+
+
 def hf_enabled() -> bool:
-    return _HF_AVAILABLE and bool(config.HF_TOKEN) and bool(config.HF_DATASET_REPO)
+    return hf_disabled_reason() is None
+
+
+def _http_status(exc: Exception) -> int | None:
+    response = getattr(exc, "response", None)
+    status = getattr(response, "status_code", None)
+    return status if isinstance(status, int) else None
+
+
+def _format_hf_error(operation: str, exc: Exception) -> str:
+    """Turn a Hub exception into an actionable debug message."""
+    repo = config.HF_DATASET_REPO
+    err_type = type(exc).__name__
+    msg = str(exc).strip()
+    lower = msg.lower()
+
+    if not _HF_AVAILABLE:
+        return (
+            f"hf {operation} skipped: huggingface_hub is not installed "
+            f"(pip install huggingface_hub)"
+        )
+
+    if GatedRepoError is not None and isinstance(exc, GatedRepoError):
+        return (
+            f"hf {operation} failed: access denied to gated dataset {repo!r}. "
+            f"Request access at https://huggingface.co/datasets/{repo} and "
+            f"ensure HUGGINGFACE_API_KEY in .env.local belongs to an approved account."
+        )
+
+    if RepositoryNotFoundError is not None and isinstance(exc, RepositoryNotFoundError):
+        return (
+            f"hf {operation} failed: dataset {repo!r} not found or not visible "
+            f"with your token. Verify the repo exists and your token has "
+            f"read access (downloads) or write access (uploads)."
+        )
+
+    status = _http_status(exc) if HfHubHTTPError is not None and isinstance(exc, HfHubHTTPError) else None
+    if status is None:
+        if "401" in lower or "unauthorized" in lower:
+            status = 401
+        elif "403" in lower or "forbidden" in lower:
+            status = 403
+        elif "404" in lower:
+            status = 404
+
+    if status == 401:
+        return (
+            f"hf {operation} failed: authentication error (HTTP 401). "
+            f"Set a valid HUGGINGFACE_API_KEY in .env.local "
+            f"(https://huggingface.co/settings/tokens)."
+        )
+    if status == 403:
+        hint = (
+            "write access is required for uploads"
+            if operation == "upload"
+            else "read access is required for downloads"
+        )
+        return (
+            f"hf {operation} failed: permission denied (HTTP 403) for {repo!r}. "
+            f"Your token may lack access to this private dataset ({hint})."
+        )
+    if status == 404:
+        return f"hf {operation} failed: dataset {repo!r} not found (HTTP 404)."
+
+    if HfHubHTTPError is not None and isinstance(exc, HfHubHTTPError):
+        return f"hf {operation} failed: HTTP {status or '?'} from Hugging Face Hub — {msg}"
+
+    if any(token in lower for token in ("connection", "timeout", "timed out", "network")):
+        return (
+            f"hf {operation} failed: network error reaching Hugging Face Hub "
+            f"({err_type}: {msg}). Check your connection and retry."
+        )
+
+    return f"hf {operation} failed ({err_type}): {msg}"
+
+
+def _log_hf_error(operation: str, exc: Exception) -> None:
+    _progress.info(_format_hf_error(operation, exc))
 
 
 def _load_local_catalogue() -> Dict[str, Any]:
@@ -75,7 +171,7 @@ def sync_catalogue_from_hf() -> Dict[str, Any]:
             _save_local_catalogue(data)
             return data
     except Exception as e:  # noqa: BLE001
-        _progress.info(f"hf catalogue sync skipped ({type(e).__name__})")
+        _log_hf_error("catalogue sync", e)
     return _load_local_catalogue()
 
 
@@ -146,7 +242,7 @@ def fetch_cached_images(
             local_dir=str(config.CACHE_DIR),
         )
     except Exception as e:  # noqa: BLE001
-        _progress.info(f"hf fetch skipped ({type(e).__name__})")
+        _log_hf_error("image fetch", e)
         return []
 
     target_dir.mkdir(parents=True, exist_ok=True)
@@ -254,5 +350,5 @@ def publish_to_hf(
             )
             return len(uploaded_per_pano)
         except Exception as e:  # noqa: BLE001
-            _progress.info(f"hf upload failed ({type(e).__name__}: {e})")
+            _log_hf_error("upload", e)
             return 0

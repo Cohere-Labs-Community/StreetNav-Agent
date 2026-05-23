@@ -254,8 +254,9 @@ def save_pano_images(
                 f"(repo={config.HF_DATASET_REPO})"
             )
         else:
+            reason = cache.hf_disabled_reason() or "HF cache unavailable"
             _progress.info(
-                f"cache: disabled (no HF token) — downloading all {len(misses)} panos"
+                f"cache: disabled ({reason}) — downloading all {len(misses)} panos"
             )
 
         metadata: list[dict] = []
