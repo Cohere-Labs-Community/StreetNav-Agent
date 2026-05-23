@@ -1,5 +1,239 @@
 {
   "panos": {
+    "-88EEWIeYj7d5PQlED3BHg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72771309270493,
+      "lng": 85.33207472977656,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "-DtHVPNU-w-1KRC0BQCWAw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73500191643288,
+      "lng": 85.32882295262459,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "-NJKIoPrRgY09ni-F0fxVA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72929455116659,
+      "lng": 85.3270154410202,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "-UWI7XPNQBE4wF1ADbVTGw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73912554651449,
+      "lng": 85.33220169294314,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "-fUMQYJahvmK4FtusOUamA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73835992466064,
+      "lng": 85.33253905077956,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "01JxTACGVLhIdKruXNb9vQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72697883338127,
+      "lng": 85.33064625551337,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "04KSkAqTG88znsdWHCsYRA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72207035837817,
+      "lng": 85.33134228060035,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "0FUK_uU5Hrkq9BfE45bPKA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72338260380631,
+      "lng": 85.32736560719732,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "0V7W5Ug1rI-aH33-ZvCDrw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74003588551021,
+      "lng": 85.33059081601603,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "0V9LRV8a0p13g_EjV9mhUg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73977036124958,
+      "lng": 85.33355481806116,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "0ZdJlodFutPjBNQuo_5zog": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73900874611285,
+      "lng": 85.33000637146027,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "0fqiTFU4SD2d4nUxar2mhw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72698655458487,
+      "lng": 85.33402496184675,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "0pJaxFvo_MAj3xCEpcSosA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73692366184883,
+      "lng": 85.32980353753295,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "0pwApiK2wegGgduCOZnZBA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73830059805531,
+      "lng": 85.33283760835998,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "0sGBqWBdYJBBSN9qpR4B8Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73719046711518,
+      "lng": 85.33024003962676,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "0wn4KrOOM1MjGhlB9kCq9w": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72956927193903,
+      "lng": 85.32901033292583,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "13otL20QDL_ujdzvSUZJTg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73615576622597,
+      "lng": 85.33278840088383,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "17eCNTna8NT5KN9aG6WOyw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73476085906241,
+      "lng": 85.3310646917813,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
     "1BdePtZE42wiYQVbwXSbfQ": {
       "fov": 135,
       "headings": [
@@ -12,6 +246,32 @@
       "lng": 78.34718090450562,
       "pitch": 0,
       "sv_date": "2026-02"
+    },
+    "1I0nV0gBftdyDLfr5hkzdQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72835792887042,
+      "lng": 85.33339852313826,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "1NqSFlUpxbjj7SHACv8OWQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72716831721296,
+      "lng": 85.33059933304061,
+      "pitch": 0,
+      "sv_date": "2024-05"
     },
     "1OCbuNnuTgyLWvPOVakAtQ": {
       "fov": 135,
@@ -26,6 +286,19 @@
       "pitch": 0,
       "sv_date": "2026-02"
     },
+    "1mQy3O0WtOIVtXN0N_zO4g": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74145597506455,
+      "lng": 85.33062780197429,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
     "1pi-tXHP6i_KnccHLYPJJQ": {
       "fov": 135,
       "headings": [
@@ -38,6 +311,71 @@
       "lng": 78.34754905030654,
       "pitch": 0,
       "sv_date": "2026-02"
+    },
+    "24gYhJGbcNwW0-_dGleCTQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72118560959744,
+      "lng": 85.32932917764221,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "2BJrWFJyltjbIpA6Efj5MA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72337501401786,
+      "lng": 85.33339631513412,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "2O_hnvi0sWu84YGow19PLw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7283560323335,
+      "lng": 85.33088891108618,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "2XT6tQH3hd156u6LZTKsAQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73610311048037,
+      "lng": 85.32453203592412,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "2ZACLaQr5AB8KQ7gi0N5TQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73889296345432,
+      "lng": 85.3312324281484,
+      "pitch": 0,
+      "sv_date": "2024-05"
     },
     "38BKix0hS_dstum_Bh1VQg": {
       "fov": 135,
@@ -52,6 +390,58 @@
       "pitch": 0,
       "sv_date": "2026-02"
     },
+    "3V0uQ7MNWYlQPItvNrhoUg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73649317143445,
+      "lng": 85.3325927534125,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "3VNALd2lKj7ox2q0mgMLqw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74044373956795,
+      "lng": 85.3289925886067,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "41Jh_9FpWTMrlXI6bzEV_Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74047918128554,
+      "lng": 85.32967160044092,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "4C0x0ktT9rgXcSWyWdBZ1A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72349414504472,
+      "lng": 85.33266143908187,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
     "4KqoFZSH-OozVn9TKfLRSw": {
       "fov": 135,
       "headings": [
@@ -64,6 +454,149 @@
       "lng": 78.35132403207318,
       "pitch": 0,
       "sv_date": "2025-04"
+    },
+    "4OVl2Nxaiq5UXpSZfVQSJA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72915539340401,
+      "lng": 85.33166229459529,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "4ZZ65Tuq4hUpA_BihWjjWw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73611180465636,
+      "lng": 85.32881482964244,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "4_uvaeuX_1DGJSiXzlX_og": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73993639192616,
+      "lng": 85.33186330784824,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "4b4TjaET8fefm9UPAWFbdA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72331526080329,
+      "lng": 85.32797239885514,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "4wr5B6PRYBg6GT5rMXtMOA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73889915871677,
+      "lng": 85.33102384194392,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "4yxp7Xj2ckg0nrowxQ9-TQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74169672996783,
+      "lng": 85.33326517529976,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "519SnYz2iYa58rHMMjqSjA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72338195082064,
+      "lng": 85.32715787374963,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "5CuGf_JuJ-BBPpWganfnBw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72630112142733,
+      "lng": 85.3344813806883,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "5DHEMAJLBFmwybXoeEMmIg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72913265337896,
+      "lng": 85.32766159050543,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "5FXrv6L2EGAmVOfgrRQzEA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73745463425325,
+      "lng": 85.33229135557293,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "5HzuVhnpN2tAM4CX5mwB9g": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72619559860295,
+      "lng": 85.32495990451443,
+      "pitch": 0,
+      "sv_date": "2024-06"
     },
     "5MV9nqa_PPcinw3rZqxJWQ": {
       "fov": 135,
@@ -78,6 +611,32 @@
       "pitch": 0,
       "sv_date": "2026-02"
     },
+    "5Q85bxj51-bS1ky4eJK-hA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72822855601438,
+      "lng": 85.32714572833757,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "5TYyu5jQK_M3aWQqRyPGrQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.7385216647272,
+      "lng": 85.33229135557293,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
     "5ajNpa8lBjLG1k7bhoHbSg": {
       "fov": 135,
       "headings": [
@@ -90,6 +649,136 @@
       "lng": 78.34804396122992,
       "pitch": 0,
       "sv_date": "2026-02"
+    },
+    "5sif_ArXrRrynGj0CVVO3Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72400054115938,
+      "lng": 85.32850670747591,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "6Inj0A6uVuOD0hMFCUCjxg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73553103954952,
+      "lng": 85.33249481112597,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "6PcWaaQRZDBYNK1ItYBdNg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72728019934113,
+      "lng": 85.32747412670999,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "6S2h6Ll-azC8zTGCg7m8og": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72294610851506,
+      "lng": 85.327954811929,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "6m6020slzHxp8c8svs8p_g": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74182211975365,
+      "lng": 85.33124425720983,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "6orOVOgEMeOKIBYtBpeedA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.7421617968874,
+      "lng": 85.33256814956961,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "6puHKpRyw7qpCqNV7uGXIA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72534585632935,
+      "lng": 85.33133873188856,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "6rOvnb_4rbcbjzlDWCrQ2g": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72467939027492,
+      "lng": 85.33086170406392,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "6tEuvzAG6YTcYn6WYnvAMw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73557688092178,
+      "lng": 85.33207133883079,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "6wYfDwjSFBJRmaZIOb-4hQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72671296512582,
+      "lng": 85.33397094519705,
+      "pitch": 0,
+      "sv_date": "2024-06"
     },
     "71dF60OysDzYMEx1q_7gSg": {
       "fov": 135,
@@ -104,6 +793,19 @@
       "pitch": 0,
       "sv_date": "2025-04"
     },
+    "73GtlQm8mO5TaD2sJMN78g": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72412775379052,
+      "lng": 85.33165937678272,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
     "7BD821HuR1ZzzYPf4_iOFg": {
       "fov": 135,
       "headings": [
@@ -116,6 +818,175 @@
       "lng": 78.35162956358032,
       "pitch": 0,
       "sv_date": "2025-04"
+    },
+    "7E1khBi_6onwJ910kHGopw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73272809830421,
+      "lng": 85.32856837936687,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "7H4bxr3-gU25g_z5qprpVQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72225973200464,
+      "lng": 85.33131049990655,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "7Z6CQ17D424dBVO7hkeeUw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72644814583313,
+      "lng": 85.32537791114464,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "7chIg924lGJ53UhEKfIHPA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72576323138524,
+      "lng": 85.33467370946138,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "80SDqpW4ZPPTy456PbmIjg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73688405902089,
+      "lng": 85.32675202624496,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "8ILlpXtHZJbYjc1WIXT7mw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.727898151304,
+      "lng": 85.3333221103718,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "8ZUCvijP57YRdGFRUr-LgQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73929579493978,
+      "lng": 85.33157799340702,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "8eYy4CWojBW0uVSwgYkBfg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.740056973487,
+      "lng": 85.3302809689124,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "8snM_y5eUU4QqA2ZOlAbEQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72201063451631,
+      "lng": 85.32859535093924,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "8v2V-j7raiOKvijd11-Q9g": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72671621780882,
+      "lng": 85.32591232401835,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "8wBfjdDJo-nAepP-KDI37g": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73660783951241,
+      "lng": 85.32943327692384,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "8z10XWHY3dtIpNyMi665lg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73863955963274,
+      "lng": 85.332975057854,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "9CxZ9Jo1y_loDdadWX13Mg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73710460846887,
+      "lng": 85.3327992044521,
+      "pitch": 0,
+      "sv_date": "2024-05"
     },
     "9X2HkxRH4E8snTAGFyoDNA": {
       "fov": 135,
@@ -130,6 +1001,84 @@
       "pitch": 0,
       "sv_date": "2026-02"
     },
+    "9XOkEatpy47MG-eAUom9vg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73636045850006,
+      "lng": 85.33279841587056,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "9dhuMou5I2II4nqTkyQBXw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73781029862766,
+      "lng": 85.33146553904676,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "9fCn5ZKDhPMr9cnLJ21a7w": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73553991307199,
+      "lng": 85.32819203779188,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "9g7Rly7U3Wqy6mEPrdwqGQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72808361400047,
+      "lng": 85.33332021779417,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "9mZv1orHGPJIQB7GkMGBAw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73254131382211,
+      "lng": 85.32833454631705,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "9sw0QT7NQIqQeuGTD1_CoA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73334324110756,
+      "lng": 85.32931955633495,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
     "A-vBcekEokFRpZi2Xnk_MA": {
       "fov": 135,
       "headings": [
@@ -143,6 +1092,19 @@
       "pitch": 0,
       "sv_date": "2026-02"
     },
+    "A_LfPU1uCnqVsJCYQtS5uQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73723816992867,
+      "lng": 85.3256637311951,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
     "Afiv9nUs3KBgWKUCgNSC0A": {
       "fov": 135,
       "headings": [
@@ -155,6 +1117,149 @@
       "lng": 78.35293885007175,
       "pitch": 0,
       "sv_date": "2026-02"
+    },
+    "AgIdaTH3iDl611OCCoI4Dg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72779239157267,
+      "lng": 85.33083552222104,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "B-OfJC__tmHd5vJMrTZMzA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72218191965885,
+      "lng": 85.33054720567485,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "B45LWBENtTGZ5upsypEsZQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73648862362821,
+      "lng": 85.32926521957607,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "BoKrV--PmHw5YSAdoY7c-g": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72840371913713,
+      "lng": 85.32838162846527,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "ByHIEkE2BuADEOiaiJNWgg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73692577806455,
+      "lng": 85.33276442799477,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "C3xK7e2wsaGBjI7h5PG_yg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72853167201411,
+      "lng": 85.32796821900325,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "CJDfoNmVuj7reH3pbibT0Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74148414901613,
+      "lng": 85.33354338378581,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "Cc-Kk4_bQocoAMVIeNaoyA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72939537156063,
+      "lng": 85.32775078739881,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "CjmeJt_BogNzNpGwC7AoEw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73895226937038,
+      "lng": 85.33040801511237,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "Ck3BY61qNxb9kiMTIfb1Sw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.736769550608,
+      "lng": 85.3271454128723,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "CkhVQhf60u_MN6eCqzqLRQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74094694783038,
+      "lng": 85.32979793829644,
+      "pitch": 0,
+      "sv_date": "2024-06"
     },
     "CqNSp7O35Y33HSpJI-l8Ww": {
       "fov": 135,
@@ -195,6 +1300,71 @@
       "pitch": 0,
       "sv_date": "2025-04"
     },
+    "D8r7MSZSs7pUjoD36-oFew": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72424991038011,
+      "lng": 85.33398364108595,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "DD-Wdqbvqiumxa3PRlq3yA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7207660462701,
+      "lng": 85.32892263650126,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "DTcbg0BuhZlALA-VA1WuoA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72216831555216,
+      "lng": 85.32905725676424,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "D_VC-ecqZThzBg32eWaXTQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74162136975064,
+      "lng": 85.33089750692515,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "Ddesn8WLNr1EfaDsSxp0gQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72998763476797,
+      "lng": 85.329209226633,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
     "DlYPoZRbBTbZIiU3YVXhbA": {
       "fov": 135,
       "headings": [
@@ -207,6 +1377,71 @@
       "lng": 78.34625853723537,
       "pitch": 0,
       "sv_date": "2026-02"
+    },
+    "Du0rgg0iPBDWbb_XryzNcw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73890565020732,
+      "lng": 85.33405705638556,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "E4OuPdlFFDwybB_VtZxTvw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72670253235054,
+      "lng": 85.33060453788832,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "E8uixTvFXVDF4SSJKYJH0w": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72559299414876,
+      "lng": 85.33327724049312,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "E9gYBQKJyRCzGr7VHmwpGw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73958588002319,
+      "lng": 85.32762373501593,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "EJFnfQSBYzUA9McNxOipbA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72942027283858,
+      "lng": 85.33113093469589,
+      "pitch": 0,
+      "sv_date": "2024-06"
     },
     "EdKTHttQINnLqC8byvvsBQ": {
       "fov": 135,
@@ -221,6 +1456,58 @@
       "pitch": 0,
       "sv_date": "2026-02"
     },
+    "EfSv1M3DCK6XsuOFCxMm0A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73667042257226,
+      "lng": 85.33490656909835,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "Ehv8RpX_au26JUyZl_4EsQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72366011010794,
+      "lng": 85.33276198339037,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "Ej6feI8n2pj9-HdztvclVw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73907095441763,
+      "lng": 85.32965835151029,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "EueGJetl6gP8NwmKU5-5DQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74204994217101,
+      "lng": 85.33171907361975,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
     "Evc1MBH2D8LxSDojiuBqhg": {
       "fov": 135,
       "headings": [
@@ -233,6 +1520,32 @@
       "lng": 78.34564891768048,
       "pitch": 0,
       "sv_date": "2026-02"
+    },
+    "F1BOdMINL0duisx0QDrAjg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74216463919857,
+      "lng": 85.33236335369061,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "F2hWOF-XzNvM_asPcrsL2A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72639779159505,
+      "lng": 85.33423101318891,
+      "pitch": 0,
+      "sv_date": "2024-06"
     },
     "FA16ihEIcdNPuDiU-o5Vrg": {
       "fov": 135,
@@ -247,6 +1560,45 @@
       "pitch": 0,
       "sv_date": "2026-02"
     },
+    "FD_LjqFFEwgyO_vITcwv_w": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.73006346023914,
+      "lng": 85.32867942014072,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "FSa5KgCdVlVjXna3ClLh1g": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72673953529679,
+      "lng": 85.33182419351886,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "FTbnjJ1lxxhu_uOUrpvvnA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74033594950174,
+      "lng": 85.32882445103864,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
     "FcpB9L2AsOYuoCu0Bod5KA": {
       "fov": 135,
       "headings": [
@@ -259,6 +1611,214 @@
       "lng": 78.3511132243577,
       "pitch": 0,
       "sv_date": "2025-04"
+    },
+    "Fg6vklNiecgcDsfQftQxxA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73971688044261,
+      "lng": 85.33153738053365,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "Fkwkx8capqhgEEiGqaOK9A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.7345294909384,
+      "lng": 85.32954810135577,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "FnA8wKZEtSVqhaK3J0yQcg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73590291882435,
+      "lng": 85.33247738337379,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "G0DCTnKDFqcoFvN0C03Cow": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74214048655641,
+      "lng": 85.33207528179098,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "G2VtUaJxRlJp3F32zH18xw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74076744969898,
+      "lng": 85.32950449018169,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "G3icDmzFz13hXFgu0Bc5kA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73985903114492,
+      "lng": 85.33276695145727,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "GIHPHXIkUalMSdHX7vId9w": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74003588648974,
+      "lng": 85.33079514537846,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "GTKbjm9XaYozQwyp5U-4Og": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73635197676363,
+      "lng": 85.32783138782614,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "GnyFa7AcmMpkvam9TnH9jw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72952130379288,
+      "lng": 85.32830923077333,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "Gx_mu0RlQsv1rRbIykBkSg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73366542237157,
+      "lng": 85.32971150493873,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "H7v32ckZI4EolRI3x8celg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72386473366516,
+      "lng": 85.33107021202726,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "HCAMwlKNxk7YFHfiRgHQFA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72863769289519,
+      "lng": 85.33090689137168,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "HD196QzkkbHkoSGvB_7TUg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72643562579294,
+      "lng": 85.33023696401445,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "HEpOzXzki0173kXvVX7HVg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72450913850576,
+      "lng": 85.33094695268828,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "HSFyFz6jeUwCTIRph_vGFg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73438601316062,
+      "lng": 85.33060122571256,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "HXx8MLVHHSfCHZR77wHVTw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72257798656274,
+      "lng": 85.32794929136806,
+      "pitch": 0,
+      "sv_date": "2024-06"
     },
     "HZ9w6wbV1dkwLJj5GaWI_A": {
       "fov": 135,
@@ -273,6 +1833,58 @@
       "pitch": 0,
       "sv_date": "2026-02"
     },
+    "HZKLCdLi8xb-nA2YV5iSzg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72803602751549,
+      "lng": 85.33273335785316,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "HqLLxnI1p3eCgLbIPMJzSw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73934643972246,
+      "lng": 85.33327219361519,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "HuSYFa_bvxLJw51L-ktqgg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73911521777886,
+      "lng": 85.33309705089009,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "HvuTmvAAwefMlEoDYCULUA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73700577229986,
+      "lng": 85.32920859572626,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
     "I6TiFcHZjtjB4GURrGWbEw": {
       "fov": 135,
       "headings": [
@@ -285,6 +1897,305 @@
       "lng": 78.34859851913149,
       "pitch": 0,
       "sv_date": "2026-02"
+    },
+    "I7Jz8i3bPnB5kNDnQfBU8w": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73889498142883,
+      "lng": 85.33286631270057,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "I8DLgmHjXIUJWbvS0NPG9g": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73937142783766,
+      "lng": 85.33138210501686,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "I9Y30B-MmMWu2DC9Koplmg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74022713583814,
+      "lng": 85.3320801710612,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "IDbK-SstqeBxQ3IDl4Q5GA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72696938311903,
+      "lng": 85.32625066712788,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "IIumPksbLy6eoyLgg5yPdg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73501839126806,
+      "lng": 85.33137950263013,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "Ix9sjkygj-dX9Yqo1iLEhg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72836689812639,
+      "lng": 85.32958240668522,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "J37TJRPF_1VY_A4SIOvRGw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73449783907745,
+      "lng": 85.33073804994854,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "JbcfNwTkZI_4Jd2lbPRukg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72095602031778,
+      "lng": 85.32915283931537,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "JdPHNz_jjLtgnZi9rjIQGQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73708632486092,
+      "lng": 85.3300582627561,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "JgC3VkozwbCJcvEzxQCoNw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72409808240382,
+      "lng": 85.32867784285858,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "JpMGUr58h4NIM9C50PsRkQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72327422841602,
+      "lng": 85.33107060633051,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "KJrcVZ3jgfWLOjo-FN2C4A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72815163811507,
+      "lng": 85.33067567075726,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "KUTtPT5d_yHBsV_woRNgjQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72809714542077,
+      "lng": 85.32747491536844,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "KVtTqoPQwIGIlE6kgQx1Fw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.7392379149097,
+      "lng": 85.3334325106192,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "KYRdpPwqnAxNWd0dFtpgow": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72836454848764,
+      "lng": 85.32911987439502,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "KesYbIVrv3QOlrekM68DDA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73438059208738,
+      "lng": 85.32967593788776,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "KhbQsrI0g4EBY0hwMweasQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72408074383126,
+      "lng": 85.33295116390485,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "KpAvYU8D6af6Z1faKvb0BA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72756651268739,
+      "lng": 85.32824306329992,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "KvUt2gcAI0pWNjNZC5QV9g": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73993006674518,
+      "lng": 85.33236532516018,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "KvYVQ0XSRd_KsD4BUBMHdg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72803288460771,
+      "lng": 85.32829519286553,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "L4Nhfue7mBOO0tFy8b4edg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73658542656879,
+      "lng": 85.32865063473452,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "LC7u227C4aKhxOPOu-jjmg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72652478745103,
+      "lng": 85.33395320249024,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "LLEi-NLdu0eNVE9toUxGLQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73507763707335,
+      "lng": 85.33296851264785,
+      "pitch": 0,
+      "sv_date": "2024-06"
     },
     "LRpXFBD8T31D2JiYvaITVA": {
       "fov": 135,
@@ -299,6 +2210,71 @@
       "pitch": 0,
       "sv_date": "2026-02"
     },
+    "LZ0UuMVr_rfB3fWYSvZU5A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72857286970945,
+      "lng": 85.32720550897602,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "LcrGussO0IaRZgulWmDwCA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73210676738541,
+      "lng": 85.32921711296648,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "LpJg2lUS3lbLNz9DLPtPxA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72924977864712,
+      "lng": 85.32721836417073,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "M7YgieKsG7QTOIsvM-9tZg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7283652896112,
+      "lng": 85.32942050111359,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "ME5OFoOFcap5-kwWFD5qgg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73674803554974,
+      "lng": 85.33270891179022,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
     "MHRo9o-XHZxd_vByqR4zTg": {
       "fov": 135,
       "headings": [
@@ -311,6 +2287,19 @@
       "lng": 78.34694664500996,
       "pitch": 0,
       "sv_date": "2026-02"
+    },
+    "MRwpPbS3yUtDXfH30iOTFA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72379571637811,
+      "lng": 85.33298728082724,
+      "pitch": 0,
+      "sv_date": "2024-05"
     },
     "MlDib5VknxiIVWPpCcvrBQ": {
       "fov": 135,
@@ -325,6 +2314,136 @@
       "pitch": 0,
       "sv_date": "2025-04"
     },
+    "Mt0luGAXCTjl_Yc11LUdLw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73315687937931,
+      "lng": 85.32909558444098,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "Mu7--JPL_WL1ldI1DikFhA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7273665086145,
+      "lng": 85.33004690661046,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "MyOSZsai9J01ylNV7StTJA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74018829509892,
+      "lng": 85.32920126143502,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "N0TDU4ZVAwa_O43ifp2hvg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.7351398281977,
+      "lng": 85.33152870593541,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "NFQpRD8NTWOBS07_5IWVPA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73160911646391,
+      "lng": 85.3291080448733,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "N_VE5uUPkkCouiYihhmrmg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73437391803123,
+      "lng": 85.33378807675548,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "NcUvHuC23dXqOmNTr4bIGQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72213671780177,
+      "lng": 85.32915039454923,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "NhLpqaug-_EbftoIwdFbDA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7219912443997,
+      "lng": 85.33033057295738,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "NwQmjdqUKMe-RcbeyJU8dQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72337371090424,
+      "lng": 85.32756561101534,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "O2cpf2xCsVFpIrkVX0Cw1A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73958352954332,
+      "lng": 85.3334227323206,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
     "OBJHFgzHNwHOgeDNB3giUQ": {
       "fov": 135,
       "headings": [
@@ -337,6 +2456,396 @@
       "lng": 78.3490780569405,
       "pitch": 0,
       "sv_date": "2026-02"
+    },
+    "OOlM9k9Krftfllw2j8uxmQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73679500150641,
+      "lng": 85.32965724743259,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "OVJmUh71B_2uZNAvKTgRWg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73613592672847,
+      "lng": 85.32837240131379,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "Ofar9xkMcWpgDaidxaVYyw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74191412948467,
+      "lng": 85.33257816459674,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "Ot6lIzCo0nFtihWKM5ld3w": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73981780950443,
+      "lng": 85.3286285527688,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "Ow2QPsWeiprfULglojNWeg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73885182699335,
+      "lng": 85.33153288551475,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "OxNlr9GqRcDtFNWxyyP_Bw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74096282521274,
+      "lng": 85.33343046033093,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "PKU6LYvY6JyhlaL4hNRh5A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72883581332243,
+      "lng": 85.32715550776048,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "PjNM2WNB0M-tyjXUZFY4sg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72949661194949,
+      "lng": 85.32851199138746,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "PsTfEMtddI7iuYEhTLmdgA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72938283014871,
+      "lng": 85.32893265219718,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "Q4LpKtEeHEsJwejEL3OHDQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.735395744917,
+      "lng": 85.33184595875399,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "Q5HxnBZcBixugbpJkXyn-A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72468375939083,
+      "lng": 85.33312110249076,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "QHchrpuITNA12T_L0W2Iuw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72401992294794,
+      "lng": 85.33381646516952,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "QJOtn7JNidu9QODsNnASKg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72838090925816,
+      "lng": 85.32999619823691,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "QYHs3XVrXUf7hW5D-9ns6g": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72585148472272,
+      "lng": 85.33452088739196,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "Qa47zN1BpD9jolJGGALZJg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72956841739882,
+      "lng": 85.32780181331917,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "QceFlDKrErNrLsnl6TnbYQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74108849299127,
+      "lng": 85.33092148063409,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "QtlDgpWOq3CGfGOO1h5nEA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.7362176973283,
+      "lng": 85.33286457782327,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "R-iO53v48sggxSOuXoz0Bg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73538293375682,
+      "lng": 85.328074450234,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "RGUiHkLwBSC1-fCuEJLEdQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73469859805266,
+      "lng": 85.33385904776287,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "RNZSRkPEwtR0uvXUPVf4xA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72318725447706,
+      "lng": 85.33315737701598,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "RQeaTDQ0DF4A0Ewnr4jBZw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72653683575075,
+      "lng": 85.32555654885147,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "RSacPqaWAxHI8uTTMTiMyQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73858325453936,
+      "lng": 85.33036708592194,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "RSnOeCkiVWVnkrk7Bu_Brg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72401557331048,
+      "lng": 85.3320962583343,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "R_uraWRurfCzWhUVmoOmpw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73461089790285,
+      "lng": 85.33360591741416,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "Rb62DUx5taT7_6yZp-VItw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72820634785654,
+      "lng": 85.33282546421133,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "RbKS6_kT4308KOz_DGu-3Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72630634283994,
+      "lng": 85.32512797511198,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "Ryz2SD4CJX5211e6TcAcuQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72102686170738,
+      "lng": 85.32922034636287,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "S1zcEFM-3LTTh8y0KY-syA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73741877105608,
+      "lng": 85.33249386482282,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "S3ASi_Lh7IgaKxzB4Jbo_g": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74009482030245,
+      "lng": 85.32996244520324,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "S94BAeanDDZXnkW5VzAh7A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72720226084426,
+      "lng": 85.32714004996218,
+      "pitch": 0,
+      "sv_date": "2024-06"
     },
     "SDyLwsg6UzbBKiwWr1ZjIw": {
       "fov": 135,
@@ -351,6 +2860,136 @@
       "pitch": 0,
       "sv_date": "2026-02"
     },
+    "SYnU4LAwxyInV29RT_ZoTg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72400205321943,
+      "lng": 85.32991031722938,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "SfhHH7TTR_7R5JncXiMnmQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74102594835188,
+      "lng": 85.3309968715712,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "TGcHhTSY7XLTgTla8J-QbQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72950817620614,
+      "lng": 85.32877602858483,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "TGmnE_5KOmMMqqk8dwQCjA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73737517872357,
+      "lng": 85.3258165780586,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "TNefBBrTeE5jkPFzI2NJYg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.7366639864589,
+      "lng": 85.32732719944023,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "TOA7sJQJce0IKxs6dGbQQw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73421459489573,
+      "lng": 85.33039145417196,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "TPOhY7Ou_Ak5GZnjpa9nCA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72932582649482,
+      "lng": 85.33151884843575,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "TWhUsmEdKh8e_OQrFxM0LA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73291137819719,
+      "lng": 85.32879889913025,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "TfVJu81H7xkGv64qtoFqWw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74109611620861,
+      "lng": 85.33066250093152,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "TkCXb0VsYs_7oZ6h93pZ4Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73645682512396,
+      "lng": 85.3248341864229,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
     "U2La5verqI_w98nxGsBnAA": {
       "fov": 135,
       "headings": [
@@ -363,6 +3002,370 @@
       "lng": 78.34721476702786,
       "pitch": 0,
       "sv_date": "2026-02"
+    },
+    "U5zy5XJDlDT91zkIIE1ZTw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73633514499959,
+      "lng": 85.32802886625682,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "U9P9HI-wlVB3RxCBWINQsA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74062521185926,
+      "lng": 85.3299361840668,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "UCbnxCTbwkNzYRJZlY28Zw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73645756426005,
+      "lng": 85.3347306430641,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "UXOMvwgwnP59MZR166bZFg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72385471020584,
+      "lng": 85.333717026799,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "UbzX_FFSINgvRr4zxPH2Ww": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73494074305663,
+      "lng": 85.33311361100972,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "Uf63noVhPDgvYJO5zrbATA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7292603841937,
+      "lng": 85.33084995378057,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "UoPHUcMwMikqsY1zvrs4Fg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73973671064831,
+      "lng": 85.32787697196818,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "UuSz9X5cys51qsTrHSBi3A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7295921337475,
+      "lng": 85.32800244646022,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "UvRSINy37k38J5xRs8FEZw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74120663336067,
+      "lng": 85.33349677923184,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "UvTDWu4M4bG_EoU3A5aL9w": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72982601554125,
+      "lng": 85.32911569463097,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "V6jc69O80wYvBqcgyJ7Vng": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7271241144806,
+      "lng": 85.32850008286968,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "V7ZDTaG7VHxbs6UGrheg0w": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73738195305555,
+      "lng": 85.33057930225844,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "VD-NY2Wn_gL-mR5JJPBWLQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73776350370348,
+      "lng": 85.33122627703543,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "VDQtKPLan7_loW43qhcyGA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74111007448332,
+      "lng": 85.33006386196591,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "VJFaOKmyBk8gPbeI80pabg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73921200373303,
+      "lng": 85.33051242778285,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "VK-ElXGOJbnZWTZGpLU_KQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73773398348506,
+      "lng": 85.33472346722549,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "VW5Tl4CHY0ngqCXqHvgLPg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73914584933233,
+      "lng": 85.33445409660082,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "VXFiYAN-Hldsexr5-H87Nw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7283666293012,
+      "lng": 85.33373169416718,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "Vi0BZVf8daand38GcRROMA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7234158658299,
+      "lng": 85.32684982110023,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "VnUvGJRkVwKvOp-4sXL9bw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72678614052898,
+      "lng": 85.32947783451023,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "W2JX7I6SEKA33H_9-YSR-Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72903817297469,
+      "lng": 85.32664784298471,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "WI6PTWXwRAruM8bd_EOehg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73410887690715,
+      "lng": 85.32993468568326,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "Wb2di0eQYDInj5Nj7_Slng": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.73003631139787,
+      "lng": 85.32898162655776,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "WdP0LJzJBS4iCU0YNazoxQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73526513044559,
+      "lng": 85.33168666226719,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "Wkz2yh6JtHvrNe9adP370Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72701065257286,
+      "lng": 85.33187371730214,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "WxJbwJgqVyEXtxwLlyTfeg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72718345379065,
+      "lng": 85.33180857932308,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "X4DgZwD2Qd0zmH00qvPQhw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72865195313882,
+      "lng": 85.32738264225138,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "X4uiA6f2foInDuumog3Urw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7278601816695,
+      "lng": 85.33232558031979,
+      "pitch": 0,
+      "sv_date": "2024-06"
     },
     "XNTQVMJzLV1H4wgkEA5neg": {
       "fov": 135,
@@ -377,6 +3380,45 @@
       "pitch": 0,
       "sv_date": "2026-02"
     },
+    "XW2HRSDfZ8T7dn4LTqEKzQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73688641138498,
+      "lng": 85.33430718811502,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "XodGny-94eaTirgjULHWEA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74015157518415,
+      "lng": 85.32977073073053,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "XvGvESzcLaPusZxlMK9BhA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73984494286508,
+      "lng": 85.3280582040458,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
     "Y8Lu6wyP3PAV-pHEzxU5Og": {
       "fov": 135,
       "headings": [
@@ -389,6 +3431,331 @@
       "lng": 78.35251350742497,
       "pitch": 0,
       "sv_date": "2026-02"
+    },
+    "YUZDuUeb2CH6tF4CEo_5cA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72312033596956,
+      "lng": 85.32702742872823,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "YbqgP6tO1Q96nu0E9W87kQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72324211644909,
+      "lng": 85.32826624952737,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "Yk99cYyPYWW7ZN7q2zEp-A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7239555014545,
+      "lng": 85.330222453431,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "YlG1owCqtyBX8kvcpCJUcA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72920803932981,
+      "lng": 85.32741592368423,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "YlZRbBCrPf2ppHzZnUawmg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72485221644345,
+      "lng": 85.33448847770305,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "YuBEDDl2gc-iSKx6-MfkKw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72357981287275,
+      "lng": 85.3310537301484,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "ZGTcq2ZRpaGDr9aSChZDKQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74192007388885,
+      "lng": 85.3314226391456,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "ZSxJvyKKVyoJCEC6N4d8yA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72716447514128,
+      "lng": 85.32819251098074,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "ZXHLAY1riWVYuboUwgDcYg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72622758549803,
+      "lng": 85.33160094163863,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "ZY5BUc4_Azr4tWnw4a8AVQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73645852032887,
+      "lng": 85.32766805748227,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "Z_Hc6Rpn5JmvzDE11s15iA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73397592681554,
+      "lng": 85.33009343524769,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "_faThrJXag0Z_QM_sUgstw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73385000872438,
+      "lng": 85.32993847107318,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "_hVkQZT7wvTUPGhCOQkZCQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73909845237326,
+      "lng": 85.33370291142484,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "_qOaj6P-aZI-NZstUp-Ofg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74184119810094,
+      "lng": 85.33275086438184,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "_uUteYl-J75RlWGd89cFuw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73890804671681,
+      "lng": 85.33429827738898,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "_wXdfHu7IQ7IIhd3o63agw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7244687948292,
+      "lng": 85.33417644475,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "a4XsR07UlVRAga_oL7sDjA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74056184434799,
+      "lng": 85.33225050665344,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "aDHzhqHYeTSwG41nIbX2EQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.7357654618708,
+      "lng": 85.33230838909019,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "aVCD7h59UZ5HSCpkP9GCZA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73717577159893,
+      "lng": 85.33404735705518,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "abW8XJEeunQgfJUNSEjbKQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72361586878793,
+      "lng": 85.33355473920409,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "amOy9Tj5hmFbQVM3foUJUA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73905345934816,
+      "lng": 85.32946214078041,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "apsW-qSuiypq4w5IpMYEiQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.7389495418244,
+      "lng": 85.3306559554481,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "avENwtzwFxSZPm_QKuF_GQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72891434779933,
+      "lng": 85.33090081908294,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "b7_7KPuKjgtDMl51o008Vg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72390679988237,
+      "lng": 85.33053174883669,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "bJX1kjRkV44XWYTuiSih5Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72422003248266,
+      "lng": 85.33134756423748,
+      "pitch": 0,
+      "sv_date": "2024-05"
     },
     "bLmEkwDMAP4xmgL6VrdwGA": {
       "fov": 135,
@@ -403,6 +3770,383 @@
       "pitch": 0,
       "sv_date": "2025-04"
     },
+    "bgKnUmbSsX-nOAgO-6jAqg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7242568800682,
+      "lng": 85.33299839978761,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "bgeqUAzKv7d9GQr5PBjN5A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7279169909502,
+      "lng": 85.33257595655942,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "c-ccM1NYhD2bbUNGs-9CdA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73684261740988,
+      "lng": 85.32695566017367,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "c7M0GcaqxtSvfp4fmQhe8w": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.7330360790204,
+      "lng": 85.32895213153749,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "cF59wbSJGtzyjOfd6-8U1A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72209624380007,
+      "lng": 85.32961663313037,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "cFkG0x5_HCce7M7To-Be0A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72685453745981,
+      "lng": 85.32605089509777,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "cFnCELqhyFD12s3TJqO3hg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72497280262784,
+      "lng": 85.33128999622329,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "cJ_Z5z44HQBVdvPCmI44lA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73629632446784,
+      "lng": 85.32904779313621,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "cLSayT8Ofr6k44ha3QV44Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73652479919203,
+      "lng": 85.33324388377558,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "ceJ0TQv5YJeWylkqy4f3Nw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72662375672896,
+      "lng": 85.32573834070823,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "d-N2DlUZuRJ0wmcHaan7yA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72201398121103,
+      "lng": 85.32972183594033,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "dFCtgR0ymDJX8p53bToHLA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74036490641212,
+      "lng": 85.33352209237015,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "dFOyNTdFGmk87ijawJzdQg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74128784482635,
+      "lng": 85.33035375829839,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "dK0Bj8uW4VEShwmD_ytrpQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73934652343406,
+      "lng": 85.33093110165905,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "dwIJXKOt8tsfHUc4E0AGhQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72849436279432,
+      "lng": 85.33250135638892,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "e2wO01uYOZY3sG9Ami0piA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73468004331623,
+      "lng": 85.3294190027159,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "e6hd29Zo-gsOqezBr-vpEQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72192904094501,
+      "lng": 85.33000755439309,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "eL4KYpE0nyek20zQE1WmPg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73627603691122,
+      "lng": 85.32460617376323,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "eWEP6eOyqh8m8BopXrtXew": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73954580740085,
+      "lng": 85.3314757119963,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "el9k7AwbxQpuWgFmwh1FOQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72477277938965,
+      "lng": 85.3331371894571,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "f3GUtSY4jx8YRPuLeRJWlg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72505193309796,
+      "lng": 85.33317338511401,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "fN3qgAWMEXtSuSWmA7HArA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73779092468348,
+      "lng": 85.33166190029631,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "fTC3_t9wJWAiLzEHQaUJGA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73922719466001,
+      "lng": 85.32934558117856,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "flMGXMdD5_hsL0SDW8kliA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73916197214069,
+      "lng": 85.33031763963362,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "fyuN1Eud017Dd3JyUhiblg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72266749353919,
+      "lng": 85.32795063207577,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "fzHFxfcv0LRR5kejgaVfcg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7223055708711,
+      "lng": 85.32795954383793,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "gK5fZepYse7v67i7etyqUg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72699348756742,
+      "lng": 85.3332777136379,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "glsvBeeLS7biQn12WrulPg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73639158328084,
+      "lng": 85.32843509859441,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "gnPIxW9IlzkDBCioM07eVg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73676150329866,
+      "lng": 85.32531323862992,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
     "gyyB3y3JEbV3Qpuf-PhYkw": {
       "fov": 135,
       "headings": [
@@ -415,6 +4159,643 @@
       "lng": 78.34825816141671,
       "pitch": 0,
       "sv_date": "2026-02"
+    },
+    "h-r5P5TzUMx2-pAO7UWKvw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73700492630635,
+      "lng": 85.32648387816278,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "hDB1BGagNRMUhrd8pzFN9Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72550645523129,
+      "lng": 85.33324199119525,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "hTyBzB5zjaelUR2XBXNAYg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73991666292313,
+      "lng": 85.33256933244692,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "hUfhaazYvjygjzxhU-Z_bA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72887864994865,
+      "lng": 85.33193120584136,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "h_svq3KBArK45RFssephTw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74172105931951,
+      "lng": 85.3310664267158,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "hhBFInBu7YNf9ws1VLxmQw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73495916571412,
+      "lng": 85.32901963883313,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "hmV6oPHLbMpjnq7YmnFLFw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73506698265913,
+      "lng": 85.32852271693768,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "hvjBGMorP3bEXrtrVczMHQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72343213294759,
+      "lng": 85.32654003163485,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "iC0E1yF5UQZb_soGhblKwQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72493886680279,
+      "lng": 85.33077740163937,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "iMBY24R6FUpSYTBQx6GFYQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73511386890664,
+      "lng": 85.32831364719303,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "iRC9Afznr1xyHjxXabxrxA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72362896683764,
+      "lng": 85.33333614698705,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "idnSpPbO7V_k6V1el98jew": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72157544724203,
+      "lng": 85.32957404722761,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "ijNc6-Kgjx5Ex80Y96ErBg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.7397833600306,
+      "lng": 85.33295644738625,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "imdSpUfy_dRuGamqWfX0aw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74006006881907,
+      "lng": 85.33111587232594,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "j3q5zlOGiUH396TRtsR2_Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72378201129643,
+      "lng": 85.32831404151618,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "j4_xIOMKMeqyCNEMzfve0A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72945035630146,
+      "lng": 85.3308866241196,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "j81p3KSw-wae3aK1NdYN5A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73685907139975,
+      "lng": 85.33513516958384,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "jEg1nOHBdFxO4CgJQp5VVA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72728594572743,
+      "lng": 85.32778012533721,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "jEluJYSspKq6xaT2qkIXoQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.7366723936897,
+      "lng": 85.33449778267654,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "jKKItcd1XQ_d0mBAZO5PGA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73587904925165,
+      "lng": 85.32828935688033,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "jOxdQDxfPW0VXzw69uapiA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72410371186289,
+      "lng": 85.32898312496746,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "jparlQpyOabD6edbupd7hw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72336327828576,
+      "lng": 85.32625043052504,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "juAy5_9jzRnkALykJv74xQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74006108550052,
+      "lng": 85.33199263728619,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "kVefhQRtd6kYD_Z8rBBgXA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7274710830823,
+      "lng": 85.33194027467262,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "kWE6vAM-JGDJ09j1DKdZXw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73724094846435,
+      "lng": 85.32934983978814,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "keUqtTywtZe1UPeKrhMgow": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72516921865484,
+      "lng": 85.3312978033959,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "ki6U_44_slNQuyrUnerhlA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73736115178004,
+      "lng": 85.33427430516305,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "kkiJoNTVmtTOYvMlxIKzwg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72709864496259,
+      "lng": 85.32685478970512,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "ktxHU1qJLOLYvFVQViIMpA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72177832214099,
+      "lng": 85.33135324217533,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "l30vRjzsBlaoleWDc4_Smw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73473612188933,
+      "lng": 85.333326132099,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "lD9CFa82mBMb-Rl2dLaTYQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.7400028833501,
+      "lng": 85.32830520867653,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "lHhKAd0eGcfDJk-AG_pVIQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73354546430426,
+      "lng": 85.3295638739237,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "lfumbZbplwtDnZMEeypFUA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72355253803293,
+      "lng": 85.32811987644332,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "liE10Kz-maD6CZVRjCheFw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74039573079394,
+      "lng": 85.33216904529993,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "m1iE9OIr4VbWPFc8ZzZi3w": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72224494550177,
+      "lng": 85.32885631204346,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "m6uFXL22sxkTgH1PVmFRvQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73869771723915,
+      "lng": 85.33178973187881,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "mXu3paUq3WCePaRnmn3dig": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72563414522742,
+      "lng": 85.33139969083905,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "mgqnvLNDIGeGsIxgiykvEw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72395853385663,
+      "lng": 85.3310877190893,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "mjCBN-ccA6_ftsrb66KpfQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73708245471614,
+      "lng": 85.32629144166879,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "mz9gvhuOYrTZxrA8w7x4NA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74176834933098,
+      "lng": 85.33304547791391,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "n-gxSuW37JDaThMauJZkdg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72915900183787,
+      "lng": 85.32669390131655,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "n7Ii-8Bhv5jw7FwN1-ntSA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72498529901077,
+      "lng": 85.33475035690164,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "n9-suOP5aXf2g9SoQZ8fXQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72724329354929,
+      "lng": 85.33031740304841,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "n9lTSCKLjgmZniU54uRxIw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72782209129754,
+      "lng": 85.32745693395273,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "nIFc_68msPiWwWPa_Bw8XQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73574215963875,
+      "lng": 85.32837074515822,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "nO8g3dPhaSSfu4zRCwFr5Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73463030253526,
+      "lng": 85.33090184427459,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "nZDkMYodoqYSYzULQFXS2Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72619773282333,
+      "lng": 85.33060982159685,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "nd_sCO3lm7T5jSwsA8MiqQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72409546808572,
+      "lng": 85.3291839114948,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "ndcrJYAm3s6eODM1WVzIkw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72840550503405,
+      "lng": 85.32871325283162,
+      "pitch": 0,
+      "sv_date": "2024-05"
     },
     "nfGyDiaaPCAI3CSb2XDO7g": {
       "fov": 135,
@@ -429,6 +4810,71 @@
       "pitch": 0,
       "sv_date": "2026-02"
     },
+    "o1u5sBe0nLHOsLcjsGsR5w": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73714425726652,
+      "lng": 85.3296441562239,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "o9g4Q1bpmSDCjhdeiTX5SA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72481233876405,
+      "lng": 85.33120435383232,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "oFGz8cFvMgGxFOD5UULsMQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72838102329681,
+      "lng": 85.32978729185922,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "oH2Y3qLMYKMXuUvd7PIGJg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72442674399035,
+      "lng": 85.3330662175111,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "oUEnwOBEPOUej4DExrPziw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72822040884626,
+      "lng": 85.33049326444515,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
     "obcfe2WlIk-OZ429AOPqDw": {
       "fov": 135,
       "headings": [
@@ -442,6 +4888,253 @@
       "pitch": 0,
       "sv_date": "2025-04"
     },
+    "oi_rOJpBiccpreDNNt9KSA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72868895417142,
+      "lng": 85.33214436240696,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "pCTzGUL5oweDN50BGHudYQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72405746280542,
+      "lng": 85.32949526321997,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "pVe2-w7M0JzvvHHKPp5MRg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72318338508706,
+      "lng": 85.32845513016323,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "pd11msrypfiwII9idtdSJQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72133382096419,
+      "lng": 85.32944329252607,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "qA8vKwcWjn960Ui1gmTT7g": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72694297477953,
+      "lng": 85.32910536351469,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "qDW3YlxyYAre4dUVq62QWQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72702982243565,
+      "lng": 85.32883139106107,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "qPvvJpUNoOLzwEw3KnwQXw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7282671946421,
+      "lng": 85.33028633151405,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "qPwbWsMAjfBA0dhtJdQbuQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72405714550204,
+      "lng": 85.33240593741758,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "qRW9TSi3YJqqtQju80f_zQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72387490529823,
+      "lng": 85.33274013966223,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "qqe27XbnCdhY_EsoHLhcHA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73754025394341,
+      "lng": 85.33448713715589,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "qu8qrQLiFChR0JG47895bw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74017266927119,
+      "lng": 85.32856995665217,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "r51rVYWvzL1EdA7azcLMJA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72686466248066,
+      "lng": 85.33359401000747,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "rB35zYzfEsPe6eY32v7m2Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72670731808368,
+      "lng": 85.32966663209231,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "rEDQ1vP2v7qb84htZ-Jb9Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72620044988831,
+      "lng": 85.33464989511133,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "rUoPkU5p_rDck-HiTg-v4A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74062569206419,
+      "lng": 85.3294252328955,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "rZ9_lGf6AXVVa7ernvNOtw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74087798025048,
+      "lng": 85.3303111729706,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "r_vfwtGtAUTLqunKisteKg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73746520460467,
+      "lng": 85.33075579370042,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "runWlVOP1PC3Q3IwtQ_IPg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72703064293235,
+      "lng": 85.32665943643833,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "s8c_Mj67gQdqGOzCGAV30Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73192550289481,
+      "lng": 85.32918178218357,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
     "sC9KqUu3oYp_CFKL-Cqwpw": {
       "fov": 135,
       "headings": [
@@ -454,6 +5147,32 @@
       "lng": 78.34642871952089,
       "pitch": 0,
       "sv_date": "2026-02"
+    },
+    "sE0DGLD_DvNYYKQ8mX-oNg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72585768031911,
+      "lng": 85.33337975510025,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "sLFXAOgk9Io-aAXit-YqwQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73672954977692,
+      "lng": 85.33349725237471,
+      "pitch": 0,
+      "sv_date": "2024-06"
     },
     "sQIfkCM5N_X_2L7WNdqbTw": {
       "fov": 135,
@@ -481,6 +5200,97 @@
       "pitch": 0,
       "sv_date": "2026-02"
     },
+    "s_adgnL3zxC6MIsfzUOQvg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73892091712153,
+      "lng": 85.33305880488032,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "seTS8TneEBo-RkeQwnOLWg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73900872209116,
+      "lng": 85.33247620049448,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "smk4kljX6oRFiq5QXevPkg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72934022437162,
+      "lng": 85.32673585853024,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "t20ZLK1XnI1QGZa0mubWbA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72857754072273,
+      "lng": 85.32767050231477,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "t57Z0vlNKAn4FCTqn2I3nw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73697918575807,
+      "lng": 85.32901814042444,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "t99GDm-ghJm2re4fX3Jaow": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72656996874847,
+      "lng": 85.32995487442646,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "tANWH-Yn2B3XOp3MPgBVIw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72414959751112,
+      "lng": 85.3319027375874,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
     "tLNX8cZhcMzN0eBdToS2hg": {
       "fov": 135,
       "headings": [
@@ -493,6 +5303,58 @@
       "lng": 78.34783418874859,
       "pitch": 0,
       "sv_date": "2026-02"
+    },
+    "tNb7OuoQWn5_Z_Zh7SbbCw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73457639150327,
+      "lng": 85.33373469072579,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "tR1azjeL42OQQGnppWrcaQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72211408374311,
+      "lng": 85.32874834732566,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "tTRwa95xEP4DB4H3BB2oYQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73771175039445,
+      "lng": 85.33195691400256,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "tXZCb8pvuatrMBrGxDO82Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73652304522792,
+      "lng": 85.32857705443547,
+      "pitch": 0,
+      "sv_date": "2024-05"
     },
     "t__9U-IsLQv3gJmArFrnaQ": {
       "fov": 135,
@@ -520,6 +5382,58 @@
       "pitch": 0,
       "sv_date": "2025-04"
     },
+    "ttu0XTzJPC34Q4hyAtol_Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73699845572168,
+      "lng": 85.32548856406237,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "uB2BpDAjUyE7TrKGpQp2Qg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72726121249556,
+      "lng": 85.327984307488,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "uQ00aLIzo4rLGHC91fS5IA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72213457885539,
+      "lng": 85.32831995636339,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "uWDG_NHBmYG4asAGVfeTUw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72697220670001,
+      "lng": 85.32901624769761,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
     "uWpeZUxUZxXmVEtR6CsuHA": {
       "fov": 135,
       "headings": [
@@ -532,6 +5446,214 @@
       "lng": 78.34645112104579,
       "pitch": 0,
       "sv_date": "2026-02"
+    },
+    "ubAziCBs2MDNw9hbzss0Ig": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72402922785548,
+      "lng": 85.32970693090687,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "uhZ9MeMKQ_fTgVaTBL1bkw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72207115898717,
+      "lng": 85.33014493215082,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "ukJG0u84U2PSl12y8UDDRA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74003193996101,
+      "lng": 85.32896948155134,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "umRKOpr2QEAzGmdIshAjQA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73730640426878,
+      "lng": 85.33263817586254,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "unUDHDPaE7XtsOGLqq4fhg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74001965978316,
+      "lng": 85.3314140433893,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "uwsN4oA8auXTBId4Qup6kA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72839335030704,
+      "lng": 85.32891451353396,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "v6MOdRjItRDK3Wdn4C_tTg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74163082370242,
+      "lng": 85.33346097807537,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "vMTekPyjw7Mxbxb3bXP3ZA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73756695067451,
+      "lng": 85.33210840264518,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "vNGeO9GVIV6xWPzWYZim5Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73120966904922,
+      "lng": 85.3314455874425,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "vhpFULMVyOjNN_V7ppgWDA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73627813629418,
+      "lng": 85.33293886206556,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "vnIzONSnQGlKCPk3a2-QTg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73599114034655,
+      "lng": 85.3286594675183,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "w0v_RTKPJdqRdy7MuoEqDg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73986914767391,
+      "lng": 85.32871356828784,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "wfifTUaqe_X359xlJoGBVA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72414007243102,
+      "lng": 85.33107257784677,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "wfoFoLqTy47B46mDA_bONQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73168547893569,
+      "lng": 85.32913012664511,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "wkUhrlgNk6lsj5hKPtHrcg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72642165906051,
+      "lng": 85.3305702332011,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "wlRj7wL1-OpPAoOe4QcDlw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73756605947741,
+      "lng": 85.33104686926913,
+      "pitch": 0,
+      "sv_date": "2024-05"
     },
     "x-cYkipyH7RqJ8vGNzj9QQ": {
       "fov": 135,
@@ -546,6 +5668,253 @@
       "pitch": 0,
       "sv_date": "2024-12"
     },
+    "x1_ttO20Nyyu3O1KVYApFQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73628753633026,
+      "lng": 85.32822705375615,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "x2zV_56CatWMt01Wfq8T9w": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72254463184126,
+      "lng": 85.33125726917446,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "xjx6tGsX-uGyyCUdXKm9Qw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73518087767022,
+      "lng": 85.32801545919746,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "xqaaPYVTPh5XQGbKWdjv6g": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73630333812136,
+      "lng": 85.32740496131878,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "xzLc_PmZoJnUypaCyBl9eQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72832024056177,
+      "lng": 85.32711370860194,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "y2UOqWxnsAM9CQQYLCYe8Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73483145898382,
+      "lng": 85.3292890362753,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "yE7FjA-8Y_zhmQISMWcMRg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72842229324491,
+      "lng": 85.32818012920431,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "yE7LXOYM0RYW10szbR2yOQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7238602278604,
+      "lng": 85.3308273995383,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "yQU2-OhBKJC5OYQxwJJcnQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73937356627441,
+      "lng": 85.330729217501,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "yUixD7E3ZBbVXZLSzoCsIg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73990742467179,
+      "lng": 85.33157278865211,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "yZW2bKx5x8wUbeZ9au6YCA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73913847251895,
+      "lng": 85.33011275644981,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "yrcGUSQcEuWfS3xRgxv_1Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72175160159543,
+      "lng": 85.32963500814853,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "yxPjiwJnyaBR4XNmo8U9OQ": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.738633012673,
+      "lng": 85.33213537246874,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "z3Bo65ZCygzgUXRr2oEshg": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.74023452997124,
+      "lng": 85.32952988403412,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "z9wWYAgZsspOfTDwnq3B3Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72212429817455,
+      "lng": 85.32935181136655,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "zCx-EYhpaV63mW0PmTE_4A": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.7288908504645,
+      "lng": 85.32697372062101,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "zNzP1M0zxGqte5Q7JkQ8bw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73928675512812,
+      "lng": 85.33113945163622,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
+    "zhVI-PjmfoMfg0iIpUUtRA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:22:19Z",
+      "lat": 27.72834708135801,
+      "lng": 85.33316084675192,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
+    "zlngbPMtzRuFK1GpUQmwxA": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73921993593269,
+      "lng": 85.3318892526198,
+      "pitch": 0,
+      "sv_date": "2024-05"
+    },
     "zlreusQ8D3Q5XZiinw_rJQ": {
       "fov": 135,
       "headings": [
@@ -559,6 +5928,19 @@
       "pitch": 0,
       "sv_date": "2026-02"
     },
+    "zpRbDs7Qho1CJpCLFGqE0Q": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73532573437939,
+      "lng": 85.33270552088385,
+      "pitch": 0,
+      "sv_date": "2024-06"
+    },
     "zsx52N_knbbPg49Q51bMKw": {
       "fov": 135,
       "headings": [
@@ -571,6 +5953,19 @@
       "lng": 78.35165335315114,
       "pitch": 0,
       "sv_date": "2025-04"
+    },
+    "zyV_fi7ngT_FWtxPdlknIw": {
+      "fov": 135,
+      "headings": [
+        0,
+        120,
+        240
+      ],
+      "last_downloaded": "2026-05-23T16:07:23Z",
+      "lat": 27.73970533471484,
+      "lng": 85.33315027982816,
+      "pitch": 0,
+      "sv_date": "2024-05"
     }
   },
   "version": 1

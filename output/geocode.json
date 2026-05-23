@@ -1,13 +1,13 @@
 {
-  "latitude": 17.4477074,
-  "longitude": 78.3486108,
-  "place_id": "ChIJK_h_8QMKzjsRlrTemJvoAp0",
+  "latitude": 27.7254865,
+  "longitude": 85.3297752,
+  "place_id": "ChIJi2_gjRYZ6zkRjU6L_VyZoc8",
   "building": null,
-  "street": "Professor CR Rao Road",
-  "area": "Gachibowli",
-  "city": "Hyderabad",
-  "state": "TS",
-  "country": "India",
-  "postal_code": "500032",
+  "street": null,
+  "area": "Baluwatar",
+  "city": "Kathmandu",
+  "state": "Bagmati Province",
+  "country": "Nepal",
+  "postal_code": "44600",
   "available_travel_modes": []
 }
