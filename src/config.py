@@ -11,19 +11,30 @@ ENV_PATH = PROJECT_ROOT / ".env.local"
 load_dotenv(ENV_PATH)
 
 
+def _env(name: str) -> str:
+    return (os.environ.get(name) or "").strip().strip('"').strip("'")
+
+
+def _optional_key(name: str) -> str:
+    val = _env(name)
+    if not val or val.startswith("your_"):
+        return ""
+    return val
+
+
 def _require(name: str) -> str:
-    val = os.environ.get(name)
+    val = _optional_key(name)
     if not val:
         raise RuntimeError(
             f"Missing required environment variable: {name}. "
-            f"Set it in {ENV_PATH}."
+            f"Set it in {ENV_PATH} (not the placeholder from .env.example)."
         )
     return val
 
 
 GCP_GMAP_KEY = _require("GCP_GMAP_KEY")
-COHERE_API_KEY = (os.environ.get("COHERE_API_KEY") or "").strip()
-OPENROUTER_API_KEY = (os.environ.get("OPENROUTER_API_KEY") or "").strip()
+COHERE_API_KEY = _optional_key("COHERE_API_KEY")
+OPENROUTER_API_KEY = _optional_key("OPENROUTER_API_KEY")
 
 OPENROUTER_MODEL_ID = os.environ.get(
     "OPENROUTER_MODEL_ID", "google/gemini-3-flash-preview"
@@ -76,11 +87,7 @@ RELEVANCY_PATH = RELEVANT_DIR / "results.json"
 FINDINGS_PATH = OUTPUT_DIR / "findings.json"
 CATALOGUE_PATH = OUTPUT_DIR / "catalogue.json"
 
-HF_TOKEN = (
-    os.environ.get("HUGGINGFACE_API_KEY")
-    or os.environ.get("HF_TOKEN")
-    or ""
-).strip()
+HF_TOKEN = _optional_key("HUGGINGFACE_API_KEY") or _optional_key("HF_TOKEN")
 HF_DATASET_REPO = os.environ.get(
     "HF_DATASET_REPO", "c4ai-ml-agents/StreetView-Agents"
 ).strip()

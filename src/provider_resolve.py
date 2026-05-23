@@ -99,6 +99,6 @@ def resolve_llm_provider(
 
     raise RuntimeError(
         f"No working LLM for {role}. Set OPENROUTER_API_KEY or COHERE_API_KEY "
-        f"(only one is required). Tried {pref} first, then {other}. "
-        "Check keys, quotas, and model IDs."
+        f"in .env.local (only one is required). Tried {pref} first, then {other}. "
+        "If you ran `cp .env.example .env.local`, replace the your_* placeholders with real keys."
     )

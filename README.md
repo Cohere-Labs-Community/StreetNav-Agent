@@ -33,10 +33,18 @@ Python **3.10 or newer** (required by Strands and dependencies). Use a venv from
 
 ## 3 Quick start
 
+First time:
+
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env.local
+```
+
+Edit `.env.local` with real keys, then every run:
+
+```bash
+source .venv/bin/activate
 python main.py "your query here"
 ```
 
