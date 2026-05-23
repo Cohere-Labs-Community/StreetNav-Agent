@@ -7,3 +7,4 @@ python-dotenv>=1.0.1
 numpy>=1.26.0
 matplotlib>=3.9.0
 requests>=2.32.0
+huggingface_hub>=0.24.0

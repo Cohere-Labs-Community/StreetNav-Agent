@@ -9,7 +9,7 @@ from typing import Any, Dict, List
 import numpy as np
 import requests
 
-from .. import _progress, config
+from .. import _progress, cache, config
 from ..clients import gmaps
 
 
@@ -222,14 +222,49 @@ def save_pano_images(
             return {"images": 0, "panos": 0}
 
         angle_interval = 360 // max(num_per_pano, 1)
+        headings_list = [
+            (step + (i * angle_interval)) % 360 for i in range(num_per_pano)
+        ]
+        all_pano_ids = [p["pano_id"] for p in pano_list]
+        pano_lookup = {p["pano_id"]: p for p in pano_list}
+
+        catalogue = cache.sync_catalogue_from_hf()
+        hits, misses = cache.plan_cache_usage(
+            all_pano_ids, catalogue, headings_list, fov, pitch
+        )
+        if cache.hf_enabled():
+            _progress.info(
+                f"cache: {len(hits)} hits, {len(misses)} misses "
+                f"(repo={config.HF_DATASET_REPO})"
+            )
+        else:
+            _progress.info(
+                f"cache: disabled (no HF token) — downloading all {len(misses)} panos"
+            )
+
+        metadata: list[dict] = []
+
+        if hits:
+            cached_md = cache.fetch_cached_images(
+                hits, headings_list, config.STREET_VIEWS_DIR
+            )
+            for m in cached_md:
+                m["pitch"] = pitch
+                m["fov"] = fov
+            metadata.extend(cached_md)
+            recovered_panos = {m["panoid"] for m in cached_md}
+            actually_cached = recovered_panos & set(hits)
+            stale_hits = [pid for pid in hits if pid not in actually_cached]
+            if stale_hits:
+                _progress.info(
+                    f"cache: {len(stale_hits)} hits missing on HF — falling back to streetview_api"
+                )
+                misses.extend(stale_hits)
+
         tasks: list[tuple[str, int]] = []
-        for pano in pano_list:
-            pano_id = pano["pano_id"]
-            headings = [
-                (step + (i * angle_interval)) % 360 for i in range(num_per_pano)
-            ]
-            for h in headings:
-                tasks.append((pano_id, h))
+        for pid in misses:
+            for h in headings_list:
+                tasks.append((pid, h))
 
         def _download(pano_id: str, heading: int):
             params = {
@@ -255,28 +290,59 @@ def save_pano_images(
                 "fov": fov,
                 "heading": heading,
                 "image": filename,
+                "source": "streetview_api",
             }
 
-        metadata: list[dict] = []
-        total_imgs = len(tasks)
-        report_every = max(total_imgs // 5, 1)
-        completed = 0
-        with ThreadPoolExecutor(max_workers=config.GCP_WORKERS) as ex:
-            futures = [ex.submit(_download, pid, h) for pid, h in tasks]
-            for fut in as_completed(futures):
-                completed += 1
-                try:
-                    result = fut.result()
-                except Exception:
-                    result = None
-                if result:
-                    metadata.append(result)
-                if completed % report_every == 0 or completed == total_imgs:
-                    _progress.info(f"downloaded {completed}/{total_imgs} images")
+        downloaded_panos: set[str] = set()
+        if tasks:
+            total_imgs = len(tasks)
+            report_every = max(total_imgs // 5, 1)
+            completed = 0
+            with ThreadPoolExecutor(max_workers=config.GCP_WORKERS) as ex:
+                futures = [ex.submit(_download, pid, h) for pid, h in tasks]
+                for fut in as_completed(futures):
+                    completed += 1
+                    try:
+                        result = fut.result()
+                    except Exception:
+                        result = None
+                    if result:
+                        metadata.append(result)
+                        downloaded_panos.add(result["panoid"])
+                    if completed % report_every == 0 or completed == total_imgs:
+                        _progress.info(
+                            f"downloaded {completed}/{total_imgs} images (streetview_api)"
+                        )
 
         config.SV_METADATA_PATH.write_text(json.dumps(metadata, indent=2))
-        _progress.done(f"{len(metadata)} images / {len(pano_list)} panos")
-        return {"images": len(metadata), "panos": len(pano_list)}
+
+        uploaded = 0
+        if downloaded_panos and cache.hf_enabled():
+            _progress.info(
+                f"cache: publishing {len(downloaded_panos)} panos to HF"
+            )
+            uploaded = cache.publish_to_hf(
+                new_or_refreshed_pano_ids=downloaded_panos,
+                pano_metadata=pano_lookup,
+                headings=headings_list,
+                fov=fov,
+                pitch=pitch,
+                source_dir=config.STREET_VIEWS_DIR,
+            )
+
+        summary = (
+            f"{len(metadata)} images / {len(pano_list)} panos "
+            f"(cache hits={len(hits) - len([p for p in hits if p in downloaded_panos])}, "
+            f"gcp={len(downloaded_panos)}, pushed={uploaded})"
+        )
+        _progress.done(summary)
+        return {
+            "images": len(metadata),
+            "panos": len(pano_list),
+            "cache_hits": len(hits),
+            "gcp_downloads": len(downloaded_panos),
+            "uploaded_to_hf": uploaded,
+        }
     except Exception as e:  # noqa: BLE001
         _progress.fail(str(e))
         return {"error": str(e)}

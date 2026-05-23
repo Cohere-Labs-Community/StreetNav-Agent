@@ -73,7 +73,37 @@ MAX_TOKENS=500 TEMP=0.1 python main.py "…"
 
 `IMAGE_PROVIDER` / `AGENT_PROVIDER` may be `OPENROUTER` or `COHERE`; each is resolved with a single cached probe per backend (see 2.2).
 
-## 6 Output files
+## 6 Shared image cache (HuggingFace)
+
+To avoid re-burning the Google Street View Static quota for places someone else has already crawled, every run consults a shared private dataset before falling back to the GCP API.
+
+### 6.1 Repo layout
+
+`HF_DATASET_REPO` (default `c4ai-ml-agents/StreetView-Agents`, private, type `dataset`):
+
+- `catalogue.json` — one entry per `pano_id` with `lat`, `lng`, `sv_date`, `last_downloaded` (UTC), `fov`, `pitch`, `headings`.
+- `images/<pano_id>/<pano_id>_<heading>.png` — cumulative across runs; one subfolder per pano.
+
+### 6.2 What happens inside `save_pano_images`
+
+1. Pull the latest `catalogue.json`.
+2. For each pano discovered in step 2 of the pipeline, classify as **hit** (catalogue has it, fresh, same `fov`/`pitch`, has every requested heading) or **miss**.
+3. **Hits** — `snapshot_download` with `allow_patterns=["images/<pid>/*", ...]` (single HF call, no per-file rate limit).
+4. **Misses** — existing 24-wide GCP downloader.
+5. Stage newly-downloaded panos into a temp folder and `upload_folder(path_in_repo="images")`, then `upload_file("catalogue.json")` with the merged catalogue. The temp folder is removed.
+
+Freshness threshold: `CACHE_MAX_AGE_DAYS` (default **730d / 2 years**).
+
+### 6.3 Concurrency & race safety
+
+- `upload_folder` is **additive** — it never deletes existing files. PNGs from concurrent runs cannot collide because each pano sits in its own subfolder.
+- The catalogue uses pull-merge-push and is **last-writer-wins**. Worst case after a race: a recent entry is missed and that pano is re-downloaded from GCP on the next query (which then re-adds it). No image data is lost.
+
+### 6.4 Disabling the cache
+
+Leave `HUGGINGFACE_API_KEY` blank in `.env.local`. The pipeline will skip every Hub call and behave exactly like the pre-cache version.
+
+## 7 Output files
 
 Under `output/`:
 
@@ -81,11 +111,11 @@ Under `output/`:
 - `street_views/` — PNGs + `metadata.json`
 - `relevant_images/` — copies of high-scoring PNGs + `results.json`
 
-## 7 Optional scripts
+## 8 Optional scripts
 
 All live under `scripts/`. Use the same venv as in section 3. See each file’s module docstring for full options.
 
-### 7.1 `baseline_nearby.py`
+### 8.1 `baseline_nearby.py`
 
 Places API baseline vs the pipeline (writes `output/baseline_nearby.json` when used with the geocode path).
 
@@ -93,7 +123,7 @@ Places API baseline vs the pipeline (writes `output/baseline_nearby.json` when u
 python scripts/baseline_nearby.py "vegetarian restaurants near NTR stadium guntur"
 ```
 
-### 7.2 `compare_results.py`
+### 8.2 `compare_results.py`
 
 Compares `output/baseline_nearby.json` (if present), `output/geocode.json`, and `output/findings.json`. No CLI arguments.
 
@@ -101,7 +131,7 @@ Compares `output/baseline_nearby.json` (if present), `output/geocode.json`, and 
 python scripts/compare_results.py
 ```
 
-### 7.3 `debug_neighbor_dist.py`
+### 8.3 `debug_neighbor_dist.py`
 
 Plots nearest-neighbor distances for panos in `output/panos.json`. No CLI arguments.
 
@@ -109,7 +139,7 @@ Plots nearest-neighbor distances for panos in `output/panos.json`. No CLI argume
 python scripts/debug_neighbor_dist.py
 ```
 
-### 7.4 `debug_pano_display.py`
+### 8.4 `debug_pano_display.py`
 
 Download headings for one pano id, or list the five closest panos to a coordinate.
 

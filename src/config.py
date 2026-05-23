@@ -67,13 +67,26 @@ LLM_WORKERS = 12
 OUTPUT_DIR = PROJECT_ROOT / "output"
 STREET_VIEWS_DIR = OUTPUT_DIR / "street_views"
 RELEVANT_DIR = OUTPUT_DIR / "relevant_images"
+CACHE_DIR = OUTPUT_DIR / "hf_cache"
 
 GEOCODE_PATH = OUTPUT_DIR / "geocode.json"
 PANOS_PATH = OUTPUT_DIR / "panos.json"
 SV_METADATA_PATH = STREET_VIEWS_DIR / "metadata.json"
 RELEVANCY_PATH = RELEVANT_DIR / "results.json"
 FINDINGS_PATH = OUTPUT_DIR / "findings.json"
+CATALOGUE_PATH = OUTPUT_DIR / "catalogue.json"
+
+HF_TOKEN = (
+    os.environ.get("HUGGINGFACE_API_KEY")
+    or os.environ.get("HF_TOKEN")
+    or ""
+).strip()
+HF_DATASET_REPO = os.environ.get(
+    "HF_DATASET_REPO", "c4ai-ml-agents/StreetView-Agents"
+).strip()
+CACHE_MAX_AGE_DAYS = int(os.environ.get("CACHE_MAX_AGE_DAYS", "730"))
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 STREET_VIEWS_DIR.mkdir(parents=True, exist_ok=True)
 RELEVANT_DIR.mkdir(parents=True, exist_ok=True)
+CACHE_DIR.mkdir(parents=True, exist_ok=True)
