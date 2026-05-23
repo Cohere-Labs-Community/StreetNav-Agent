@@ -187,6 +187,18 @@ def find_street_view_panos(
         return {"error": str(e)}
 
 
+def _clear_local_run_images() -> int:
+    """Remove PNGs from prior runs in output/street_views/ and output/relevant_images/."""
+    removed = 0
+    for directory in (config.STREET_VIEWS_DIR, config.RELEVANT_DIR):
+        if not directory.exists():
+            continue
+        for png in directory.glob("*.png"):
+            png.unlink()
+            removed += 1
+    return removed
+
+
 def save_pano_images(
     num_per_pano: int = config.DEFAULT_HEADINGS,
     fov: int = config.DEFAULT_FOV,
@@ -220,6 +232,10 @@ def save_pano_images(
         if not pano_list:
             _progress.done("0 panos")
             return {"images": 0, "panos": 0}
+
+        cleared = _clear_local_run_images()
+        if cleared:
+            _progress.info(f"cleared {cleared} pngs from prior runs")
 
         angle_interval = 360 // max(num_per_pano, 1)
         headings_list = [

@@ -76,10 +76,10 @@ def _score_one(filename: str, prompt: str) -> Dict[str, Any]:
 
 
 def filter_relevant_images(user_query_text: str) -> Dict[str, Any]:
-    """Score every PNG in output/street_views/ for relevance to the user's
-    query using a vision LLM. Images marked YES are copied into
-    output/relevant_images/ and the full per-image result list is written to
-    output/relevant_images/results.json.
+    """Score PNGs from the current run (``street_views/metadata.json``) for
+    relevance to the user's query using a vision LLM. Images marked YES are
+    copied into output/relevant_images/ and the full per-image result list is
+    written to output/relevant_images/results.json.
 
     Args:
         user_query_text: The user's original natural-language query, e.g.
@@ -96,9 +96,18 @@ def filter_relevant_images(user_query_text: str) -> Dict[str, Any]:
             _progress.fail("street_views/ missing")
             return {"error": "street_views/ missing — run save_pano_images first."}
 
-        image_files = [
-            f for f in os.listdir(config.STREET_VIEWS_DIR) if f.endswith(".png")
-        ]
+        if config.SV_METADATA_PATH.exists():
+            saved = json.loads(config.SV_METADATA_PATH.read_text())
+            image_files = [
+                m["image"]
+                for m in saved
+                if m.get("image")
+                and os.path.isfile(os.path.join(config.STREET_VIEWS_DIR, m["image"]))
+            ]
+        else:
+            image_files = [
+                f for f in os.listdir(config.STREET_VIEWS_DIR) if f.endswith(".png")
+            ]
         if not image_files:
             _progress.done("0 images")
             return {"yes": 0, "no": 0, "errors": 0, "total": 0}

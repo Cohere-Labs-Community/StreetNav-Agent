@@ -1,2018 +1,310 @@
 [
   {
-    "pano_id": "Wn-Zon9FlU4n5NsKBEyhxA",
-    "lat": 12.95796497400793,
-    "lng": 77.57775428817425,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "-kDYMBvb-Dreu6oLpJwl7Q",
-    "lat": 12.95875566911405,
-    "lng": 77.57848604329,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "gdSyDEQXAX_TmUO6JUMPvg",
-    "lat": 12.9589757515932,
-    "lng": 77.57734844537225,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "1Er9GZAuPWuvsEq-VHahFQ",
-    "lat": 12.95879321314714,
-    "lng": 77.57633606192763,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "EAueg_gn3R8e1JW99TNnDw",
-    "lat": 12.95848718603548,
-    "lng": 77.57762058145201,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "NmJmp_CEG8IHejPgzcePpA",
-    "lat": 12.95832226533274,
-    "lng": 77.57694723584484,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "NLSUxTOx63wm-ZqD4u1aPQ",
-    "lat": 12.95803496937503,
-    "lng": 77.577571436103,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "osX3Gb1jW964ewv91Ux8Dg",
-    "lat": 12.95833859815592,
-    "lng": 77.57667046340394,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "j-gaf-YCEIXRqri5136Vgw",
-    "lat": 12.95927688770472,
-    "lng": 77.5763760257544,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "q6E7ZdLbODdnURgxSP3lig",
-    "lat": 12.95791395284443,
-    "lng": 77.5781235767503,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Qc0N-ISIN-yv5M0HCj-YnA",
-    "lat": 12.95832951904113,
-    "lng": 77.57732894459333,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "3BUfS0F4j0XJZxImHmnIyg",
-    "lat": 12.95827364129246,
-    "lng": 77.57831552238461,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "oxhsZ1oIzBUqRMlF_WeH_g",
-    "lat": 12.95922951672876,
-    "lng": 77.57655783038108,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "THPxgZuYDWel5u0w-teQsg",
-    "lat": 12.95908021544587,
-    "lng": 77.577100793975,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "zK-Bq_A8MA0zpJW2_Jo0CQ",
-    "lat": 12.95853307400064,
-    "lng": 77.57838224418488,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "pqMAqx_rI8NcTm37BjBSgA",
-    "lat": 12.9588398542243,
-    "lng": 77.57783141650592,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "q5kVNrdsxHPfdbvRC2ZTgg",
-    "lat": 12.95833111943579,
-    "lng": 77.57751442047562,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Y1EzqpGCQXW4XX4GcU1O_w",
-    "lat": 12.9583356495164,
-    "lng": 77.57640864392201,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "JU9ab5RHOSJF8VuI3VwBPw",
-    "lat": 12.9593215081395,
-    "lng": 77.57619439573223,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "6sL_4M6fUqijkTEVWq7a5w",
-    "lat": 12.95864282775035,
-    "lng": 77.57882655965187,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "i9H-H1bv8vpyVoSTus371A",
-    "lat": 12.95878690963115,
-    "lng": 77.57810879823465,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Co8qu5taWto8Vi_AVXI4Tg",
-    "lat": 12.95820540091319,
-    "lng": 77.57875695238441,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "PS75AIWAVMNuJN3p6znBKA",
-    "lat": 12.9588958392907,
-    "lng": 77.57882970771823,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "F1jv30AEhhVtCK1Fh5I9FA",
-    "lat": 12.96007253098298,
-    "lng": 77.57867160472163,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "wg9vYrUNwIUDu1ZXKm7_kw",
-    "lat": 12.95881261037095,
-    "lng": 77.57866600815133,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "xyE_Oevrypf_7MOvhDyBVQ",
-    "lat": 12.95971081208656,
-    "lng": 77.57766754060006,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "UBk-mYhl5sAWQtbe6fIHWQ",
-    "lat": 12.95933879276203,
-    "lng": 77.57765652225422,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "-UNAK-NDFneEW1_4RqZtZw",
-    "lat": 12.95915412370211,
-    "lng": 77.57764392985766,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "MKV8jt4yVNs04aHhHHb_-Q",
-    "lat": 12.95998561782416,
-    "lng": 77.57766850251909,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "jEggcctk10cWrf4dMgZ4HQ",
-    "lat": 12.95987429397187,
-    "lng": 77.5788607511457,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "IY9COuEG3rwn9MLqayFmnw",
-    "lat": 12.95915454560753,
-    "lng": 77.5768289189885,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "r60xys9OYcSVd_yBR4tXvg",
-    "lat": 12.95951574695212,
-    "lng": 77.57664213026277,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "IYc5UXrnbJJP1kRms1KLAA",
-    "lat": 12.95944780636268,
-    "lng": 77.57574849585208,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "UkTMDoGZcbuU6zTxoZmqEg",
-    "lat": 12.96002549650834,
-    "lng": 77.57579291976676,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "zdem5FhsflWC4PaMkixYig",
-    "lat": 12.96005713650936,
-    "lng": 77.57675266445233,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "6Yi_AuLlOXs67SBE-oOyng",
-    "lat": 12.95951999380234,
-    "lng": 77.57547513098538,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Lja0Q9ywId4CsyxDwrsMoA",
-    "lat": 12.95980672467384,
-    "lng": 77.57531378768796,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "ASUybeYK1sJn66oiJz2XiA",
-    "lat": 12.95964594734336,
-    "lng": 77.57530320635797,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Ao4G2jphb9vaqD4bjGlvvA",
-    "lat": 12.9600792146822,
-    "lng": 77.57533293901821,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "ohXG5UAXAKHu0yOLrSBLqg",
-    "lat": 12.95996228856744,
-    "lng": 77.57615967874247,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "8-w6swNJZ3A0vM2icJEAcg",
-    "lat": 12.95971347979383,
-    "lng": 77.57668253122117,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "A1UA8OVVM5ChmwmJLDBBpw",
-    "lat": 12.96030789075299,
-    "lng": 77.57626662802438,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "EU5gIxoVHBJ-o_0wadMFkw",
-    "lat": 12.96016221312114,
-    "lng": 77.57556161789402,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Tj_5pnegPkdNDvfa_2ZN9A",
-    "lat": 12.96038959307385,
-    "lng": 77.5763054550486,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "TJ-rLEsPjB0lC2eoVTXmSQ",
-    "lat": 12.96055438995879,
-    "lng": 77.57638337140155,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "0VEuye661zLaq8Zxwr1yow",
-    "lat": 12.96081949106443,
-    "lng": 77.57646924547922,
-    "date": "2025-01",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "GuSxJUZQtf93THPsGsS0cQ",
-    "lat": 12.96074887954542,
-    "lng": 77.57674313263169,
-    "date": "2025-01",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "JOQeY5rV2z0aV5B0s6AAyg",
-    "lat": 12.96027906625566,
-    "lng": 77.57678528251135,
-    "date": "2021-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "rw46B9ReNPYtU5j6OVUPlA",
-    "lat": 12.95999396800532,
-    "lng": 77.57402635612759,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "ao-NtsmbDjHIqV12tUpvCA",
-    "lat": 12.95997258382737,
-    "lng": 77.57460990846545,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "VxC0it1R6h20QjoUp68-Fw",
-    "lat": 12.96048382546319,
-    "lng": 77.5748033467002,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "wovrJFP88EEB-5JvrSjvag",
-    "lat": 12.96001541922239,
-    "lng": 77.57639473966404,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "H_wPUUTpW25nlSy3y2bO5g",
-    "lat": 12.96074107689135,
-    "lng": 77.57489989079494,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "iHo7pXDiLC8P6wHb0Hg5sA",
-    "lat": 12.95987920779304,
-    "lng": 77.57437877907422,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "V4XodVeBlbHcbnJAVKKmMw",
-    "lat": 12.96090531698196,
-    "lng": 77.57497877005758,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "762IS7BdkCwEkLM77ADWIg",
-    "lat": 12.96114783099701,
-    "lng": 77.57510224834947,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "MHQH-TXWQ1J0HQLIZrbiPg",
-    "lat": 12.95972030090929,
-    "lng": 77.57457711488023,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "tBhklk21-Pbk0gjT9OsVsg",
-    "lat": 12.96139102960339,
-    "lng": 77.57523455886256,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "L66JBZukqo0KbHKUicJevg",
-    "lat": 12.96113255021379,
-    "lng": 77.57623331022951,
-    "date": "2025-01",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "9ElmcaXnO1pAOMn0qY6MeA",
-    "lat": 12.96106592600971,
-    "lng": 77.57525257336857,
-    "date": "2025-01",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "__-DT8HaNkADKc3Rnhbe9w",
-    "lat": 12.96141441257548,
-    "lng": 77.57562702958688,
-    "date": "2025-01",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "YtfIPQ3EXcwYyLPHP3Fiog",
-    "lat": 12.96104919075215,
-    "lng": 77.57637672533986,
-    "date": "2025-01",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "xS-0Osb7IwJL5RgswAVcGw",
-    "lat": 12.96125626996043,
-    "lng": 77.57598810494902,
-    "date": "2025-01",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "y2r43sso2FyTSwAhBDeGKg",
-    "lat": 12.96064097809582,
-    "lng": 77.576842385954,
-    "date": "2021-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "1n_iVudU43ubcRTzhBA2fw",
-    "lat": 12.95968340244808,
-    "lng": 77.57484567220114,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "PZZerDxKg1qGcKtTEXg90A",
-    "lat": 12.96036950836265,
-    "lng": 77.57679971140847,
-    "date": "2021-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "eB-FvNv5L18qLJtPiCRUJw",
-    "lat": 12.96133851872646,
-    "lng": 77.57580909776286,
-    "date": "2025-01",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "UXMpZ0h_FNaf4bVChnWM9Q",
-    "lat": 12.96031287311621,
-    "lng": 77.57474082036302,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "_PDiebLs4cf9rYTVmFRlaA",
-    "lat": 12.96113150243553,
-    "lng": 77.57969804601082,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "F7AK65A9Q15oQM8jW2Nbfw",
-    "lat": 12.96093115062946,
-    "lng": 77.58026241860361,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "06R1vUK9KyDrEAaUT-Urrw",
-    "lat": 12.96122877384609,
-    "lng": 77.58080894965123,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "0eFMB2iGZJO0Mk-Hng2XoA",
-    "lat": 12.96108136372747,
-    "lng": 77.57988867729142,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "fVwFxnRnDXGd9jZnwBzkCw",
-    "lat": 12.96114428464949,
-    "lng": 77.5804668652471,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "DP0LiVn7frDNlFEb8rN7Kw",
-    "lat": 12.96140565913597,
-    "lng": 77.58061674591349,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "rIcXfalAYXDmZlSv7NUTyQ",
-    "lat": 12.9611033781072,
-    "lng": 77.58102126532029,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "JTB5xBvApC9Cvcqk8MJpAg",
-    "lat": 12.9616765346908,
-    "lng": 77.57851044087545,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "6i_Hbt3bpx_1Q0MlXg41pw",
-    "lat": 12.96158557516244,
-    "lng": 77.57963858297681,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "sLyJPYCPURx2wc7qXg-Zfw",
-    "lat": 12.96180960957665,
-    "lng": 77.57773426278249,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "oOn9lVpE2icuy7b7POQg9A",
-    "lat": 12.96160967065054,
-    "lng": 77.57867956234455,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "ha16f2nyz8TYuORvj5E0KA",
-    "lat": 12.96091113902352,
-    "lng": 77.57559379905246,
-    "date": "2025-01",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "kbY-4dpIVf74W_En15JXrQ",
-    "lat": 12.96057969228342,
-    "lng": 77.58079871861428,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "qzusJtf8Zkm6qL-uChrbkw",
-    "lat": 12.96160226403764,
-    "lng": 77.57896087707203,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "OlE6jwxDRKjdLzf2CjCxQw",
-    "lat": 12.96055144199648,
-    "lng": 77.57682708258399,
-    "date": "2021-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "ZXEFH2hA4KwZW5sq0sGkTw",
-    "lat": 12.96154672003668,
-    "lng": 77.57533101514042,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "0eS3JTDw5sKUdhN8xKeC6A",
-    "lat": 12.96171491889719,
-    "lng": 77.57540971920471,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "iQX1G1YsbF8mcbOIVVtBpw",
-    "lat": 12.96180037685374,
-    "lng": 77.5769050860255,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "h-RdPcB0R7oSeVLESIzkRw",
-    "lat": 12.96217678045448,
-    "lng": 77.5760634855162,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "sH_EKQr_bdz-Uo6Z-pFuoA",
-    "lat": 12.96194976290597,
-    "lng": 77.57554753863434,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "A3m_0a3Zkc0l7QoKmD7gBg",
-    "lat": 12.96146236397033,
-    "lng": 77.57700241535639,
-    "date": "2021-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "rzXN-yyb_smVCAvsYS5LMQ",
-    "lat": 12.96157676828175,
-    "lng": 77.57760938820714,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "RAdXYZzfB4pwNcNA_zYKcw",
-    "lat": 12.96219919257424,
-    "lng": 77.57581635599819,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "AxZXVXNtTLkJ0zaGqV9dgQ",
-    "lat": 12.96167376178243,
-    "lng": 77.57725312763169,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "ztP1jGvmDRGcTB7AZP7tOA",
-    "lat": 12.96189953863321,
-    "lng": 77.57664580307778,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "5pueA-vowwFabPja2fVpXg",
-    "lat": 12.96071371785903,
-    "lng": 77.57767453637463,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "FaNm4oKeLWZ2b_gORn2mBA",
-    "lat": 12.96081303603825,
-    "lng": 77.57825474692288,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "fvAHaaTXpD1_HIC3aF_bkA",
-    "lat": 12.96126270145872,
-    "lng": 77.57770986502963,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "oTkeS5Pv0vTnd_r0KorJ8A",
-    "lat": 12.96113973398371,
-    "lng": 77.57807460651355,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "hUSqbuWAVnqB9zNJoDhpdg",
-    "lat": 12.96166594298044,
-    "lng": 77.57994158178711,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "CZlBeVaE36iDOmkum-bNCQ",
-    "lat": 12.9617629470073,
-    "lng": 77.57966962618228,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Ielg1zBwMJDlRKBpNSgc7w",
-    "lat": 12.96158424427831,
-    "lng": 77.57924201620794,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "ZdF9Y23EXHu04ksqjhCk2g",
-    "lat": 12.96172291629147,
-    "lng": 77.57707254838927,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "TK5W0W4pCk8K5ZcJrLCz2w",
-    "lat": 12.9613262173554,
-    "lng": 77.58118732247888,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "DgmzkcNlzCb1PGrKEwFERg",
-    "lat": 12.96137197645736,
-    "lng": 77.57855416413368,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "7Kxt_LKYLac64yae6tBIOA",
-    "lat": 12.96146753749208,
-    "lng": 77.58145271611495,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "eoIzoE2SNlCkxYqYbquswg",
-    "lat": 12.96150916929463,
-    "lng": 77.58027396136663,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Ek2B4DoAbLmRZL6lR5bhHQ",
-    "lat": 12.96185042091842,
-    "lng": 77.58095305851784,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "CAoSF0NJSE0wb2dLRUlDQWdJQ1A0OF9BZ2dF",
-    "lat": 12.96131873801114,
-    "lng": 77.58182006884836,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "nzNsFvyqTsMNiiwHM3Wf4Q",
-    "lat": 12.96155707432277,
-    "lng": 77.58189789395885,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "fhhWT1xy2jMDiQc0cjNwEA",
-    "lat": 12.96224233636962,
-    "lng": 77.57855293988267,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Ihm5EQFCCfBpLJbaDqg-Pg",
-    "lat": 12.9617261196064,
-    "lng": 77.58136186149385,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "O7mCiFvC0H_PfgEJjlSwxA",
-    "lat": 12.96211650087442,
-    "lng": 77.57967653438742,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "oJFseNK_zNfZSeDdkmcARw",
-    "lat": 12.96226264158423,
-    "lng": 77.57769080154885,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "zI18AFYQn6zBbhIoOynHBQ",
-    "lat": 12.96193840378435,
-    "lng": 77.58054381683924,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "FNC7IAuUPTX4JdzybPb-oQ",
-    "lat": 12.96208866021803,
-    "lng": 77.58004380544504,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "5ZSNXYBDAQN0OCzBPRyqCg",
-    "lat": 12.96164811048486,
-    "lng": 77.58074782575004,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "dBc91qYcUjqdLXVmPC3KUQ",
-    "lat": 12.96091052497056,
-    "lng": 77.57689345547092,
-    "date": "2021-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "dULPapADIwVJjP0Dlv444g",
-    "lat": 12.96201558375989,
-    "lng": 77.57639517690487,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "sdeRDgljrZoQJPuaVfEe1g",
-    "lat": 12.96118140162794,
-    "lng": 77.57694706094937,
-    "date": "2021-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "TqDKHM1-cKTU-ZMuH_ltDg",
-    "lat": 12.96166443001671,
-    "lng": 77.58153465135553,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "CAoSHENJQUJJaENoQnJ3NW5NOVZiNzNja3RrQ2hfaEo.",
-    "lat": 12.96202713088064,
-    "lng": 77.57764121899433,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "i0gzRxuyOH1Pyvh3bOtOAg",
-    "lat": 12.96181127564675,
-    "lng": 77.58036910167155,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "0DzTpi3rh9L4zME8hAa0jw",
-    "lat": 12.96149835750431,
-    "lng": 77.58126908302293,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "yEmZRGIsGSp8Kb__yXjP-Q",
-    "lat": 12.96212408437315,
-    "lng": 77.5805665525269,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "PjgMwkH9Lzk16abyEjxPVA",
-    "lat": 12.96206832279173,
-    "lng": 77.58034129412748,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "YFrQaAO8oxGonjrVaqFrBw",
-    "lat": 12.96218802841461,
-    "lng": 77.57885034503997,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "VkMsfk15AbJWERqYLtYrBA",
-    "lat": 12.96213213248797,
-    "lng": 77.5808752327571,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "KXVNqCFXZ19odAXhZsIUUA",
-    "lat": 12.96212331722239,
-    "lng": 77.58096792410649,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "GNsNBiGtpZRtd8TpVAMG8Q",
-    "lat": 12.96160105831294,
-    "lng": 77.58171548580654,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "6V-gdWvLY8ZK4xBtjvYF5A",
-    "lat": 12.96218975236556,
-    "lng": 77.5818895867867,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "RYquvm4yYAUkIXslRvI8uA",
-    "lat": 12.96244047876248,
-    "lng": 77.57765451096876,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "5-1Q3W5YbO-VfiNtFVdLyg",
-    "lat": 12.96216642942325,
-    "lng": 77.57903205824435,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Vxrnp0wa7nXAY2dvwqx7Jw",
-    "lat": 12.96155212638354,
-    "lng": 77.5811162301075,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "vR04olZrbvtVcGB1tY6cow",
-    "lat": 12.9620972627362,
-    "lng": 77.57995207523787,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "8UW5U0NUwmVtANQLgDVoNw",
-    "lat": 12.96214017145785,
-    "lng": 77.5794035287952,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "uPajzwRQN6pBWyO08ArH3g",
-    "lat": 12.96239215095349,
-    "lng": 77.580583167065,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "caYpj0lGE2EfNuEZgZW6rQ",
-    "lat": 12.96255058251459,
-    "lng": 77.58061831992177,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Nx5T4CniPzSQQxd9kbvWvA",
-    "lat": 12.96191456565115,
-    "lng": 77.5799142988106,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "eF588NZAKQDw4TvOIqD1lQ",
-    "lat": 12.96252463943765,
-    "lng": 77.58108413796458,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "zip0sVJfhndtFWcQYpZYNg",
-    "lat": 12.96253465967999,
-    "lng": 77.58089648181844,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "X3lDYdalTekD-GShAjOL0Q",
-    "lat": 12.9621477178026,
-    "lng": 77.57922181618757,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "CoBLRgX9PujGU5DJixBoLA",
-    "lat": 12.96301074900638,
-    "lng": 77.57980420493791,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "kmY2Pt4Lkk2KiWjGjIGWwQ",
-    "lat": 12.96290020392299,
-    "lng": 77.58115776624628,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "IC1qYkZQXf-m6H85XFmilw",
-    "lat": 12.9626507357209,
-    "lng": 77.57977779638381,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "m60-UyRFj0VbxTdKNN_kPw",
-    "lat": 12.96270154897385,
-    "lng": 77.57913200912694,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "jpawys69tJ9EZoYRX2d0OQ",
-    "lat": 12.96281880131211,
-    "lng": 77.57816686292408,
+    "pano_id": "7BD821HuR1ZzzYPf4_iOFg",
+    "lat": 17.44602058297901,
+    "lng": 78.35162956358032,
     "date": "2025-04",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "4GRGhLHyCx2cU4H5-AtWyA",
-    "lat": 12.96273393699956,
-    "lng": 77.57866941856139,
+    "pano_id": "x-cYkipyH7RqJ8vGNzj9QQ",
+    "lat": 17.44555077681315,
+    "lng": 78.35228073598918,
+    "date": "2024-12",
+    "source_found": "outdoor"
+  },
+  {
+    "pano_id": "sQIfkCM5N_X_2L7WNdqbTw",
+    "lat": 17.44904200688633,
+    "lng": 78.34855831877603,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "hn0E52Z0d55pio7I-yXHSg",
-    "lat": 12.96286990790205,
-    "lng": 77.5777689792891,
+    "pano_id": "zsx52N_knbbPg49Q51bMKw",
+    "lat": 17.44618137550179,
+    "lng": 78.35165335315114,
     "date": "2025-04",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "g4Zt6FyMZUt_VHmhyIYgYA",
-    "lat": 12.96250527809534,
-    "lng": 77.58136789515237,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "tETaFeKmrM_zRA6CFRcG3g",
-    "lat": 12.96260216413032,
-    "lng": 77.5801531995224,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "hg44RB3mhJVHyk13CN5VoQ",
-    "lat": 12.9628749942943,
-    "lng": 77.57751651921089,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "D1hXf71qlLyeQzexjcv23A",
-    "lat": 12.96319313341663,
-    "lng": 77.57981933301414,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "5CpuSdn4O62KJ9yj-ZetrQ",
-    "lat": 12.96354507307479,
-    "lng": 77.57983559787998,
+    "pano_id": "tpt5UFGEMS_fsl8N4Drq2w",
+    "lat": 17.44577792692678,
+    "lng": 78.3520421468944,
     "date": "2025-04",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "1PZA07LbXhlNG4qWiwgpOg",
-    "lat": 12.96354361602484,
-    "lng": 77.57889747857003,
+    "pano_id": "EdKTHttQINnLqC8byvvsBQ",
+    "lat": 17.44884655421507,
+    "lng": 78.34875428450815,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "yY3Ui1FH2UFRf21R7pEdoQ",
-    "lat": 12.96256452822863,
-    "lng": 77.58186623925745,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "8P0VSt4TEhWsv-LHahxISg",
-    "lat": 12.96356334486571,
-    "lng": 77.57955970696288,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "yPPEwtdQS1TvCZdTH78Xxw",
-    "lat": 12.96355810752799,
-    "lng": 77.57861651347069,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "WK8_9egNJ_V_bUVpM6c8yw",
-    "lat": 12.96382384396497,
-    "lng": 77.5776859045074,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "clBbVFyqB552ShudEE2tzA",
-    "lat": 12.96369316962888,
-    "lng": 77.57804636117092,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "RWKU5lFHWjFDrAXqFf9cJg",
-    "lat": 12.96415594214912,
-    "lng": 77.57650247575656,
-    "date": "2021-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "8R9_ImeKX8MKu5IvaGFUWw",
-    "lat": 12.96431185191733,
-    "lng": 77.5761504966653,
-    "date": "2021-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "2j8Vfmd7g_9_l7zNJWGkrA",
-    "lat": 12.96447524909975,
-    "lng": 77.5757982541333,
-    "date": "2021-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "KnyFYso-8wdZA4oSbiPddg",
-    "lat": 12.96392198483231,
-    "lng": 77.57742330034891,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "L-9zuOfS6kWOsomVIDsf3A",
-    "lat": 12.9646155519422,
-    "lng": 77.57535497616136,
-    "date": "2021-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "fBhVH97szVcZi_HWY5wYLg",
-    "lat": 12.96457008308043,
-    "lng": 77.57555654586278,
-    "date": "2021-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "E_xsEOW05QEHB1DLd_iq-Q",
-    "lat": 12.96462844094201,
-    "lng": 77.57517150806893,
-    "date": "2021-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "cjdyvkiXBK2qYoTP2Fbvnw",
-    "lat": 12.96465822536359,
-    "lng": 77.57476425681233,
-    "date": "2025-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "PiNJEIURECjb9YkahQaiSA",
-    "lat": 12.96461075606862,
-    "lng": 77.57449115191704,
-    "date": "2025-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "TmwIGqrGmiH9Yn3kwm58mQ",
-    "lat": 12.96459375350897,
-    "lng": 77.57366929721913,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "AUTMWTwLQXqiOKOPkg_IYg",
-    "lat": 12.9647790408113,
-    "lng": 77.57517649266832,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "DOtJtbFR9WTTHftlz88Z-w",
-    "lat": 12.96477119294394,
-    "lng": 77.57498314252064,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "lrBWFNVsurkNGF3GjY6qKA",
-    "lat": 12.96306945451622,
-    "lng": 77.58112392522489,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "8OK-soVXr5_eW2I_vdd7HQ",
-    "lat": 12.9645249118865,
-    "lng": 77.57382233509642,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "xAcKk61k1lN_q63Bxh8aZQ",
-    "lat": 12.96441153554833,
-    "lng": 77.57629408677712,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "yhOqw9AUDixRXyPX5wWXBg",
-    "lat": 12.96474328593449,
-    "lng": 77.57478681876268,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "_UzibsREV10Gb5fHVSl7Gw",
-    "lat": 12.96460234019981,
-    "lng": 77.57587004943547,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "z4Be5dXAofF9WpLJlY1ztg",
-    "lat": 12.96471101165159,
-    "lng": 77.57558269305589,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "J7aHltSEctjKI52IhuC_XQ",
-    "lat": 12.96475361460505,
-    "lng": 77.57538427156325,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "VmyRJFoVGKQopTe2ctVWjw",
-    "lat": 12.96452033292403,
-    "lng": 77.5760522921173,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "m4dxFZL2UB5wlFOoCoznaw",
-    "lat": 12.9639338826137,
-    "lng": 77.5770330220469,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "2J_PKQAezZicUWM67eNtcw",
-    "lat": 12.96405012291197,
-    "lng": 77.57682402190974,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Hwicw8BWDXOl6zIk6-X_Wg",
-    "lat": 12.9636597000927,
-    "lng": 77.5772456945935,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "-ix_u4MfndIegNjO0N72kg",
-    "lat": 12.96388853554378,
-    "lng": 77.57709930736542,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "1zfOqsJAnnwUG3lnobUG7w",
-    "lat": 12.96322136733929,
-    "lng": 77.57740651045192,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "N8pPCQ4FhWkMFqgKRLaFhw",
-    "lat": 12.96305048048388,
-    "lng": 77.57746719892201,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "vS09ih7akmcMoOamtXoHtQ",
-    "lat": 12.96349304047053,
-    "lng": 77.57732256092955,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "giI0NKf4BGsYTcj2-PB7xg",
-    "lat": 12.96463806834525,
-    "lng": 77.57416146629515,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "gI0qJ9eVQ4Dm2XxhSHB21w",
-    "lat": 12.96311850633639,
-    "lng": 77.57873850120457,
+    "pano_id": "4KqoFZSH-OozVn9TKfLRSw",
+    "lat": 17.44651698646133,
+    "lng": 78.35132403207318,
     "date": "2025-04",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "zsTrd0YmH1dVAJY5xfTKRg",
-    "lat": 12.9628338733053,
-    "lng": 77.58193803070839,
+    "pano_id": "MlDib5VknxiIVWPpCcvrBQ",
+    "lat": 17.44631778283759,
+    "lng": 78.35151973209668,
+    "date": "2025-04",
+    "source_found": "outdoor"
+  },
+  {
+    "pano_id": "9X2HkxRH4E8snTAGFyoDNA",
+    "lat": 17.44597589905511,
+    "lng": 78.35259859345875,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "509qKN4X1qreDer9NnU4cQ",
-    "lat": 12.96426987720229,
-    "lng": 77.57687753997327,
+    "pano_id": "1OCbuNnuTgyLWvPOVakAtQ",
+    "lat": 17.44647044995806,
+    "lng": 78.35283874407038,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "lTmDqu7oAiiEHpvxJQnjvg",
-    "lat": 12.96284446631159,
-    "lng": 77.58180703969542,
-    "date": "2024-11",
+    "pano_id": "CqNSp7O35Y33HSpJI-l8Ww",
+    "lat": 17.44597751227727,
+    "lng": 78.35184688197467,
+    "date": "2025-04",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "HWDrfbusxOhTvD-7rpc9ZA",
-    "lat": 12.96287673339935,
-    "lng": 77.58143137971386,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "BtuopTvKGVE9PB_VhV9WZw",
-    "lat": 12.96232702718842,
-    "lng": 77.57595198871981,
+    "pano_id": "Y8Lu6wyP3PAV-pHEzxU5Og",
+    "lat": 17.44581646791806,
+    "lng": 78.35251350742497,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "UwUis1My5DM_ChXDc68qLg",
-    "lat": 12.96296615781854,
-    "lng": 77.57632845393276,
+    "pano_id": "71dF60OysDzYMEx1q_7gSg",
+    "lat": 17.44694891227315,
+    "lng": 78.35069499377579,
+    "date": "2025-04",
+    "source_found": "outdoor"
+  },
+  {
+    "pano_id": "FcpB9L2AsOYuoCu0Bod5KA",
+    "lat": 17.44672951435509,
+    "lng": 78.3511132243577,
+    "date": "2025-04",
+    "source_found": "outdoor"
+  },
+  {
+    "pano_id": "Afiv9nUs3KBgWKUCgNSC0A",
+    "lat": 17.44687731651862,
+    "lng": 78.35293885007175,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "lvABvH6q-minqNp4fX8pag",
-    "lat": 12.9631342559056,
-    "lng": 77.57640322213608,
+    "pano_id": "t__9U-IsLQv3gJmArFrnaQ",
+    "lat": 17.44686158667712,
+    "lng": 78.3509769110675,
+    "date": "2025-04",
+    "source_found": "outdoor"
+  },
+  {
+    "pano_id": "OBJHFgzHNwHOgeDNB3giUQ",
+    "lat": 17.44851337605882,
+    "lng": 78.3490780569405,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "Jkzsv-tB37Jbs74ap2Nwdw",
-    "lat": 12.96434286771154,
-    "lng": 77.57647046975276,
+    "pano_id": "Cv8fq1cOxVUpNoU3SvRNHw",
+    "lat": 17.44793006514992,
+    "lng": 78.34968904549366,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "2DhY0lzpFAxmWnT7mzmPVQ",
-    "lat": 12.96351187688663,
-    "lng": 77.58102642455111,
-    "date": "2025-11",
+    "pano_id": "obcfe2WlIk-OZ429AOPqDw",
+    "lat": 17.44714648168143,
+    "lng": 78.35049269355193,
+    "date": "2025-04",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "G8wZncc8V5NsKJE1Nj9amg",
-    "lat": 12.96330137644172,
-    "lng": 77.57647737815326,
+    "pano_id": "D5JeBDfVYxOVSLgb4XW-Iw",
+    "lat": 17.4474963402113,
+    "lng": 78.35031461693305,
+    "date": "2025-04",
+    "source_found": "outdoor"
+  },
+  {
+    "pano_id": "bLmEkwDMAP4xmgL6VrdwGA",
+    "lat": 17.44736927495881,
+    "lng": 78.35044693718032,
+    "date": "2025-04",
+    "source_found": "outdoor"
+  },
+  {
+    "pano_id": "sSCQKjWAMiikWAOvimaf9g",
+    "lat": 17.44771163543365,
+    "lng": 78.35337816927897,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "QnmnzMYABAFazMH7GccP_g",
-    "lat": 12.96355286888051,
-    "lng": 77.57659560792919,
+    "pano_id": "A-vBcekEokFRpZi2Xnk_MA",
+    "lat": 17.44729267317159,
+    "lng": 78.35315581842728,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "_HrDhNEjkrc1HhdN6YvpNg",
-    "lat": 12.96436461186489,
-    "lng": 77.57846697994,
+    "pano_id": "nfGyDiaaPCAI3CSb2XDO7g",
+    "lat": 17.44794017546202,
+    "lng": 78.34988457496061,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "Nx17_ozwAAQ17l41OrlloQ",
-    "lat": 12.9644653891342,
-    "lng": 77.57754476468581,
+    "pano_id": "HZ9w6wbV1dkwLJj5GaWI_A",
+    "lat": 17.44923604995926,
+    "lng": 78.34835653533042,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "2yqUHHahkgxuEyaBkQbdfg",
-    "lat": 12.96301570881432,
-    "lng": 77.58193278407526,
+    "pano_id": "FA16ihEIcdNPuDiU-o5Vrg",
+    "lat": 17.44935017476829,
+    "lng": 78.34847027733825,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "4VC3XuFCED8QGyIT9QnSAg",
-    "lat": 12.96439829489967,
-    "lng": 77.57818889951525,
+    "pano_id": "5ajNpa8lBjLG1k7bhoHbSg",
+    "lat": 17.44972421342344,
+    "lng": 78.34804396122992,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "cv-sNIiCXcZayZ-O4lw7aA",
-    "lat": 12.96443969141092,
-    "lng": 77.57726895562904,
+    "pano_id": "tLNX8cZhcMzN0eBdToS2hg",
+    "lat": 17.44991041026228,
+    "lng": 78.34783418874859,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "aC7J92qiS1HtHTg1OtmOSw",
-    "lat": 12.96436929002853,
-    "lng": 77.57700119108858,
+    "pano_id": "gyyB3y3JEbV3Qpuf-PhYkw",
+    "lat": 17.44953721130867,
+    "lng": 78.34825816141671,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "qHmxY7_Hcr2jRd09UlRE1w",
-    "lat": 12.96428591650277,
-    "lng": 77.5795828800769,
+    "pano_id": "I6TiFcHZjtjB4GURrGWbEw",
+    "lat": 17.449218072902,
+    "lng": 78.34859851913149,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "XGJcpRuZOUifgRCbU3-pkA",
-    "lat": 12.96421413860503,
-    "lng": 77.58014060740379,
+    "pano_id": "38BKix0hS_dstum_Bh1VQg",
+    "lat": 17.449685555145,
+    "lng": 78.34787812292103,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "exfz2uamhZzqkTP2eQPE6g",
-    "lat": 12.9643503010519,
-    "lng": 77.57883941425561,
+    "pano_id": "uWpeZUxUZxXmVEtR6CsuHA",
+    "lat": 17.45069008921843,
+    "lng": 78.34645112104579,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "kEyy3ojCt-nZ4fL-g0pctA",
-    "lat": 12.9643158621358,
-    "lng": 77.57930235390964,
+    "pano_id": "XNTQVMJzLV1H4wgkEA5neg",
+    "lat": 17.45059345567484,
+    "lng": 78.34664891414444,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "UMDrY32SMF8uwiIoyQYdrQ",
-    "lat": 12.96414570609216,
-    "lng": 77.58107408184162,
+    "pano_id": "U2La5verqI_w98nxGsBnAA",
+    "lat": 17.45024311302158,
+    "lng": 78.34721476702786,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "vZRurSYMHNDNOeA7wjkNKw",
-    "lat": 12.96417849927676,
-    "lng": 77.58041929514576,
+    "pano_id": "MHRo9o-XHZxd_vByqR4zTg",
+    "lat": 17.4506168859639,
+    "lng": 78.34694664500996,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "83MGRPDjYCt8sGdifxGtRQ",
-    "lat": 12.96445606230916,
-    "lng": 77.57772884106008,
+    "pano_id": "1pi-tXHP6i_KnccHLYPJJQ",
+    "lat": 17.45016297120742,
+    "lng": 78.34754905030654,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "s1t54AiT41SE62FL0pknEA",
-    "lat": 12.96411487641778,
-    "lng": 77.58181088723067,
+    "pano_id": "1BdePtZE42wiYQVbwXSbfQ",
+    "lat": 17.45046136565575,
+    "lng": 78.34718090450562,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "JWKQVnfQU5appdD0AjTVKg",
-    "lat": 12.96413941888307,
-    "lng": 77.58125867713879,
+    "pano_id": "zlreusQ8D3Q5XZiinw_rJQ",
+    "lat": 17.45012571009378,
+    "lng": 78.34737678601934,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "muXyoEWZHv4QvnFPa1TtOg",
-    "lat": 12.96415661208503,
-    "lng": 77.58069710775258,
+    "pano_id": "5MV9nqa_PPcinw3rZqxJWQ",
+    "lat": 17.45040418622025,
+    "lng": 78.34698276511502,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "MYNvEJ0uJCxitlV8HopXEg",
-    "lat": 12.96425203561171,
-    "lng": 77.57985509822677,
+    "pano_id": "LRpXFBD8T31D2JiYvaITVA",
+    "lat": 17.4507940160995,
+    "lng": 78.34660280876322,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "CAoSFkNJSE0wb2dLRUlDQWdJQzQ4NC1hT3c.",
-    "lat": 12.9641038579511,
-    "lng": 77.5815390235652,
-    "date": "2018-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "6_5LFWuOaqZPQBv3JuUAYQ",
-    "lat": 12.96469778199468,
-    "lng": 77.58187699486142,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "odEsv3nfWHYfJbngxBjp8g",
-    "lat": 12.96432868537519,
-    "lng": 77.58184831324859,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "3p1VZqVKcsFnE14bCk9nsg",
-    "lat": 12.96478218140011,
-    "lng": 77.58158493175657,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "cuUmOUJDu5H1hM8NLxPmrg",
-    "lat": 12.96481541548451,
-    "lng": 77.58120253781455,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "-1IUPejh6oZkXTALayIU5A",
-    "lat": 12.96487896268333,
-    "lng": 77.5805579829221,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "ZVWKL-2O3qk2yEVLghyWiA",
-    "lat": 12.96434314329064,
-    "lng": 77.57902558723053,
+    "pano_id": "SDyLwsg6UzbBKiwWr1ZjIw",
+    "lat": 17.45106460211079,
+    "lng": 78.34599379903196,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "iDWr7qIolRloXS76vcOd-Q",
-    "lat": 12.96588268515519,
-    "lng": 77.57765005116173,
+    "pano_id": "DlYPoZRbBTbZIiU3YVXhbA",
+    "lat": 17.45094677577485,
+    "lng": 78.34625853723537,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "CAoSHENJQUJJaEMyTk5MalVBWklRckxabU9rMWc4Tmo.",
-    "lat": 12.96538394301394,
-    "lng": 77.57887684125687,
-    "date": "2026-03",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "8YXgEoVRxcmw5IgDjxxuNA",
-    "lat": 12.96558115065036,
-    "lng": 77.57528300563433,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "p07CVemaz3_EWhQ034f6-A",
-    "lat": 12.9653150228521,
-    "lng": 77.57517605542277,
-    "date": "2021-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "8XV_aX-KbothIccFO7MEYA",
-    "lat": 12.96523744766968,
-    "lng": 77.57512454788497,
-    "date": "2021-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "0BHqlG6qC1EaMY0-s_bLbw",
-    "lat": 12.96480339550421,
-    "lng": 77.58082215380867,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "B-0SBUV87WNywCkqX11Isw",
-    "lat": 12.96470677720413,
-    "lng": 77.57460343719872,
+    "pano_id": "Evc1MBH2D8LxSDojiuBqhg",
+    "lat": 17.45121670241026,
+    "lng": 78.34564891768048,
     "date": "2026-02",
     "source_found": "outdoor"
   },
   {
-    "pano_id": "Kq3DtCGKQxgxm_m2AyWAoQ",
-    "lat": 12.96437188374719,
-    "lng": 77.58120008936987,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "xXBVCohSh7TSPHDgE1qEWg",
-    "lat": 12.96433129776998,
-    "lng": 77.58158379498252,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "jcGjxo65SZoGygTFG6kSog",
-    "lat": 12.96444626043804,
-    "lng": 77.58041693412918,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "CAoSFkNJSE0wb2dLRUlDQWdJQzRfX250WXc.",
-    "lat": 12.96448272103777,
-    "lng": 77.58008368051668,
-    "date": "2019-05",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "ZQgTjtLUZalfjoCuRWmK7Q",
-    "lat": 12.96529205197585,
-    "lng": 77.5774002142399,
+    "pano_id": "sC9KqUu3oYp_CFKL-Cqwpw",
+    "lat": 17.45087108039673,
+    "lng": 78.34642871952089,
     "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "3Xa1liPrqt959w6phWFB3A",
-    "lat": 12.96605893009884,
-    "lng": 77.57438752404654,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "9QmZRKUx_G2X3sn76cSXpQ",
-    "lat": 12.96602038921714,
-    "lng": 77.5738183998393,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Wv34n-mBQv3xaP_VUg2axw",
-    "lat": 12.96433596729959,
-    "lng": 77.58081402144698,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "D-boRW9JWLZQQSqvPDJtAg",
-    "lat": 12.9652400159649,
-    "lng": 77.5816569857184,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "d7Yuu88iRrYl__3yJmz4_g",
-    "lat": 12.96557895904695,
-    "lng": 77.5813691193729,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "8_6VfenEmgNJBZoLTOwb3Q",
-    "lat": 12.96495902482836,
-    "lng": 77.58161203944177,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "csMxBBka_Ht36i6T2Ll5yA",
-    "lat": 12.96559945469704,
-    "lng": 77.58118417447814,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "y5ekJdY8QMCsoI8wQgQPfw",
-    "lat": 12.96550978303995,
-    "lng": 77.58170875261409,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "fS0NPkQIW1U81cSL_VhMfQ",
-    "lat": 12.96569244071479,
-    "lng": 77.58073024934315,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "LHMBD8HxkKayyDe_5IPX5g",
-    "lat": 12.96598101341713,
-    "lng": 77.57973118789414,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "2-PEaf8XMlELVK_nryLhFQ",
-    "lat": 12.96585468896709,
-    "lng": 77.58018564171046,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "UcwcjIl_eLXeGiGxdFafZw",
-    "lat": 12.9658091657413,
-    "lng": 77.58036647831862,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "ihOIFaxfMfTHLTcBaN9hZQ",
-    "lat": 12.96562994431001,
-    "lng": 77.58090417695078,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "WgjZT2ZmVIWvnlhEmHmc5Q",
-    "lat": 12.96616397912975,
-    "lng": 77.57910122811214,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "qEBr3M67f-wKFffFDGa3_A",
-    "lat": 12.96608731140444,
-    "lng": 77.57928162922443,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "-s7Svj6x06Q9FlYScbDBUA",
-    "lat": 12.96472031093862,
-    "lng": 77.5804377460514,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "H1ZNbK23djkWI24ionv20w",
-    "lat": 12.96471431048414,
-    "lng": 77.57711723412693,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "BZOcuQITcqu9XUm9yd5wmw",
-    "lat": 12.96565334280941,
-    "lng": 77.57379461339342,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "LVUj6XtwzuBFqQsa_zUaqA",
-    "lat": 12.9647985515896,
-    "lng": 77.58139666433135,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "CAoSFkNJSE0wb2dLRUlDQWdJQ1V5N0RLWGc.",
-    "lat": 12.96500273957203,
-    "lng": 77.57724866780883,
-    "date": "2019-08",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "7IE_mzuvqekUpX7u6hYWRA",
-    "lat": 12.96568293101419,
-    "lng": 77.5817826428211,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "51-RR5UOlN3aeOEzDJwbJw",
-    "lat": 12.96652671031143,
-    "lng": 77.57924472703291,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "1LEmnMojdJV1JEPAjcJIig",
-    "lat": 12.96673674566906,
-    "lng": 77.578045486702,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "R58ryVYIByF8h1VRDFDmQw",
-    "lat": 12.96669304299066,
-    "lng": 77.57950111831381,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Scz7XZ0l8neKtzNbdvCPcg",
-    "lat": 12.96703288832878,
-    "lng": 77.57657741874094,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "HpRM-jlXKjde5xxLyaeaHw",
-    "lat": 12.96659873821044,
-    "lng": 77.57951580920181,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "morX0SQKfNKT2kpEWIauPg",
-    "lat": 12.96675093406963,
-    "lng": 77.57638363374606,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Amv9sPZsRFo-sXi2B4ePew",
-    "lat": 12.96679238057823,
-    "lng": 77.57620952429119,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "sYnZuYpANsiLMcxhedsamA",
-    "lat": 12.96628863059203,
-    "lng": 77.57582326443861,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "FqaZLdmq4dZHzDAdU4sf_g",
-    "lat": 12.96646051079036,
-    "lng": 77.57592452988406,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "OdIkSe5dtPkSmFmIFHyNhQ",
-    "lat": 12.96607045323074,
-    "lng": 77.5756790615883,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "DeJV86iZclvkZgP62RchlQ",
-    "lat": 12.9656305207011,
-    "lng": 77.57754126679455,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "CtBzq3JYofFyCHnBnoZf_A",
-    "lat": 12.96546182541953,
-    "lng": 77.5774685106321,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "c0G-fio4cyjO0ZiCw2_Iww",
-    "lat": 12.96604808939833,
-    "lng": 77.57946439108551,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "1tK6cxMO96NR4MYmNuubuQ",
-    "lat": 12.96576858051577,
-    "lng": 77.57547084599021,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "CAoSF0NJSE0wb2dLRUlDQWdJRGUzZXEzakFF",
-    "lat": 12.96594236885279,
-    "lng": 77.58076391559275,
-    "date": "2022-10",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "CAoSF0NJSE0wb2dLRUlDQWdJREhuc2JFdUFF",
-    "lat": 12.96629011392265,
-    "lng": 77.57714993952844,
-    "date": "2024-09",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "RZ25mfNr5JAQNhdEUTgVjg",
-    "lat": 12.96590427907996,
-    "lng": 77.5800069035022,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "MQrBOIQ3R8rBPPmR2IUsUg",
-    "lat": 12.96591970294699,
-    "lng": 77.57557613439597,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "MXKKecIPV_aiGvCpm2htSA",
-    "lat": 12.96613719323808,
-    "lng": 77.57776451948656,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "HehAjYZK992_0EESIxsuDw",
-    "lat": 12.9664106556991,
-    "lng": 77.57788764495041,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "x-8RbFIedz44yD_Vre1-nw",
-    "lat": 12.96697008912039,
-    "lng": 77.5767252932588,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "AJx-vr5tKasX0mkuaoW-Jg",
-    "lat": 12.96680747584635,
-    "lng": 77.57725137868158,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "jLySNUS6bSL3nKxpt7Y1lw",
-    "lat": 12.96673776836633,
-    "lng": 77.5775189677353,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "zYseHohM8OhLoJgYGYrfDw",
-    "lat": 12.96687367104131,
-    "lng": 77.57698247727924,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Ssw32ERj5OCNa79PamWNIA",
-    "lat": 12.96667672238462,
-    "lng": 77.5777891795689,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "a-ayGtGwwyWQ6p75ydXhVw",
-    "lat": 12.96705035049549,
-    "lng": 77.57905217085249,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "CAoSF0NJSE0wb2dLRUlDQWdJQ0V0ODNSMXdF",
-    "lat": 12.96725857390762,
-    "lng": 77.57567294017763,
-    "date": "2019-05",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "4Rdt-zvvFmXTZumbez96OQ",
-    "lat": 12.96713312741271,
-    "lng": 77.5788786776281,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "1hCIsMPvtpGRBggFBlhGOw",
-    "lat": 12.96726204932982,
-    "lng": 77.57863575168835,
-    "date": "2024-11",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "CAoSFkNJSE0wb2dLRUlDQWdJQ3h5S0c1RVE.",
-    "lat": 12.96713116750897,
-    "lng": 77.57823113630305,
-    "date": "2023-05",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "CAoSFkNJSE0wb2dLRUlDQWdJRDdzSjJiZkE.",
-    "lat": 12.96704783779672,
-    "lng": 77.57864554568881,
-    "date": "2024-08",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "Z2QhM-Ea2CBc81HxS24WCw",
-    "lat": 12.96739607563297,
-    "lng": 77.57837708483343,
-    "date": "2026-02",
-    "source_found": "outdoor"
-  },
-  {
-    "pano_id": "CAoSF0NJSE0wb2dLRUlDQWdJRGhoYXU4dXdF",
-    "lat": 12.96671698871871,
-    "lng": 77.58047998199946,
-    "date": "2023-03",
     "source_found": "outdoor"
   }
 ]
