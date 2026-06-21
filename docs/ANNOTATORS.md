@@ -21,14 +21,14 @@ pip install -r requirements.txt
 
 ## 2 Keys
 
-```bash
+```text
 # create .env.local (see .env.example for variable names)
 ```
 
 ## 3 Step 1 — pre_annotation.py
 
 ```bash
-python3 src/benchmarking/pre_annotation.py "cafes near NTR stadium guntur" ram_001 --images-per-pano 4   # query, sample_name, headings/pano
+python3 src/benchmarking/pre_annotation.py "cafes near NTR stadium guntur" ram_001  # query, sample_name (yourname_samplenumber)
 ```
 
 ## 4 Produced files
