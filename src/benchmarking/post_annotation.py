@@ -67,7 +67,6 @@ def build_response_skeleton(metadata: Dict[str, Any]) -> List[Dict[str, Any]]:
             "lat": img.get("lat"),
             "lng": img.get("lng"),
             "place_id": img.get("place_id"),
-            "langs": img.get("langs"),
             "name": "XXX",
         })
     return out

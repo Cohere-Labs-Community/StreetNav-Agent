@@ -42,9 +42,9 @@ SV_METADATA_URL = "https://maps.googleapis.com/maps/api/streetview/metadata"
 SV_IMAGE_URL = "https://maps.googleapis.com/maps/api/streetview"
 
 DEFAULT_RADIUS_M = 500
-DEFAULT_STEP_M = 20
-DEFAULT_DEDUP_M = 20
-DEFAULT_IMAGES_PER_PANO = 3
+DEFAULT_STEP_M = 24
+DEFAULT_DEDUP_M = 24
+DEFAULT_IMAGES_PER_PANO = 2
 DEFAULT_PITCH = 0
 GCP_WORKERS = 24
 
@@ -294,7 +294,6 @@ def main() -> int:
             "lng": pano.get("lng"),
             "place_id": place_ids.get(pid),
             "relevancy": "XXX",
-            "langs": ["XXX"],
         })
 
     metadata = {

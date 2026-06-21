@@ -9,7 +9,7 @@ Run a query to fetch street view images for a location, annotate which images ar
 | Step | Action | What to annotate |
 |------|--------|-----------------|
 | 1 | run `pre_annotation.py` | — |
-| 2 | edit `_annotated_metadata.json` | `relevancy` YES/NO per image, `langs` list per image |
+| 2 | edit `_annotated_metadata.json` | `relevancy` YES/NO per image |
 | 3 | run `post_annotation.py`, edit `_annotated_response.json`, run again with `--push` | `name` per YES image |
 
 ## 1 Setup
@@ -56,8 +56,7 @@ src/benchmarking/samples/<sample_name>/
       "lat": 0.0,                                             // image lat
       "lng": 0.0,                                             // image lng
       "place_id": "...",                                      // nearest place
-      "relevancy": "XXX",                                     // edit: YES/NO
-      "langs": ["XXX"]                                        // edit: languages as comma seperated list
+      "relevancy": "XXX"                                      // edit: YES/NO
     }
   ]
 }
@@ -67,7 +66,6 @@ src/benchmarking/samples/<sample_name>/
 
 ```text
 relevancy : "XXX" -> "YES" or "NO"
-langs     : ["XXX"] -> ["Telugu", "English"]
 ```
 
 ## 7 Step 2 phase 1 — generate response skeleton
@@ -85,7 +83,6 @@ python3 src/benchmarking/post_annotation.py ram_001   # sample_name
     "lat": 0.0,                                               // image lat
     "lng": 0.0,                                               // image lng
     "place_id": "...",                                        // nearest place
-    "langs": ["Telugu", "English"],                           // from metadata
     "name": "XXX"                                             // edit: visible name in image
   }
 ]
