@@ -1,6 +1,6 @@
 {
   "sample_name": "ram_001",
-  "query_used": "cafes near NTR stadium guntur",
+  "query_used": "restaurants near NTR stadium guntur",
   "country": "India",
   "state": "AP",
   "city": "Guntur",
@@ -12,3742 +12,3588 @@
   "images_per_pano": 2,
   "images": [
     {
+      "image": "-CUqfjHcin7JgpU6CnO4Sw_0.png",
+      "lat": 16.31020281884177,
+      "lng": 80.42743988324474,
+      "place_id": "ChIJr6CZpGZ1SjoRPLYziLYb8xA",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "-CUqfjHcin7JgpU6CnO4Sw_180.png",
+      "lat": 16.31020281884177,
+      "lng": 80.42743988324474,
+      "place_id": "ChIJr6CZpGZ1SjoRPLYziLYb8xA",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
       "image": "-JPJPoaTLqiyfYHV6wr4YA_0.png",
       "lat": 16.31699921167631,
       "lng": 80.42239948006831,
       "place_id": "ChIJlfmgWZ2KNToR7qSW68UhA6Y",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "-JPJPoaTLqiyfYHV6wr4YA_180.png",
       "lat": 16.31699921167631,
       "lng": 80.42239948006831,
       "place_id": "ChIJlfmgWZ2KNToR7qSW68UhA6Y",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "-Qw1ZqTWTm-aYdFsDQVuOQ_0.png",
-      "lat": 16.31152938197681,
-      "lng": 80.42082345320594,
-      "place_id": "ChIJNVmzr3x1SjoR5DgpectZIi4",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "-Qw1ZqTWTm-aYdFsDQVuOQ_180.png",
-      "lat": 16.31152938197681,
-      "lng": 80.42082345320594,
-      "place_id": "ChIJNVmzr3x1SjoR5DgpectZIi4",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "-XoiYMdmyplM8CKKav3oDw_0.png",
       "lat": 16.31443943898579,
       "lng": 80.42359096819756,
       "place_id": "ChIJl73V-mJ1SjoRGDNcV6vlJd0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "-XoiYMdmyplM8CKKav3oDw_180.png",
       "lat": 16.31443943898579,
       "lng": 80.42359096819756,
       "place_id": "ChIJl73V-mJ1SjoRGDNcV6vlJd0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "-a86UbZdkO4K38i3FcClHQ_0.png",
-      "lat": 16.31206913395576,
-      "lng": 80.42713587160137,
-      "place_id": "ChIJ-7Rs4mN1SjoRLwKXRVA-jfE",
-      "relevancy": "XXX"
+      "image": "-c5E6QdKmF-W3q66QU95kw_0.png",
+      "lat": 16.3088087883507,
+      "lng": 80.42127861329651,
+      "place_id": "ChIJScOMLXt1SjoRmzs8MHWtqeI",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "-a86UbZdkO4K38i3FcClHQ_180.png",
-      "lat": 16.31206913395576,
-      "lng": 80.42713587160137,
-      "place_id": "ChIJ-7Rs4mN1SjoRLwKXRVA-jfE",
-      "relevancy": "XXX"
+      "image": "-c5E6QdKmF-W3q66QU95kw_180.png",
+      "lat": 16.3088087883507,
+      "lng": 80.42127861329651,
+      "place_id": "ChIJScOMLXt1SjoRmzs8MHWtqeI",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "0HamFi66ScJdIgqourI3Sw_0.png",
+      "lat": 16.30836799476302,
+      "lng": 80.42178598524433,
+      "place_id": "ChIJA6-Z02R1SjoR8-NKaVrwqxk",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "0HamFi66ScJdIgqourI3Sw_180.png",
+      "lat": 16.30836799476302,
+      "lng": 80.42178598524433,
+      "place_id": "ChIJA6-Z02R1SjoR8-NKaVrwqxk",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "0Q6l1G9FyM5i201uNuYntg_0.png",
       "lat": 16.30993603556056,
       "lng": 80.42114090237271,
       "place_id": "ChIJpVl2Tnt1SjoRJYj76efW4u0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "0Q6l1G9FyM5i201uNuYntg_180.png",
       "lat": 16.30993603556056,
       "lng": 80.42114090237271,
       "place_id": "ChIJpVl2Tnt1SjoRJYj76efW4u0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "0j1wqzdNDX74p98V90xz5A_0.png",
-      "lat": 16.31393339600245,
-      "lng": 80.42388302197548,
-      "place_id": "ChIJH0n__WJ1SjoRyXUv_qYqLPA",
-      "relevancy": "XXX"
+      "image": "0b8VPyGGyvX9cElxXmoCBg_0.png",
+      "lat": 16.3159199242655,
+      "lng": 80.41981361891365,
+      "place_id": "ChIJo-wxZn11SjoRGpmhyLa6a8M",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "0j1wqzdNDX74p98V90xz5A_180.png",
-      "lat": 16.31393339600245,
-      "lng": 80.42388302197548,
-      "place_id": "ChIJH0n__WJ1SjoRyXUv_qYqLPA",
-      "relevancy": "XXX"
+      "image": "0b8VPyGGyvX9cElxXmoCBg_180.png",
+      "lat": 16.3159199242655,
+      "lng": 80.41981361891365,
+      "place_id": "ChIJo-wxZn11SjoRGpmhyLa6a8M",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "14qtmyR_cFcS38gudPCtOA_0.png",
+      "lat": 16.31557612164334,
+      "lng": 80.41968965993577,
+      "place_id": "ChIJDdihbn11SjoRib43j9PmHfE",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "14qtmyR_cFcS38gudPCtOA_180.png",
+      "lat": 16.31557612164334,
+      "lng": 80.41968965993577,
+      "place_id": "ChIJDdihbn11SjoRib43j9PmHfE",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "17lfPj41_UrcHdXp61XvmQ_0.png",
       "lat": 16.3085628862849,
       "lng": 80.42337549298148,
       "place_id": "ChIJq39g5mR1SjoRxBkaE40XOdQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "17lfPj41_UrcHdXp61XvmQ_180.png",
       "lat": 16.3085628862849,
       "lng": 80.42337549298148,
       "place_id": "ChIJq39g5mR1SjoRxBkaE40XOdQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "1LSY4xC-Vl43RIgYW1sFXA_0.png",
       "lat": 16.30898164077983,
       "lng": 80.4208283775403,
       "place_id": "ChIJY_OROXt1SjoRo4HkxQBSj6U",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "1LSY4xC-Vl43RIgYW1sFXA_180.png",
       "lat": 16.30898164077983,
       "lng": 80.4208283775403,
       "place_id": "ChIJY_OROXt1SjoRo4HkxQBSj6U",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "1hD2EoPYRAp7W-L1ecF8bw_0.png",
-      "lat": 16.31660303478082,
-      "lng": 80.42371211969989,
-      "place_id": "ChIJk-98g2J1SjoROggF0ri5ARw",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "1hD2EoPYRAp7W-L1ecF8bw_180.png",
-      "lat": 16.31660303478082,
-      "lng": 80.42371211969989,
-      "place_id": "ChIJk-98g2J1SjoROggF0ri5ARw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "1ljSYeQ_De_83GYmHmsgTA_0.png",
       "lat": 16.31590133284629,
       "lng": 80.42135960962767,
       "place_id": "ChIJe32iUn11SjoRzPWCZ4e7TpA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "1ljSYeQ_De_83GYmHmsgTA_180.png",
       "lat": 16.31590133284629,
       "lng": 80.42135960962767,
       "place_id": "ChIJe32iUn11SjoRzPWCZ4e7TpA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "22LA1cXlCAGGo8zFLFGCPA_0.png",
+      "lat": 16.31306192544328,
+      "lng": 80.42741110363652,
+      "place_id": "ChIJqeu1Y2F1SjoRwyNyG-O_uhM",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "22LA1cXlCAGGo8zFLFGCPA_180.png",
+      "lat": 16.31306192544328,
+      "lng": 80.42741110363652,
+      "place_id": "ChIJqeu1Y2F1SjoRwyNyG-O_uhM",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "24-uh60hocPFgtVbTZ2tBQ_0.png",
       "lat": 16.31683879050296,
       "lng": 80.42293944686985,
       "place_id": "ChIJOd9eoGJ1SjoRWvnZ2ou_jBo",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "24-uh60hocPFgtVbTZ2tBQ_180.png",
       "lat": 16.31683879050296,
       "lng": 80.42293944686985,
       "place_id": "ChIJOd9eoGJ1SjoRWvnZ2ou_jBo",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "2F02ettIdN5jq3-7MAYBqQ_0.png",
       "lat": 16.31286443534188,
       "lng": 80.42139221190229,
       "place_id": "ChIJvyHizHx1SjoR2gkMvFp-A8s",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "2F02ettIdN5jq3-7MAYBqQ_180.png",
       "lat": 16.31286443534188,
       "lng": 80.42139221190229,
       "place_id": "ChIJvyHizHx1SjoR2gkMvFp-A8s",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "2O0GCq_OLhwvqVryNA1sgw_0.png",
-      "lat": 16.30915013220432,
-      "lng": 80.4252779891554,
-      "place_id": "ChIJ7wj8Q2R1SjoRzc2M8oVXY-I",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "2O0GCq_OLhwvqVryNA1sgw_180.png",
-      "lat": 16.30915013220432,
-      "lng": 80.4252779891554,
-      "place_id": "ChIJ7wj8Q2R1SjoRzc2M8oVXY-I",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "2aDfI4YNNVp29Ox9OyHJ7A_0.png",
       "lat": 16.31742983579432,
       "lng": 80.42100251200453,
       "place_id": "ChIJDyWEroKKNToR9VTcdjVOe2o",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "2aDfI4YNNVp29Ox9OyHJ7A_180.png",
       "lat": 16.31742983579432,
       "lng": 80.42100251200453,
       "place_id": "ChIJDyWEroKKNToR9VTcdjVOe2o",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "2axetyvlM9am9efFH3Uk7w_0.png",
-      "lat": 16.31078147663102,
-      "lng": 80.42306238221924,
-      "place_id": "ChIJ-cban2R1SjoRH123rK-K1fc",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "2axetyvlM9am9efFH3Uk7w_180.png",
-      "lat": 16.31078147663102,
-      "lng": 80.42306238221924,
-      "place_id": "ChIJ-cban2R1SjoRH123rK-K1fc",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "2fNkNkCdnZAGLsbExSjTfw_0.png",
       "lat": 16.31067791370079,
       "lng": 80.4235945339766,
       "place_id": "ChIJjcdhm2R1SjoRrGfTLFutOEY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "2fNkNkCdnZAGLsbExSjTfw_180.png",
       "lat": 16.31067791370079,
       "lng": 80.4235945339766,
       "place_id": "ChIJjcdhm2R1SjoRrGfTLFutOEY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "39D2lbLc29xOBZUJEpykkw_0.png",
       "lat": 16.31115962440534,
       "lng": 80.42153501650718,
       "place_id": "ChIJX8mQVGN1SjoRxcBXuiFbhiE",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "39D2lbLc29xOBZUJEpykkw_180.png",
       "lat": 16.31115962440534,
       "lng": 80.42153501650718,
       "place_id": "ChIJX8mQVGN1SjoRxcBXuiFbhiE",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "3AhZNiGtuQrRw86Vyh0tHw_0.png",
       "lat": 16.31318251767615,
       "lng": 80.42471307737705,
       "place_id": "ChIJZyIfr2N1SjoRsOYCC7b4jMQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "3AhZNiGtuQrRw86Vyh0tHw_180.png",
       "lat": 16.31318251767615,
       "lng": 80.42471307737705,
       "place_id": "ChIJZyIfr2N1SjoRsOYCC7b4jMQ",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "3U-d8LZpoOvL_GK9n2licQ_0.png",
-      "lat": 16.31467996339451,
-      "lng": 80.42585928226764,
-      "place_id": "ChIJj7_XOWJ1SjoR5TDR8cA2M78",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "3U-d8LZpoOvL_GK9n2licQ_180.png",
-      "lat": 16.31467996339451,
-      "lng": 80.42585928226764,
-      "place_id": "ChIJj7_XOWJ1SjoR5TDR8cA2M78",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "3U6oNgs7ES0CGFZ7KXmF3g_0.png",
       "lat": 16.30923142659284,
       "lng": 80.42394330038957,
       "place_id": "ChIJE8_p9GR1SjoRHLCAWhAEaOY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "3U6oNgs7ES0CGFZ7KXmF3g_180.png",
       "lat": 16.30923142659284,
       "lng": 80.42394330038957,
       "place_id": "ChIJE8_p9GR1SjoRHLCAWhAEaOY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "3adQ5YgyHEDhiP7bc1V-iQ_0.png",
-      "lat": 16.31619449416217,
-      "lng": 80.42204799036678,
-      "place_id": "ChIJGcLVrWJ1SjoRj_6CbNxKz8c",
-      "relevancy": "XXX"
+      "image": "4GP5lS-cU7LZdwlo5Lk-LQ_0.png",
+      "lat": 16.31005337725751,
+      "lng": 80.42068523211617,
+      "place_id": "ChIJp5r7Wnt1SjoRRcv9eWXHhp4",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "3adQ5YgyHEDhiP7bc1V-iQ_180.png",
-      "lat": 16.31619449416217,
-      "lng": 80.42204799036678,
-      "place_id": "ChIJGcLVrWJ1SjoRj_6CbNxKz8c",
-      "relevancy": "XXX"
+      "image": "4GP5lS-cU7LZdwlo5Lk-LQ_180.png",
+      "lat": 16.31005337725751,
+      "lng": 80.42068523211617,
+      "place_id": "ChIJp5r7Wnt1SjoRRcv9eWXHhp4",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "49bIYyEj22zsDwtfWzQblw_0.png",
-      "lat": 16.31397340547468,
-      "lng": 80.42565561365083,
-      "place_id": "ChIJP4qqymN1SjoR69tx6xSGlyY",
-      "relevancy": "XXX"
+      "image": "4O9PyrB7yjQCg7jj2e_3Iw_0.png",
+      "lat": 16.31275291050087,
+      "lng": 80.42185467039974,
+      "place_id": "ChIJAX_qM2N1SjoR9XOCV1UBD3A",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "49bIYyEj22zsDwtfWzQblw_180.png",
-      "lat": 16.31397340547468,
-      "lng": 80.42565561365083,
-      "place_id": "ChIJP4qqymN1SjoR69tx6xSGlyY",
-      "relevancy": "XXX"
+      "image": "4O9PyrB7yjQCg7jj2e_3Iw_180.png",
+      "lat": 16.31275291050087,
+      "lng": 80.42185467039974,
+      "place_id": "ChIJAX_qM2N1SjoR9XOCV1UBD3A",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "5EbGWZcRPK1oskLGXo0Mvg_0.png",
-      "lat": 16.31291956699738,
-      "lng": 80.42562454119621,
-      "place_id": "ChIJ893UvmN1SjoRpQpowEnQDA4",
-      "relevancy": "XXX"
+      "image": "53Ot7E4FrcxDg6W-MSvaig_0.png",
+      "lat": 16.31511218410482,
+      "lng": 80.425932718308,
+      "place_id": "ChIJ42HvPmJ1SjoRRwGV4UvsLcM",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "5EbGWZcRPK1oskLGXo0Mvg_180.png",
-      "lat": 16.31291956699738,
-      "lng": 80.42562454119621,
-      "place_id": "ChIJ893UvmN1SjoRpQpowEnQDA4",
-      "relevancy": "XXX"
+      "image": "53Ot7E4FrcxDg6W-MSvaig_180.png",
+      "lat": 16.31511218410482,
+      "lng": 80.425932718308,
+      "place_id": "ChIJ42HvPmJ1SjoRRwGV4UvsLcM",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "5JjjUYPB-3bY3pMa4Qhgzw_0.png",
+      "lat": 16.31079976199564,
+      "lng": 80.42297018072418,
+      "place_id": "ChIJN-Tvn2R1SjoRAo3D4N0xoO0",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "5JjjUYPB-3bY3pMa4Qhgzw_180.png",
+      "lat": 16.31079976199564,
+      "lng": 80.42297018072418,
+      "place_id": "ChIJN-Tvn2R1SjoRAo3D4N0xoO0",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "5OfrnZzHDAfF9AnvEBqX8A_0.png",
       "lat": 16.31421423175169,
       "lng": 80.42422058053329,
       "place_id": "ChIJEd07ckB1SjoRG_PjJ7XoWQc",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "5OfrnZzHDAfF9AnvEBqX8A_180.png",
       "lat": 16.31421423175169,
       "lng": 80.42422058053329,
       "place_id": "ChIJEd07ckB1SjoRG_PjJ7XoWQc",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "672z4VbHn4lnCXzDLpUjsA_0.png",
-      "lat": 16.31009690848324,
-      "lng": 80.42284172672184,
-      "place_id": "ChIJ4V6tvWR1SjoRSLbRB6vv2Kg",
-      "relevancy": "XXX"
+      "image": "5giGg_0gOkLb1kZlVSNT0A_0.png",
+      "lat": 16.31625531291836,
+      "lng": 80.42038136565994,
+      "place_id": "ChIJxX7DXn11SjoRHkNg-n-mQ9k",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "672z4VbHn4lnCXzDLpUjsA_180.png",
-      "lat": 16.31009690848324,
-      "lng": 80.42284172672184,
-      "place_id": "ChIJ4V6tvWR1SjoRSLbRB6vv2Kg",
-      "relevancy": "XXX"
+      "image": "5giGg_0gOkLb1kZlVSNT0A_180.png",
+      "lat": 16.31625531291836,
+      "lng": 80.42038136565994,
+      "place_id": "ChIJxX7DXn11SjoRHkNg-n-mQ9k",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "6IuUSsf_QRLJdX2Dnsx6hw_0.png",
-      "lat": 16.30993792952059,
-      "lng": 80.42331190306548,
-      "place_id": "ChIJyfLHkGR1SjoRSOoTfqOuD1o",
-      "relevancy": "XXX"
+      "image": "5qjZAuoYGrlA5p0jHkd-Dw_0.png",
+      "lat": 16.31530766159254,
+      "lng": 80.42214129659376,
+      "place_id": "ChIJp2EutmJ1SjoRu7qlEUvOjSI",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "6IuUSsf_QRLJdX2Dnsx6hw_180.png",
-      "lat": 16.30993792952059,
-      "lng": 80.42331190306548,
-      "place_id": "ChIJyfLHkGR1SjoRSOoTfqOuD1o",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "6JAYyaOj_mP3HDNv4ZBpBQ_0.png",
-      "lat": 16.30872183483658,
-      "lng": 80.42073617357639,
-      "place_id": "ChIJc30TO3t1SjoRdAAWst4UvyM",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "6JAYyaOj_mP3HDNv4ZBpBQ_180.png",
-      "lat": 16.30872183483658,
-      "lng": 80.42073617357639,
-      "place_id": "ChIJc30TO3t1SjoRdAAWst4UvyM",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "6Mv_KmFxR3-dkBtpW9nVSg_0.png",
-      "lat": 16.31700376829834,
-      "lng": 80.42275546800782,
-      "place_id": "ChIJdeWtgGJ1SjoRfT-T_DkXzQQ",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "6Mv_KmFxR3-dkBtpW9nVSg_180.png",
-      "lat": 16.31700376829834,
-      "lng": 80.42275546800782,
-      "place_id": "ChIJdeWtgGJ1SjoRfT-T_DkXzQQ",
-      "relevancy": "XXX"
+      "image": "5qjZAuoYGrlA5p0jHkd-Dw_180.png",
+      "lat": 16.31530766159254,
+      "lng": 80.42214129659376,
+      "place_id": "ChIJp2EutmJ1SjoRu7qlEUvOjSI",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "6VxLX3XNLnULiklKZtvufg_0.png",
       "lat": 16.3084554306179,
       "lng": 80.42523104066677,
       "place_id": "ChIJ86acTmR1SjoRMrNv9o2JRzw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "6VxLX3XNLnULiklKZtvufg_180.png",
       "lat": 16.3084554306179,
       "lng": 80.42523104066677,
       "place_id": "ChIJ86acTmR1SjoRMrNv9o2JRzw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "6jmC7FIjIVRteZm54KxPdQ_0.png",
-      "lat": 16.3105380842209,
-      "lng": 80.42423773010161,
-      "place_id": "ChIJlfahh2R1SjoRIhea3c7W1cI",
-      "relevancy": "XXX"
+      "image": "6e3briPijLqgoOQ2IN81BA_0.png",
+      "lat": 16.310639369597,
+      "lng": 80.42053580365346,
+      "place_id": "ChIJ6VveWHt1SjoR9OaNRamvixY",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "6jmC7FIjIVRteZm54KxPdQ_180.png",
-      "lat": 16.3105380842209,
-      "lng": 80.42423773010161,
-      "place_id": "ChIJlfahh2R1SjoRIhea3c7W1cI",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "761FJbTuQQDMS23Ms1D8_A_0.png",
-      "lat": 16.31357065363856,
-      "lng": 80.42350275756763,
-      "place_id": "ChIJQX5-G2N1SjoR4nSnZKKgoYI",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "761FJbTuQQDMS23Ms1D8_A_180.png",
-      "lat": 16.31357065363856,
-      "lng": 80.42350275756763,
-      "place_id": "ChIJQX5-G2N1SjoR4nSnZKKgoYI",
-      "relevancy": "XXX"
+      "image": "6e3briPijLqgoOQ2IN81BA_180.png",
+      "lat": 16.310639369597,
+      "lng": 80.42053580365346,
+      "place_id": "ChIJ6VveWHt1SjoR9OaNRamvixY",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "79xO_WNUn5_NRm9SwRIOrg_0.png",
       "lat": 16.31428192950641,
       "lng": 80.42180814449101,
       "place_id": "ChIJ9TJ00WJ1SjoR28r76-n6CWM",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "79xO_WNUn5_NRm9SwRIOrg_180.png",
       "lat": 16.31428192950641,
       "lng": 80.42180814449101,
       "place_id": "ChIJ9TJ00WJ1SjoR28r76-n6CWM",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "7COuTNkFqSyp9HhqZqnYpg_0.png",
-      "lat": 16.3136350508312,
-      "lng": 80.4208538482306,
-      "place_id": "ChIJo1_iJ311SjoRXS4EEtsd8MA",
-      "relevancy": "XXX"
+      "image": "7g92_3TAHOS48VEWIkKDCw_0.png",
+      "lat": 16.31629012258979,
+      "lng": 80.42506234850126,
+      "place_id": "ChIJ2def7mN1SjoR7HUFEcWDIwY",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "7COuTNkFqSyp9HhqZqnYpg_180.png",
-      "lat": 16.3136350508312,
-      "lng": 80.4208538482306,
-      "place_id": "ChIJo1_iJ311SjoRXS4EEtsd8MA",
-      "relevancy": "XXX"
+      "image": "7g92_3TAHOS48VEWIkKDCw_180.png",
+      "lat": 16.31629012258979,
+      "lng": 80.42506234850126,
+      "place_id": "ChIJ2def7mN1SjoR7HUFEcWDIwY",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "7RuS-d508PDVRIPJZFCnaQ_0.png",
-      "lat": 16.31327410864275,
-      "lng": 80.42191936514214,
-      "place_id": "ChIJlW0uO2N1SjoRiCavpn89YPU",
-      "relevancy": "XXX"
+      "image": "7yWJM2FK8-4Dv6F5xPtBeg_0.png",
+      "lat": 16.31644514665316,
+      "lng": 80.42451882970182,
+      "place_id": "ChIJCzgyeWJ1SjoRRqPqcTvpPwM",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "7RuS-d508PDVRIPJZFCnaQ_180.png",
-      "lat": 16.31327410864275,
-      "lng": 80.42191936514214,
-      "place_id": "ChIJlW0uO2N1SjoRiCavpn89YPU",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "7ig14-SmexFZtRiPWKIViA_0.png",
-      "lat": 16.31459908387187,
-      "lng": 80.42538394152453,
-      "place_id": "ChIJgZ8SRmJ1SjoRdsHsMzmRhUU",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "7ig14-SmexFZtRiPWKIViA_180.png",
-      "lat": 16.31459908387187,
-      "lng": 80.42538394152453,
-      "place_id": "ChIJgZ8SRmJ1SjoRdsHsMzmRhUU",
-      "relevancy": "XXX"
+      "image": "7yWJM2FK8-4Dv6F5xPtBeg_180.png",
+      "lat": 16.31644514665316,
+      "lng": 80.42451882970182,
+      "place_id": "ChIJCzgyeWJ1SjoRRqPqcTvpPwM",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "8A-2mrI4icC2A_QNavz_lA_0.png",
       "lat": 16.31267275304512,
       "lng": 80.42222152797937,
       "place_id": "ChIJefYGOmN1SjoRRXJ-FSkr8R0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "8A-2mrI4icC2A_QNavz_lA_180.png",
       "lat": 16.31267275304512,
       "lng": 80.42222152797937,
       "place_id": "ChIJefYGOmN1SjoRRXJ-FSkr8R0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "8HUsxUAmu3x46k5uZuUGTA_0.png",
-      "lat": 16.31011187921204,
-      "lng": 80.42594367003566,
-      "place_id": "ChIJh4GCE2R1SjoRpqhxo5mkLEo",
-      "relevancy": "XXX"
+      "image": "8LZYnK-Cd70nLTbAiKUs9A_0.png",
+      "lat": 16.31271522574216,
+      "lng": 80.41956943653203,
+      "place_id": "ChIJn8XG73x1SjoRvtQ8PYbO-QQ",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "8HUsxUAmu3x46k5uZuUGTA_180.png",
-      "lat": 16.31011187921204,
-      "lng": 80.42594367003566,
-      "place_id": "ChIJh4GCE2R1SjoRpqhxo5mkLEo",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "8a7HRpafubpkJ5yALNOJsw_0.png",
-      "lat": 16.31226244786901,
-      "lng": 80.42501905050742,
-      "place_id": "ChIJL89il2N1SjoRjfZjbYygQK4",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "8a7HRpafubpkJ5yALNOJsw_180.png",
-      "lat": 16.31226244786901,
-      "lng": 80.42501905050742,
-      "place_id": "ChIJL89il2N1SjoRjfZjbYygQK4",
-      "relevancy": "XXX"
+      "image": "8LZYnK-Cd70nLTbAiKUs9A_180.png",
+      "lat": 16.31271522574216,
+      "lng": 80.41956943653203,
+      "place_id": "ChIJn8XG73x1SjoRvtQ8PYbO-QQ",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "98P8jXZLyTSimtOAWfvO9g_0.png",
       "lat": 16.3127853296821,
       "lng": 80.42336046572933,
       "place_id": "ChIJ4VBNEmN1SjoRvJuDE1K02wk",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "98P8jXZLyTSimtOAWfvO9g_180.png",
       "lat": 16.3127853296821,
       "lng": 80.42336046572933,
       "place_id": "ChIJ4VBNEmN1SjoRvJuDE1K02wk",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "9CPjUYEFmZOBFOgvt1Rz-Q_0.png",
-      "lat": 16.31247240171682,
-      "lng": 80.42447205058308,
-      "place_id": "ChIJR5sNEQN1SjoRM5LWEX0eWic",
-      "relevancy": "XXX"
+      "image": "9L5tw9lqAzuqY19AqUxZNw_0.png",
+      "lat": 16.31007270505948,
+      "lng": 80.42293469246043,
+      "place_id": "ChIJDVWbvWR1SjoRiKLV_HNdIHU",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "9CPjUYEFmZOBFOgvt1Rz-Q_180.png",
-      "lat": 16.31247240171682,
-      "lng": 80.42447205058308,
-      "place_id": "ChIJR5sNEQN1SjoRM5LWEX0eWic",
-      "relevancy": "XXX"
+      "image": "9L5tw9lqAzuqY19AqUxZNw_180.png",
+      "lat": 16.31007270505948,
+      "lng": 80.42293469246043,
+      "place_id": "ChIJDVWbvWR1SjoRiKLV_HNdIHU",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "9TxUSpOL7qqx4DKAEM7KIA_0.png",
-      "lat": 16.31294441874065,
-      "lng": 80.42067003457453,
-      "place_id": "ChIJbY6YxXx1SjoRiZJLd6hCMPg",
-      "relevancy": "XXX"
+      "image": "9v5x0n_Ez4NtNtfKF_HN_w_0.png",
+      "lat": 16.3131292361942,
+      "lng": 80.41977982737491,
+      "place_id": "ChIJY4bG53x1SjoRJxgSnbmQB0M",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "9TxUSpOL7qqx4DKAEM7KIA_180.png",
-      "lat": 16.31294441874065,
-      "lng": 80.42067003457453,
-      "place_id": "ChIJbY6YxXx1SjoRiZJLd6hCMPg",
-      "relevancy": "XXX"
+      "image": "9v5x0n_Ez4NtNtfKF_HN_w_180.png",
+      "lat": 16.3131292361942,
+      "lng": 80.41977982737491,
+      "place_id": "ChIJY4bG53x1SjoRJxgSnbmQB0M",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "A2_6Q0olmYslvDXTpHtkgA_0.png",
+      "lat": 16.31615692628208,
+      "lng": 80.42065016739299,
+      "place_id": "ChIJfW-eW311SjoR9OLyRpDKBDw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "A2_6Q0olmYslvDXTpHtkgA_180.png",
+      "lat": 16.31615692628208,
+      "lng": 80.42065016739299,
+      "place_id": "ChIJfW-eW311SjoR9OLyRpDKBDw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "AAARVLKopicyFBH6P6Fy1w_0.png",
       "lat": 16.31450139504851,
       "lng": 80.42580698557981,
       "place_id": "ChIJGYby22J1SjoR_bNtj4ffnWw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "AAARVLKopicyFBH6P6Fy1w_180.png",
       "lat": 16.31450139504851,
       "lng": 80.42580698557981,
       "place_id": "ChIJGYby22J1SjoR_bNtj4ffnWw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "AKXLFBM3V9a43BbGqhz2Yw_0.png",
+      "lat": 16.31216148105226,
+      "lng": 80.42513162524463,
+      "place_id": "ChIJiaJzKgB1SjoRVZUcUJ4NMdI",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "AKXLFBM3V9a43BbGqhz2Yw_180.png",
+      "lat": 16.31216148105226,
+      "lng": 80.42513162524463,
+      "place_id": "ChIJiaJzKgB1SjoRVZUcUJ4NMdI",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "AUn6RO-2BZ5JoCfDsI4EEA_0.png",
       "lat": 16.31174710486422,
       "lng": 80.42035767778408,
       "place_id": "ChIJbbrtMwB1SjoRG5Ls49D25MY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "AUn6RO-2BZ5JoCfDsI4EEA_180.png",
       "lat": 16.31174710486422,
       "lng": 80.42035767778408,
       "place_id": "ChIJbbrtMwB1SjoRG5Ls49D25MY",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "AfpAaM1syHe30fVIfcbq0w_0.png",
-      "lat": 16.31521595508808,
-      "lng": 80.42559652503867,
-      "place_id": "ChIJk3JbQGJ1SjoROlbA9o3_VYo",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "AfpAaM1syHe30fVIfcbq0w_180.png",
-      "lat": 16.31521595508808,
-      "lng": 80.42559652503867,
-      "place_id": "ChIJk3JbQGJ1SjoROlbA9o3_VYo",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "Al6kEA5PlpTSeVjW6FnOMw_0.png",
-      "lat": 16.31290981984348,
-      "lng": 80.42687965539872,
-      "place_id": "ChIJk9M432N1SjoRPpRU0Qf0fY4",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "Al6kEA5PlpTSeVjW6FnOMw_180.png",
-      "lat": 16.31290981984348,
-      "lng": 80.42687965539872,
-      "place_id": "ChIJk9M432N1SjoRPpRU0Qf0fY4",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "AlFMTTLp2xystEnYq2fOCA_0.png",
-      "lat": 16.31410130633881,
-      "lng": 80.4218336997835,
-      "place_id": "ChIJ-wC61mJ1SjoRUz7VRkdwAHY",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "AlFMTTLp2xystEnYq2fOCA_180.png",
-      "lat": 16.31410130633881,
-      "lng": 80.4218336997835,
-      "place_id": "ChIJ-wC61mJ1SjoRUz7VRkdwAHY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Axe1Gd7tzmxJh9eN7q5F1w_0.png",
       "lat": 16.31354510763202,
       "lng": 80.42111882785085,
       "place_id": "ChIJkcsAKn11SjoRoftDB4fsz-M",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Axe1Gd7tzmxJh9eN7q5F1w_180.png",
       "lat": 16.31354510763202,
       "lng": 80.42111882785085,
       "place_id": "ChIJkcsAKn11SjoRoftDB4fsz-M",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "B3BfL6mv3FqjozB5XH6R7w_0.png",
-      "lat": 16.31641785250171,
-      "lng": 80.4246044074047,
-      "place_id": "ChIJQ1lbfWJ1SjoRspAmBu6fY88",
-      "relevancy": "XXX"
+      "image": "BJptA0JxuexYCwS6P-QL-A_0.png",
+      "lat": 16.30791422089817,
+      "lng": 80.42301806438628,
+      "place_id": "ChIJhWTNH2V1SjoRv8-_lFS57Y4",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "B3BfL6mv3FqjozB5XH6R7w_180.png",
-      "lat": 16.31641785250171,
-      "lng": 80.4246044074047,
-      "place_id": "ChIJQ1lbfWJ1SjoRspAmBu6fY88",
-      "relevancy": "XXX"
+      "image": "BJptA0JxuexYCwS6P-QL-A_180.png",
+      "lat": 16.30791422089817,
+      "lng": 80.42301806438628,
+      "place_id": "ChIJhWTNH2V1SjoRv8-_lFS57Y4",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "BVaWOiWctr7JW15xNBn5-Q_0.png",
+      "lat": 16.3113436997891,
+      "lng": 80.42170651755266,
+      "place_id": "ChIJnwYBU2N1SjoR5-MhKvXf7-A",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "BVaWOiWctr7JW15xNBn5-Q_180.png",
+      "lat": 16.3113436997891,
+      "lng": 80.42170651755266,
+      "place_id": "ChIJnwYBU2N1SjoR5-MhKvXf7-A",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "BxlnAnX2Fz2r7V3CySswqQ_0.png",
       "lat": 16.30950647303179,
       "lng": 80.42270792379661,
       "place_id": "ChIJC6zWvmR1SjoRIzwHzWmnYR8",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "BxlnAnX2Fz2r7V3CySswqQ_180.png",
       "lat": 16.30950647303179,
       "lng": 80.42270792379661,
       "place_id": "ChIJC6zWvmR1SjoRIzwHzWmnYR8",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "C7wkfaYNRyKi71VM5XEv5Q_0.png",
       "lat": 16.31535464237642,
       "lng": 80.42514699176938,
       "place_id": "ChIJxUCGaGJ1SjoRjs6Jh_pOcz8",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "C7wkfaYNRyKi71VM5XEv5Q_180.png",
       "lat": 16.31535464237642,
       "lng": 80.42514699176938,
       "place_id": "ChIJxUCGaGJ1SjoRjs6Jh_pOcz8",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "CAoSF0NJSE0wb2dLRUlDQWdJRDJtc2l1NGdF_0.png",
-      "lat": 16.31213068825845,
-      "lng": 80.42515785870229,
-      "place_id": "ChIJHV87kWN1SjoRDEL8GhFIIk0",
-      "relevancy": "XXX"
+      "image": "CAoSFkNJSE0wb2dLRUlDQWdJQ0JuclR6VWc._0.png",
+      "lat": 16.31183258212295,
+      "lng": 80.42749667837164,
+      "place_id": "ChIJUQetUGF1SjoRbj83uble_f4",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "CAoSF0NJSE0wb2dLRUlDQWdJRDJtc2l1NGdF_180.png",
-      "lat": 16.31213068825845,
-      "lng": 80.42515785870229,
-      "place_id": "ChIJHV87kWN1SjoRDEL8GhFIIk0",
-      "relevancy": "XXX"
+      "image": "CAoSFkNJSE0wb2dLRUlDQWdJQ0JuclR6VWc._180.png",
+      "lat": 16.31183258212295,
+      "lng": 80.42749667837164,
+      "place_id": "ChIJUQetUGF1SjoRbj83uble_f4",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "CAoSFkNJSE0wb2dLRUlDQWdJQ0VyZGFuWkE._0.png",
-      "lat": 16.31145707333763,
-      "lng": 80.42467996700985,
-      "place_id": "ChIJ-QO3CDN1SjoRU7Ftbvh52-M",
-      "relevancy": "XXX"
+      "image": "CyyRWXgsWB7HXx-qG0SwiA_0.png",
+      "lat": 16.31524391826508,
+      "lng": 80.42550610919332,
+      "place_id": "ChIJk3JbQGJ1SjoROlbA9o3_VYo",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "CAoSFkNJSE0wb2dLRUlDQWdJQ0VyZGFuWkE._180.png",
-      "lat": 16.31145707333763,
-      "lng": 80.42467996700985,
-      "place_id": "ChIJ-QO3CDN1SjoRU7Ftbvh52-M",
-      "relevancy": "XXX"
+      "image": "CyyRWXgsWB7HXx-qG0SwiA_180.png",
+      "lat": 16.31524391826508,
+      "lng": 80.42550610919332,
+      "place_id": "ChIJk3JbQGJ1SjoROlbA9o3_VYo",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "CdT2pPnc3WgWp-voKUyc4A_0.png",
-      "lat": 16.31333628516323,
-      "lng": 80.42367306597623,
-      "place_id": "ChIJdWrgBGN1SjoRVrN0dbdAn9Y",
-      "relevancy": "XXX"
+      "image": "DIk6s9ni-zo6spOvbFLlbw_0.png",
+      "lat": 16.31372513264762,
+      "lng": 80.4205880187433,
+      "place_id": "ChIJq2OY2Hx1SjoRvNrK1EDRm-4",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "CdT2pPnc3WgWp-voKUyc4A_180.png",
-      "lat": 16.31333628516323,
-      "lng": 80.42367306597623,
-      "place_id": "ChIJdWrgBGN1SjoRVrN0dbdAn9Y",
-      "relevancy": "XXX"
+      "image": "DIk6s9ni-zo6spOvbFLlbw_180.png",
+      "lat": 16.31372513264762,
+      "lng": 80.4205880187433,
+      "place_id": "ChIJq2OY2Hx1SjoRvNrK1EDRm-4",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "DeNzA9VbixZCoVoBFg6rqw_0.png",
-      "lat": 16.31122373839461,
-      "lng": 80.42205580126513,
-      "place_id": "ChIJFwQ7V2N1SjoRW3WprEnDQeo",
-      "relevancy": "XXX"
+      "image": "DVBaFf4x8OpFq0lgadjD8w_0.png",
+      "lat": 16.31420821048031,
+      "lng": 80.42396316678692,
+      "place_id": "ChIJEd07ckB1SjoRG_PjJ7XoWQc",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "DeNzA9VbixZCoVoBFg6rqw_180.png",
-      "lat": 16.31122373839461,
-      "lng": 80.42205580126513,
-      "place_id": "ChIJFwQ7V2N1SjoRW3WprEnDQeo",
-      "relevancy": "XXX"
+      "image": "DVBaFf4x8OpFq0lgadjD8w_180.png",
+      "lat": 16.31420821048031,
+      "lng": 80.42396316678692,
+      "place_id": "ChIJEd07ckB1SjoRG_PjJ7XoWQc",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "E6B-YT8D5VcDpraTDXxq-w_0.png",
       "lat": 16.31215459696353,
       "lng": 80.42263974874648,
       "place_id": "ChIJ0yWWeRt1SjoR8DowWDxGdck",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "E6B-YT8D5VcDpraTDXxq-w_180.png",
       "lat": 16.31215459696353,
       "lng": 80.42263974874648,
       "place_id": "ChIJ0yWWeRt1SjoR8DowWDxGdck",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "E80MtFx3yzyGVR4snA_l5Q_0.png",
-      "lat": 16.31525511707306,
-      "lng": 80.4242695671622,
-      "place_id": "ChIJX0yUX2J1SjoREVrC4bo5tTQ",
-      "relevancy": "XXX"
+      "image": "EJZhsZFuFDRSiHCmIFExwQ_0.png",
+      "lat": 16.31237636283143,
+      "lng": 80.41980971335961,
+      "place_id": "ChIJXVrY6nx1SjoRGz66NhBYU7c",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "E80MtFx3yzyGVR4snA_l5Q_180.png",
-      "lat": 16.31525511707306,
-      "lng": 80.4242695671622,
-      "place_id": "ChIJX0yUX2J1SjoREVrC4bo5tTQ",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "EHC31nxvkAWaPmjAGKSBQA_0.png",
-      "lat": 16.31235154423587,
-      "lng": 80.42474508405286,
-      "place_id": "ChIJmyB3omN1SjoRbc0oM1c6pyI",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "EHC31nxvkAWaPmjAGKSBQA_180.png",
-      "lat": 16.31235154423587,
-      "lng": 80.42474508405286,
-      "place_id": "ChIJmyB3omN1SjoRbc0oM1c6pyI",
-      "relevancy": "XXX"
+      "image": "EJZhsZFuFDRSiHCmIFExwQ_180.png",
+      "lat": 16.31237636283143,
+      "lng": 80.41980971335961,
+      "place_id": "ChIJXVrY6nx1SjoRGz66NhBYU7c",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "EXCumf7vnIfBJ95zZYwQvQ_0.png",
       "lat": 16.3146902554751,
       "lng": 80.42508722361303,
       "place_id": "ChIJZQ36T2J1SjoRFNxt74Zudjo",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "EXCumf7vnIfBJ95zZYwQvQ_180.png",
       "lat": 16.3146902554751,
       "lng": 80.42508722361303,
       "place_id": "ChIJZQ36T2J1SjoRFNxt74Zudjo",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "EiGuAfNELt1UzT7tdWNmfA_0.png",
       "lat": 16.31557066055793,
       "lng": 80.42442662981655,
       "place_id": "ChIJS58tLD51SjoRZlosjc7inSQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "EiGuAfNELt1UzT7tdWNmfA_180.png",
       "lat": 16.31557066055793,
       "lng": 80.42442662981655,
       "place_id": "ChIJS58tLD51SjoRZlosjc7inSQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "ElYIL9WE-PIgc_Dw3u7XpA_0.png",
       "lat": 16.30908336243541,
       "lng": 80.42554669021398,
       "place_id": "ChIJ6VCrR2R1SjoRj4K6dlWF2wY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "ElYIL9WE-PIgc_Dw3u7XpA_180.png",
       "lat": 16.30908336243541,
       "lng": 80.42554669021398,
       "place_id": "ChIJ6VCrR2R1SjoRj4K6dlWF2wY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "F-BCJ-JLz5somMobXy0YUQ_0.png",
+      "lat": 16.31063060156478,
+      "lng": 80.42667123507736,
+      "place_id": "ChIJfUomBGR1SjoRQW53HfIlBvA",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "F-BCJ-JLz5somMobXy0YUQ_180.png",
+      "lat": 16.31063060156478,
+      "lng": 80.42667123507736,
+      "place_id": "ChIJfUomBGR1SjoRQW53HfIlBvA",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "F1vSxtq2B69crkcwRGle3g_0.png",
       "lat": 16.31041158351822,
       "lng": 80.42487319553145,
       "place_id": "ChIJnbjvemR1SjoR33uzGgos6TQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "F1vSxtq2B69crkcwRGle3g_180.png",
       "lat": 16.31041158351822,
       "lng": 80.42487319553145,
       "place_id": "ChIJnbjvemR1SjoR33uzGgos6TQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "FUhS1UCptFUyVTXgTmZqwA_0.png",
       "lat": 16.3125706619339,
       "lng": 80.42676003663031,
       "place_id": "ChIJzzI43mN1SjoRMz-hT28Q46c",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "FUhS1UCptFUyVTXgTmZqwA_180.png",
       "lat": 16.3125706619339,
       "lng": 80.42676003663031,
       "place_id": "ChIJzzI43mN1SjoRMz-hT28Q46c",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "FYZuiDQoMcYnq_-0QpAtQQ_0.png",
       "lat": 16.31671718118406,
       "lng": 80.42334628747201,
       "place_id": "ChIJ4ZiinmJ1SjoRwheRqQfeIg4",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "FYZuiDQoMcYnq_-0QpAtQQ_180.png",
       "lat": 16.31671718118406,
       "lng": 80.42334628747201,
       "place_id": "ChIJ4ZiinmJ1SjoRwheRqQfeIg4",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "FZOhjEuJrfwoMB_UI1Eivw_0.png",
       "lat": 16.30959784100413,
       "lng": 80.42557513087566,
       "place_id": "ChIJ-Yg0QGR1SjoRU2ufrkVn4p0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "FZOhjEuJrfwoMB_UI1Eivw_180.png",
       "lat": 16.30959784100413,
       "lng": 80.42557513087566,
       "place_id": "ChIJ-Yg0QGR1SjoRU2ufrkVn4p0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "FqiLbo1UvyQVKel8PIUmtw_0.png",
+      "lat": 16.31457161135518,
+      "lng": 80.42547342362886,
+      "place_id": "ChIJe3nQ_Z51SjoR8A1PYHTcFCg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "FqiLbo1UvyQVKel8PIUmtw_180.png",
+      "lat": 16.31457161135518,
+      "lng": 80.42547342362886,
+      "place_id": "ChIJe3nQ_Z51SjoR8A1PYHTcFCg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "Fzl_9rPKxu7s3r5LDWtLaw_0.png",
+      "lat": 16.31189128472741,
+      "lng": 80.42508849708273,
+      "place_id": "ChIJF-GikWN1SjoRmD3SMyaGDbc",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "Fzl_9rPKxu7s3r5LDWtLaw_180.png",
+      "lat": 16.31189128472741,
+      "lng": 80.42508849708273,
+      "place_id": "ChIJF-GikWN1SjoRmD3SMyaGDbc",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "GA9P16bFjHmHkNboM1uEXw_0.png",
       "lat": 16.31337161277212,
       "lng": 80.42243386485089,
       "place_id": "ChIJ_fftJWN1SjoRPvalXeUOKgo",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "GA9P16bFjHmHkNboM1uEXw_180.png",
       "lat": 16.31337161277212,
       "lng": 80.42243386485089,
       "place_id": "ChIJ_fftJWN1SjoRPvalXeUOKgo",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "GID2_kbfxeN3m56BS38EBQ_0.png",
+      "lat": 16.31283408877019,
+      "lng": 80.42590190064807,
+      "place_id": "ChIJT4lNwGN1SjoRkzvDpNTVhLY",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "GID2_kbfxeN3m56BS38EBQ_180.png",
+      "lat": 16.31283408877019,
+      "lng": 80.42590190064807,
+      "place_id": "ChIJT4lNwGN1SjoRkzvDpNTVhLY",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "Gf-QehRDi8kexucK9r0AOg_0.png",
+      "lat": 16.31552630603585,
+      "lng": 80.42364878473883,
+      "place_id": "ChIJb3y0jWJ1SjoRow_Jr5DbF6c",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "Gf-QehRDi8kexucK9r0AOg_180.png",
+      "lat": 16.31552630603585,
+      "lng": 80.42364878473883,
+      "place_id": "ChIJb3y0jWJ1SjoRow_Jr5DbF6c",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "GlT_YdpZfIMn5WeBymmemw_0.png",
       "lat": 16.31170689286031,
       "lng": 80.42266326617356,
       "place_id": "ChIJyepTW2N1SjoRbFUO0Z8HjLY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "GlT_YdpZfIMn5WeBymmemw_180.png",
       "lat": 16.31170689286031,
       "lng": 80.42266326617356,
       "place_id": "ChIJyepTW2N1SjoRbFUO0Z8HjLY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "HPVuQoY1TcNSy8k-1rYBdQ_0.png",
-      "lat": 16.30892068004872,
-      "lng": 80.42616032717379,
-      "place_id": "ChIJYbicOmR1SjoRkd5_tPflwPc",
-      "relevancy": "XXX"
+      "image": "H5DKTbRHINCkulLWX3p5ag_0.png",
+      "lat": 16.31535868854065,
+      "lng": 80.42301492308304,
+      "place_id": "ChIJ9QeglWJ1SjoR5CHni3kcPpg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "HPVuQoY1TcNSy8k-1rYBdQ_180.png",
-      "lat": 16.30892068004872,
-      "lng": 80.42616032717379,
-      "place_id": "ChIJYbicOmR1SjoRkd5_tPflwPc",
-      "relevancy": "XXX"
+      "image": "H5DKTbRHINCkulLWX3p5ag_180.png",
+      "lat": 16.31535868854065,
+      "lng": 80.42301492308304,
+      "place_id": "ChIJ9QeglWJ1SjoR5CHni3kcPpg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "HX3QOalfktoWcDrGMKlxIQ_0.png",
-      "lat": 16.31005574958789,
-      "lng": 80.42454107312113,
-      "place_id": "ChIJW4yrY2R1SjoREDnrm8ZGT20",
-      "relevancy": "XXX"
+      "image": "HR-ieFWEUTXA8G8z5mooUA_0.png",
+      "lat": 16.31188860426559,
+      "lng": 80.4218158705105,
+      "place_id": "ChIJ90_bS2N1SjoRqr2e7rukVoA",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "HX3QOalfktoWcDrGMKlxIQ_180.png",
-      "lat": 16.31005574958789,
-      "lng": 80.42454107312113,
-      "place_id": "ChIJW4yrY2R1SjoREDnrm8ZGT20",
-      "relevancy": "XXX"
+      "image": "HR-ieFWEUTXA8G8z5mooUA_180.png",
+      "lat": 16.31188860426559,
+      "lng": 80.4218158705105,
+      "place_id": "ChIJ90_bS2N1SjoRqr2e7rukVoA",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "HWOlwWoUvkxT2GnD9YVDPg_0.png",
+      "lat": 16.31167708656786,
+      "lng": 80.42073838103896,
+      "place_id": "ChIJmYPhunx1SjoRbuxMr6iXSM0",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "HWOlwWoUvkxT2GnD9YVDPg_180.png",
+      "lat": 16.31167708656786,
+      "lng": 80.42073838103896,
+      "place_id": "ChIJmYPhunx1SjoRbuxMr6iXSM0",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Hs3WIhhcQbLzgcdn7K1RDg_0.png",
       "lat": 16.31507099219758,
       "lng": 80.42383335592554,
       "place_id": "ChIJQ-nX82J1SjoR_pyMYj-eTOM",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Hs3WIhhcQbLzgcdn7K1RDg_180.png",
       "lat": 16.31507099219758,
       "lng": 80.42383335592554,
       "place_id": "ChIJQ-nX82J1SjoR_pyMYj-eTOM",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "Ht14HPW7ScJVpimr2MUWtA_0.png",
-      "lat": 16.3116700620187,
-      "lng": 80.42674000110657,
-      "place_id": "ChIJe-On_GN1SjoRDWPq5z3SCNo",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "Ht14HPW7ScJVpimr2MUWtA_180.png",
-      "lat": 16.3116700620187,
-      "lng": 80.42674000110657,
-      "place_id": "ChIJe-On_GN1SjoRDWPq5z3SCNo",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "I-HSlkVs_OSnx-FjlI7rCQ_0.png",
       "lat": 16.30912564488553,
       "lng": 80.42026742606645,
       "place_id": "ChIJi_F1Pnt1SjoRxckKjq9lViw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "I-HSlkVs_OSnx-FjlI7rCQ_180.png",
       "lat": 16.30912564488553,
       "lng": 80.42026742606645,
       "place_id": "ChIJi_F1Pnt1SjoRxckKjq9lViw",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "I1D5SzDyt9nv0pdJSiQlOQ_0.png",
-      "lat": 16.31391496792079,
-      "lng": 80.42067512872286,
-      "place_id": "ChIJf6ewJn11SjoRp1L8iwhx2P4",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "I1D5SzDyt9nv0pdJSiQlOQ_180.png",
-      "lat": 16.31391496792079,
-      "lng": 80.42067512872286,
-      "place_id": "ChIJf6ewJn11SjoRp1L8iwhx2P4",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "I5PDjrQMufqSgpu0j400KA_0.png",
       "lat": 16.31154554156345,
       "lng": 80.42693645090718,
       "place_id": "ChIJRYs6_GN1SjoRGKAlps-62hQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "I5PDjrQMufqSgpu0j400KA_180.png",
       "lat": 16.31154554156345,
       "lng": 80.42693645090718,
       "place_id": "ChIJRYs6_GN1SjoRGKAlps-62hQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "IJAHK0b-AkeKQ2swFjGJxA_0.png",
-      "lat": 16.3106545659068,
-      "lng": 80.42132887518004,
-      "place_id": "ChIJxzIFVXt1SjoRqflsjAeo_ew",
-      "relevancy": "XXX"
+      "image": "IExeKgqPRXnntXdtvUo7Qw_0.png",
+      "lat": 16.31438899314514,
+      "lng": 80.42033568795783,
+      "place_id": "ChIJeU5hI311SjoRvGixsXf85ds",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "IJAHK0b-AkeKQ2swFjGJxA_180.png",
-      "lat": 16.3106545659068,
-      "lng": 80.42132887518004,
-      "place_id": "ChIJxzIFVXt1SjoRqflsjAeo_ew",
-      "relevancy": "XXX"
+      "image": "IExeKgqPRXnntXdtvUo7Qw_180.png",
+      "lat": 16.31438899314514,
+      "lng": 80.42033568795783,
+      "place_id": "ChIJeU5hI311SjoRvGixsXf85ds",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "IT4aJ_yLd8X8158ZEfsZug_0.png",
       "lat": 16.31342807610454,
       "lng": 80.42146412364528,
       "place_id": "ChIJ80At1Xx1SjoRjj6Dbztv2XI",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "IT4aJ_yLd8X8158ZEfsZug_180.png",
       "lat": 16.31342807610454,
       "lng": 80.42146412364528,
       "place_id": "ChIJ80At1Xx1SjoRjj6Dbztv2XI",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "IYkIULZI27jGXEulInWoBA_0.png",
+      "lat": 16.31399618060079,
+      "lng": 80.42711396845775,
+      "place_id": "ChIJy_IAgGF1SjoR9pLU-vHD4x8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "IYkIULZI27jGXEulInWoBA_180.png",
+      "lat": 16.31399618060079,
+      "lng": 80.42711396845775,
+      "place_id": "ChIJy_IAgGF1SjoR9pLU-vHD4x8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "IYtuuhBM3rQoJl8tdSc3Ng_0.png",
+      "lat": 16.31079640705732,
+      "lng": 80.4275881956995,
+      "place_id": "ChIJ6ZRrrWZ1SjoRfNMfm5HflyQ",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "IYtuuhBM3rQoJl8tdSc3Ng_180.png",
+      "lat": 16.31079640705732,
+      "lng": 80.4275881956995,
+      "place_id": "ChIJ6ZRrrWZ1SjoRfNMfm5HflyQ",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Ia18pSYJovDKAMr8dXjdTg_0.png",
       "lat": 16.3086280708508,
       "lng": 80.42186850930555,
       "place_id": "ChIJUUbU-P11SjoROYvJ1qs2NIA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Ia18pSYJovDKAMr8dXjdTg_180.png",
       "lat": 16.3086280708508,
       "lng": 80.42186850930555,
       "place_id": "ChIJUUbU-P11SjoROYvJ1qs2NIA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "Io1Wo5DO4pQx-DFwq9vxUQ_0.png",
-      "lat": 16.31496321057416,
-      "lng": 80.42124923724923,
-      "place_id": "ChIJI4enNn11SjoR9hf_SVRLnZA",
-      "relevancy": "XXX"
+      "image": "JTYl1P4tfwuQo-cO59nLog_0.png",
+      "lat": 16.31462567201736,
+      "lng": 80.42306756112157,
+      "place_id": "ChIJWX1Y6GJ1SjoRuClq7hiHJU8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "Io1Wo5DO4pQx-DFwq9vxUQ_180.png",
-      "lat": 16.31496321057416,
-      "lng": 80.42124923724923,
-      "place_id": "ChIJI4enNn11SjoR9hf_SVRLnZA",
-      "relevancy": "XXX"
+      "image": "JTYl1P4tfwuQo-cO59nLog_180.png",
+      "lat": 16.31462567201736,
+      "lng": 80.42306756112157,
+      "place_id": "ChIJWX1Y6GJ1SjoRuClq7hiHJU8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "IpdOTA5xWGMh31ixU5QUvw_0.png",
-      "lat": 16.31221242197539,
-      "lng": 80.42662522123358,
-      "place_id": "ChIJfTTt5mN1SjoR93QRfsdVJME",
-      "relevancy": "XXX"
+      "image": "JZb1BST7wzJPrzaJNcgdgw_0.png",
+      "lat": 16.3086867966982,
+      "lng": 80.42718765808081,
+      "place_id": "ChIJT_iNgmZ1SjoR1Hhmuwm0y7s",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "IpdOTA5xWGMh31ixU5QUvw_180.png",
-      "lat": 16.31221242197539,
-      "lng": 80.42662522123358,
-      "place_id": "ChIJfTTt5mN1SjoR93QRfsdVJME",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "ItbuIHg2awFIL3rHxhT_8w_0.png",
-      "lat": 16.31280506318856,
-      "lng": 80.42258906315004,
-      "place_id": "ChIJMRSZPmN1SjoRSH8zZ05Hk68",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "ItbuIHg2awFIL3rHxhT_8w_180.png",
-      "lat": 16.31280506318856,
-      "lng": 80.42258906315004,
-      "place_id": "ChIJMRSZPmN1SjoRSH8zZ05Hk68",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "IznzXHat4Bhkn1aMGUP8jA_0.png",
-      "lat": 16.30985107210633,
-      "lng": 80.42399262677769,
-      "place_id": "ChIJUUN1jGR1SjoR-FfNK2XDrQE",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "IznzXHat4Bhkn1aMGUP8jA_180.png",
-      "lat": 16.30985107210633,
-      "lng": 80.42399262677769,
-      "place_id": "ChIJUUN1jGR1SjoR-FfNK2XDrQE",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "JTUVfgIsj9DrFdtYuZslew_0.png",
-      "lat": 16.31239162914507,
-      "lng": 80.42781147039152,
-      "place_id": "ChIJhVcUQ2F1SjoRXV9E0fcLD_A",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "JTUVfgIsj9DrFdtYuZslew_180.png",
-      "lat": 16.31239162914507,
-      "lng": 80.42781147039152,
-      "place_id": "ChIJhVcUQ2F1SjoRXV9E0fcLD_A",
-      "relevancy": "XXX"
+      "image": "JZb1BST7wzJPrzaJNcgdgw_180.png",
+      "lat": 16.3086867966982,
+      "lng": 80.42718765808081,
+      "place_id": "ChIJT_iNgmZ1SjoR1Hhmuwm0y7s",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "JaTNV0bF9yFIyfj9yzz7qQ_0.png",
       "lat": 16.31188391154265,
       "lng": 80.4260987769077,
       "place_id": "ChIJDTwO7mN1SjoRwPwW6FZiFgA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "JaTNV0bF9yFIyfj9yzz7qQ_180.png",
       "lat": 16.31188391154265,
       "lng": 80.4260987769077,
       "place_id": "ChIJDTwO7mN1SjoRwPwW6FZiFgA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "Jo8q8xxF06EI0aiEAXOn6w_0.png",
+      "lat": 16.31353640813253,
+      "lng": 80.4261121057278,
+      "place_id": "ChIJSTPFyGN1SjoReauzOr-bqak",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "Jo8q8xxF06EI0aiEAXOn6w_180.png",
+      "lat": 16.31353640813253,
+      "lng": 80.4261121057278,
+      "place_id": "ChIJSTPFyGN1SjoReauzOr-bqak",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Ju1fk9BD7XpCj03eiDqRWg_0.png",
       "lat": 16.31387478125609,
       "lng": 80.42014143009038,
       "place_id": "ChIJq5yQIX11SjoR7PrGM6B0v44",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Ju1fk9BD7XpCj03eiDqRWg_180.png",
       "lat": 16.31387478125609,
       "lng": 80.42014143009038,
       "place_id": "ChIJq5yQIX11SjoR7PrGM6B0v44",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "Jx5kuwuwOXASyXHOWRe0kw_0.png",
-      "lat": 16.31339303033155,
-      "lng": 80.4239908438967,
-      "place_id": "ChIJWSuhBmN1SjoRcCfY-CtnSKc",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "Jx5kuwuwOXASyXHOWRe0kw_180.png",
-      "lat": 16.31339303033155,
-      "lng": 80.4239908438967,
-      "place_id": "ChIJWSuhBmN1SjoRcCfY-CtnSKc",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "JzjLVRkQn0BsxHZIngcJOg_0.png",
       "lat": 16.31460080196225,
       "lng": 80.4209369675292,
       "place_id": "ChIJMTrfMH11SjoRxEod7S-li9M",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "JzjLVRkQn0BsxHZIngcJOg_180.png",
       "lat": 16.31460080196225,
       "lng": 80.4209369675292,
       "place_id": "ChIJMTrfMH11SjoRxEod7S-li9M",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "K9TPdIykqjgo9jxc0Otvdw_0.png",
-      "lat": 16.31279394118306,
-      "lng": 80.42166678367845,
-      "place_id": "ChIJd9cDM2N1SjoRMb_RubSQaEA",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "K9TPdIykqjgo9jxc0Otvdw_180.png",
-      "lat": 16.31279394118306,
-      "lng": 80.42166678367845,
-      "place_id": "ChIJd9cDM2N1SjoRMb_RubSQaEA",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "KGIWweBiDCts-UmgFJV6UQ_0.png",
-      "lat": 16.30915407171324,
-      "lng": 80.4226212404418,
-      "place_id": "ChIJY8t7wWR1SjoRXNxa29XB718",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "KGIWweBiDCts-UmgFJV6UQ_180.png",
-      "lat": 16.30915407171324,
-      "lng": 80.4226212404418,
-      "place_id": "ChIJY8t7wWR1SjoRXNxa29XB718",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "KN3meA3hbO-TcfczFIzPSg_0.png",
-      "lat": 16.31261179511021,
-      "lng": 80.4225006816595,
-      "place_id": "ChIJfw8zOWN1SjoRkYt4ZZ7MLQQ",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "KN3meA3hbO-TcfczFIzPSg_180.png",
-      "lat": 16.31261179511021,
-      "lng": 80.4225006816595,
-      "place_id": "ChIJfw8zOWN1SjoRkYt4ZZ7MLQQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "KQN7-4MAUROTNCXgeD7Ncw_0.png",
       "lat": 16.31028419717175,
       "lng": 80.42655628531679,
       "place_id": "ChIJqeGwGmR1SjoRgI-WCwjpoWo",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "KQN7-4MAUROTNCXgeD7Ncw_180.png",
       "lat": 16.31028419717175,
       "lng": 80.42655628531679,
       "place_id": "ChIJqeGwGmR1SjoRgI-WCwjpoWo",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Km98LP7LG0KBK1uXf1UgNA_0.png",
       "lat": 16.31367901577638,
       "lng": 80.42323829491797,
       "place_id": "ChIJTZGgHmN1SjoRiwtKqU3QPS8",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Km98LP7LG0KBK1uXf1UgNA_180.png",
       "lat": 16.31367901577638,
       "lng": 80.42323829491797,
       "place_id": "ChIJTZGgHmN1SjoRiwtKqU3QPS8",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "Knb3I9lw0vtvDNT7bw8C4w_0.png",
-      "lat": 16.31427981038017,
-      "lng": 80.42403906656911,
-      "place_id": "ChIJEd07ckB1SjoRG_PjJ7XoWQc",
-      "relevancy": "XXX"
+      "image": "KzJzDuYXuwZqR8j1M5QPrw_0.png",
+      "lat": 16.31244480800813,
+      "lng": 80.4243302697907,
+      "place_id": "ChIJ8RuBCmN1SjoRWgDSWAx4DIg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "Knb3I9lw0vtvDNT7bw8C4w_180.png",
-      "lat": 16.31427981038017,
-      "lng": 80.42403906656911,
-      "place_id": "ChIJEd07ckB1SjoRG_PjJ7XoWQc",
-      "relevancy": "XXX"
+      "image": "KzJzDuYXuwZqR8j1M5QPrw_180.png",
+      "lat": 16.31244480800813,
+      "lng": 80.4243302697907,
+      "place_id": "ChIJ8RuBCmN1SjoRWgDSWAx4DIg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "LmR2nVB4DZpqyO9FCxx9Bw_0.png",
-      "lat": 16.3152635189368,
-      "lng": 80.4232978945995,
-      "place_id": "ChIJp7wnk2J1SjoRQ9h2PDOFFno",
-      "relevancy": "XXX"
+      "image": "LtVmOsfUKJwmmOCUKsdRSg_0.png",
+      "lat": 16.30990320965632,
+      "lng": 80.42359954304688,
+      "place_id": "ChIJIdCOBGZ1SjoReUgjOqAtzSI",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "LmR2nVB4DZpqyO9FCxx9Bw_180.png",
-      "lat": 16.3152635189368,
-      "lng": 80.4232978945995,
-      "place_id": "ChIJp7wnk2J1SjoRQ9h2PDOFFno",
-      "relevancy": "XXX"
+      "image": "LtVmOsfUKJwmmOCUKsdRSg_180.png",
+      "lat": 16.30990320965632,
+      "lng": 80.42359954304688,
+      "place_id": "ChIJIdCOBGZ1SjoReUgjOqAtzSI",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "LvNSQGR7LqLJSRerPzXKLQ_0.png",
       "lat": 16.30825590280844,
       "lng": 80.42315432891259,
       "place_id": "ChIJaQWt4WR1SjoRJAyFSx7tZUM",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "LvNSQGR7LqLJSRerPzXKLQ_180.png",
       "lat": 16.30825590280844,
       "lng": 80.42315432891259,
       "place_id": "ChIJaQWt4WR1SjoRJAyFSx7tZUM",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "M2OwNgxRZFA7AmhACG6TOA_0.png",
       "lat": 16.3085080171319,
       "lng": 80.42437093628214,
       "place_id": "ChIJaYvfgX11SjoRviHql7qVHsQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "M2OwNgxRZFA7AmhACG6TOA_180.png",
       "lat": 16.3085080171319,
       "lng": 80.42437093628214,
       "place_id": "ChIJaYvfgX11SjoRviHql7qVHsQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "N248NrScA-8PTUqAgTHwHw_0.png",
       "lat": 16.3170937575903,
       "lng": 80.42205792379173,
       "place_id": "ChIJD4MQVJ2KNToRsQYI3lzvliY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "N248NrScA-8PTUqAgTHwHw_180.png",
       "lat": 16.3170937575903,
       "lng": 80.42205792379173,
       "place_id": "ChIJD4MQVJ2KNToRsQYI3lzvliY",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "N6pCyNvgvN4kznTl_iRNWA_0.png",
-      "lat": 16.31544866941648,
-      "lng": 80.42274680817138,
-      "place_id": "ChIJ2_imuGJ1SjoRoXUC502l41A",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "N6pCyNvgvN4kznTl_iRNWA_180.png",
-      "lat": 16.31544866941648,
-      "lng": 80.42274680817138,
-      "place_id": "ChIJ2_imuGJ1SjoRoXUC502l41A",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "NamlG76w6FLSVH_uEKQbmw_0.png",
       "lat": 16.31490332621889,
       "lng": 80.4241653113559,
       "place_id": "ChIJa2SG92J1SjoR8D6hZxtXaRE",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "NamlG76w6FLSVH_uEKQbmw_180.png",
       "lat": 16.31490332621889,
       "lng": 80.4241653113559,
       "place_id": "ChIJa2SG92J1SjoR8D6hZxtXaRE",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "Ncxu3TNoKtDMg9-UeUhTjQ_0.png",
-      "lat": 16.3115450601045,
-      "lng": 80.42313318882309,
-      "place_id": "ChIJ02FfZmN1SjoRCrZVI_zMf0E",
-      "relevancy": "XXX"
+      "image": "Npo1op3VlvwXDv1rVA5vVA_0.png",
+      "lat": 16.31246598980613,
+      "lng": 80.4252786683377,
+      "place_id": "ChIJickilmN1SjoRTjx63sVbTUY",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "Ncxu3TNoKtDMg9-UeUhTjQ_180.png",
-      "lat": 16.3115450601045,
-      "lng": 80.42313318882309,
-      "place_id": "ChIJ02FfZmN1SjoRCrZVI_zMf0E",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "NhPD_BWEkkC9VX86VvThVA_0.png",
-      "lat": 16.31336510783931,
-      "lng": 80.42165022789194,
-      "place_id": "ChIJM1-nK2N1SjoRFjtmwFwGTKo",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "NhPD_BWEkkC9VX86VvThVA_180.png",
-      "lat": 16.31336510783931,
-      "lng": 80.42165022789194,
-      "place_id": "ChIJM1-nK2N1SjoRFjtmwFwGTKo",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "Nms5-EdVy0Tv5n3S1La_cg_0.png",
-      "lat": 16.31527881877017,
-      "lng": 80.42603128380507,
-      "place_id": "ChIJR1T8PGJ1SjoRBcpiqn8NkRA",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "Nms5-EdVy0Tv5n3S1La_cg_180.png",
-      "lat": 16.31527881877017,
-      "lng": 80.42603128380507,
-      "place_id": "ChIJR1T8PGJ1SjoRBcpiqn8NkRA",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "NyLzOSovxtPDdFN18xgzsg_0.png",
-      "lat": 16.30811048373518,
-      "lng": 80.4225686870222,
-      "place_id": "ChIJPVWo2GR1SjoRIuPVzTs_f4M",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "NyLzOSovxtPDdFN18xgzsg_180.png",
-      "lat": 16.30811048373518,
-      "lng": 80.4225686870222,
-      "place_id": "ChIJPVWo2GR1SjoRIuPVzTs_f4M",
-      "relevancy": "XXX"
+      "image": "Npo1op3VlvwXDv1rVA5vVA_180.png",
+      "lat": 16.31246598980613,
+      "lng": 80.4252786683377,
+      "place_id": "ChIJickilmN1SjoRTjx63sVbTUY",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "O0aoVLhYXOLa6zvePC9APQ_0.png",
       "lat": 16.31316706605148,
       "lng": 80.42217958692603,
       "place_id": "ChIJD97tL2N1SjoR0WsE6OgDTFs",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "O0aoVLhYXOLa6zvePC9APQ_180.png",
       "lat": 16.31316706605148,
       "lng": 80.42217958692603,
       "place_id": "ChIJD97tL2N1SjoR0WsE6OgDTFs",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "O2pirpKjzXFvhzZQVexZmA_0.png",
-      "lat": 16.30886568414305,
-      "lng": 80.42109378175165,
-      "place_id": "ChIJEc4VMXt1SjoRoTlKz0YL83o",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "O2pirpKjzXFvhzZQVexZmA_180.png",
-      "lat": 16.30886568414305,
-      "lng": 80.42109378175165,
-      "place_id": "ChIJEc4VMXt1SjoRoTlKz0YL83o",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "OL4Dnzf5sgUUIxr7jwD8og_0.png",
       "lat": 16.31372529683138,
       "lng": 80.42555509506724,
       "place_id": "ChIJ-0eFtWN1SjoRjoYVYJFzBZk",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "OL4Dnzf5sgUUIxr7jwD8og_180.png",
       "lat": 16.31372529683138,
       "lng": 80.42555509506724,
       "place_id": "ChIJ-0eFtWN1SjoRjoYVYJFzBZk",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "P0W4T49W2qV2sP-xhHj3SQ_0.png",
-      "lat": 16.31347117881018,
-      "lng": 80.42628767240771,
-      "place_id": "ChIJ81_4js91SjoRy6qReOEdq7U",
-      "relevancy": "XXX"
+      "image": "OMzgIManeopSAgCbdop0Ag_0.png",
+      "lat": 16.31008439058683,
+      "lng": 80.42603476458277,
+      "place_id": "ChIJQUAxH2R1SjoRB5Te_6Ku_Eg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "P0W4T49W2qV2sP-xhHj3SQ_180.png",
-      "lat": 16.31347117881018,
-      "lng": 80.42628767240771,
-      "place_id": "ChIJ81_4js91SjoRy6qReOEdq7U",
-      "relevancy": "XXX"
+      "image": "OMzgIManeopSAgCbdop0Ag_180.png",
+      "lat": 16.31008439058683,
+      "lng": 80.42603476458277,
+      "place_id": "ChIJQUAxH2R1SjoRB5Te_6Ku_Eg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "PHPAffA6DokRDBtrwC5UTA_0.png",
-      "lat": 16.31509586342009,
-      "lng": 80.42088993169521,
-      "place_id": "ChIJ57nnN311SjoRkzpa0f9_xcs",
-      "relevancy": "XXX"
+      "image": "OcAE0nG2WdQh8u-hfFUl7Q_0.png",
+      "lat": 16.31603255488815,
+      "lng": 80.42205851809916,
+      "place_id": "ChIJccMBsGJ1SjoRhZkUT0H_En8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "PHPAffA6DokRDBtrwC5UTA_180.png",
-      "lat": 16.31509586342009,
-      "lng": 80.42088993169521,
-      "place_id": "ChIJ57nnN311SjoRkzpa0f9_xcs",
-      "relevancy": "XXX"
+      "image": "OcAE0nG2WdQh8u-hfFUl7Q_180.png",
+      "lat": 16.31603255488815,
+      "lng": 80.42205851809916,
+      "place_id": "ChIJccMBsGJ1SjoRhZkUT0H_En8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "PE13kIdXH0X5gzVzBxpyHQ_0.png",
+      "lat": 16.3080856034437,
+      "lng": 80.42746416337846,
+      "place_id": "ChIJX4XrfWZ1SjoRJmj9InZYO88",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "PE13kIdXH0X5gzVzBxpyHQ_180.png",
+      "lat": 16.3080856034437,
+      "lng": 80.42746416337846,
+      "place_id": "ChIJX4XrfWZ1SjoRJmj9InZYO88",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "PM-tIfCGsZAEdCqfFnthTw_0.png",
       "lat": 16.31022059302262,
       "lng": 80.42558328103365,
       "place_id": "ChIJr8O4cmR1SjoRkS3a-cksqwo",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "PM-tIfCGsZAEdCqfFnthTw_180.png",
       "lat": 16.31022059302262,
       "lng": 80.42558328103365,
       "place_id": "ChIJr8O4cmR1SjoRkS3a-cksqwo",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "PZ7OLnqJ1zwah5ZAu7MDIA_0.png",
-      "lat": 16.31520224079596,
-      "lng": 80.423480174273,
-      "place_id": "ChIJDdAA7WJ1SjoRzGjjHI3cVXc",
-      "relevancy": "XXX"
+      "image": "PjEMD_kJX3xPbV0a2qgN7g_0.png",
+      "lat": 16.31110417000558,
+      "lng": 80.42218909583067,
+      "place_id": "ChIJK97EWWN1SjoRMqdGly1Gdhk",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "PZ7OLnqJ1zwah5ZAu7MDIA_180.png",
-      "lat": 16.31520224079596,
-      "lng": 80.423480174273,
-      "place_id": "ChIJDdAA7WJ1SjoRzGjjHI3cVXc",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "PdefBQkDHv7tXLVVBHT_4g_0.png",
-      "lat": 16.31454635183084,
-      "lng": 80.42406428158215,
-      "place_id": "ChIJa2SG92J1SjoR8D6hZxtXaRE",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "PdefBQkDHv7tXLVVBHT_4g_180.png",
-      "lat": 16.31454635183084,
-      "lng": 80.42406428158215,
-      "place_id": "ChIJa2SG92J1SjoR8D6hZxtXaRE",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "PvYDrIyv7b9NHy-NvY2JoA_0.png",
-      "lat": 16.31484841763546,
-      "lng": 80.42244252471983,
-      "place_id": "ChIJR8yyxmJ1SjoRQevpldzl5RM",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "PvYDrIyv7b9NHy-NvY2JoA_180.png",
-      "lat": 16.31484841763546,
-      "lng": 80.42244252471983,
-      "place_id": "ChIJR8yyxmJ1SjoRQevpldzl5RM",
-      "relevancy": "XXX"
+      "image": "PjEMD_kJX3xPbV0a2qgN7g_180.png",
+      "lat": 16.31110417000558,
+      "lng": 80.42218909583067,
+      "place_id": "ChIJK97EWWN1SjoRMqdGly1Gdhk",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Pz3odl4uXpM0KhrItdtZ7A_0.png",
       "lat": 16.3130482589427,
       "lng": 80.42082379281521,
       "place_id": "ChIJ0Zal2nx1SjoRpm-DKwmbbKw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Pz3odl4uXpM0KhrItdtZ7A_180.png",
       "lat": 16.3130482589427,
       "lng": 80.42082379281521,
       "place_id": "ChIJ0Zal2nx1SjoRpm-DKwmbbKw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Q3WmRIIM9Pr4fzYOumpUQg_0.png",
       "lat": 16.31033118108607,
       "lng": 80.42686276106213,
       "place_id": "ChIJO-z8HGR1SjoRkuSweOmBFE0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Q3WmRIIM9Pr4fzYOumpUQg_180.png",
       "lat": 16.31033118108607,
       "lng": 80.42686276106213,
       "place_id": "ChIJO-z8HGR1SjoRkuSweOmBFE0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Q97mIJUTPPUkoJyBzrYkpg_0.png",
       "lat": 16.30785746784702,
       "lng": 80.42339170882681,
       "place_id": "ChIJo0_CHWV1SjoRKCBqLUaHllk",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Q97mIJUTPPUkoJyBzrYkpg_180.png",
       "lat": 16.30785746784702,
       "lng": 80.42339170882681,
       "place_id": "ChIJo0_CHWV1SjoRKCBqLUaHllk",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "QOU7LX7J0DGaqcZhpA4tLw_0.png",
+      "lat": 16.31575244244094,
+      "lng": 80.42178776817244,
+      "place_id": "ChIJac6NsWJ1SjoRCinP8kIORd4",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "QOU7LX7J0DGaqcZhpA4tLw_180.png",
+      "lat": 16.31575244244094,
+      "lng": 80.42178776817244,
+      "place_id": "ChIJac6NsWJ1SjoRCinP8kIORd4",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "QR2vZl54iTiV8e0dbS48Kg_0.png",
       "lat": 16.31653241421252,
       "lng": 80.4242457105926,
       "place_id": "ChIJ2f2bhmJ1SjoRO3K1afCuPrE",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "QR2vZl54iTiV8e0dbS48Kg_180.png",
       "lat": 16.31653241421252,
       "lng": 80.4242457105926,
       "place_id": "ChIJ2f2bhmJ1SjoRO3K1afCuPrE",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "QcG8lCB6uRrOi2PAYAYXXw_0.png",
-      "lat": 16.30915882042462,
-      "lng": 80.42450176508987,
-      "place_id": "ChIJTYDKXmR1SjoRTSws7luroFU",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "QcG8lCB6uRrOi2PAYAYXXw_180.png",
-      "lat": 16.30915882042462,
-      "lng": 80.42450176508987,
-      "place_id": "ChIJTYDKXmR1SjoRTSws7luroFU",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "QsKhE-LvmONrgLxRIum2Ow_0.png",
       "lat": 16.31262850979143,
       "lng": 80.42020213572255,
       "place_id": "ChIJhb6LFHx1SjoRV0u4ZrRYQAQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "QsKhE-LvmONrgLxRIum2Ow_180.png",
       "lat": 16.31262850979143,
       "lng": 80.42020213572255,
       "place_id": "ChIJhb6LFHx1SjoRV0u4ZrRYQAQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "RaDtAwmJZv6jBvmUfvJGow_0.png",
-      "lat": 16.31411773129509,
-      "lng": 80.42448801151947,
-      "place_id": "ChIJozJqVGJ1SjoRYKKprhy26rQ",
-      "relevancy": "XXX"
+      "image": "RtIvK7Pd4rhmkVwxY3jdGw_0.png",
+      "lat": 16.31588314735523,
+      "lng": 80.42373122205807,
+      "place_id": "ChIJ9XRH4ml1SjoRiwWJTSJ986o",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "RaDtAwmJZv6jBvmUfvJGow_180.png",
-      "lat": 16.31411773129509,
-      "lng": 80.42448801151947,
-      "place_id": "ChIJozJqVGJ1SjoRYKKprhy26rQ",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "RiQkInwkez_OcxIzEfbAVQ_0.png",
-      "lat": 16.31548784544933,
-      "lng": 80.4199267949977,
-      "place_id": "ChIJDbGBaX11SjoR7oMxsLJpSz4",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "RiQkInwkez_OcxIzEfbAVQ_180.png",
-      "lat": 16.31548784544933,
-      "lng": 80.4199267949977,
-      "place_id": "ChIJDbGBaX11SjoR7oMxsLJpSz4",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "S77FfmlrDldBO-YZTnzfow_0.png",
-      "lat": 16.30799116833824,
-      "lng": 80.42293613576332,
-      "place_id": "ChIJzzkC4GR1SjoRrbp59uoMGoQ",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "S77FfmlrDldBO-YZTnzfow_180.png",
-      "lat": 16.30799116833824,
-      "lng": 80.42293613576332,
-      "place_id": "ChIJzzkC4GR1SjoRrbp59uoMGoQ",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "SGmpIk8PBCgLgSFFdZjeig_0.png",
-      "lat": 16.31138502334413,
-      "lng": 80.42024187029422,
-      "place_id": "ChIJp1nAonx1SjoRdYdzITDr5d4",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "SGmpIk8PBCgLgSFFdZjeig_180.png",
-      "lat": 16.31138502334413,
-      "lng": 80.42024187029422,
-      "place_id": "ChIJp1nAonx1SjoRdYdzITDr5d4",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "SHSFjreGTUF9Zl_PD6VoJQ_0.png",
-      "lat": 16.31269294459211,
-      "lng": 80.4236284937693,
-      "place_id": "ChIJhVRuDWN1SjoREGYQVbsqzIw",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "SHSFjreGTUF9Zl_PD6VoJQ_180.png",
-      "lat": 16.31269294459211,
-      "lng": 80.4236284937693,
-      "place_id": "ChIJhVRuDWN1SjoREGYQVbsqzIw",
-      "relevancy": "XXX"
+      "image": "RtIvK7Pd4rhmkVwxY3jdGw_180.png",
+      "lat": 16.31588314735523,
+      "lng": 80.42373122205807,
+      "place_id": "ChIJ9XRH4ml1SjoRiwWJTSJ986o",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "S_8LtgXnWY3gozd-I0QVkQ_0.png",
       "lat": 16.31474704799021,
       "lng": 80.42047806985757,
       "place_id": "ChIJxQwsPH11SjoRFB1HTf8di0w",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "S_8LtgXnWY3gozd-I0QVkQ_180.png",
       "lat": 16.31474704799021,
       "lng": 80.42047806985757,
       "place_id": "ChIJxQwsPH11SjoRFB1HTf8di0w",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "Sh56Er0A6a_Wf6JqqNcC3w_0.png",
-      "lat": 16.31469135411586,
-      "lng": 80.42202897252429,
-      "place_id": "ChIJ72f7zmJ1SjoRCM4dEijNZUA",
-      "relevancy": "XXX"
+      "image": "SqOb9SzpMAsW_84wgZXscQ_0.png",
+      "lat": 16.31395688951689,
+      "lng": 80.42157118457877,
+      "place_id": "ChIJ-zv71GJ1SjoR4UgAF82Cko8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "Sh56Er0A6a_Wf6JqqNcC3w_180.png",
-      "lat": 16.31469135411586,
-      "lng": 80.42202897252429,
-      "place_id": "ChIJ72f7zmJ1SjoRCM4dEijNZUA",
-      "relevancy": "XXX"
+      "image": "SqOb9SzpMAsW_84wgZXscQ_180.png",
+      "lat": 16.31395688951689,
+      "lng": 80.42157118457877,
+      "place_id": "ChIJ-zv71GJ1SjoR4UgAF82Cko8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "StMDmRiJZ3ChBsk-p0fosA_0.png",
       "lat": 16.31194995776863,
       "lng": 80.41992637048155,
       "place_id": "ChIJbTBBlHx1SjoRK2MG14lo2QY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "StMDmRiJZ3ChBsk-p0fosA_180.png",
       "lat": 16.31194995776863,
       "lng": 80.41992637048155,
       "place_id": "ChIJbTBBlHx1SjoRK2MG14lo2QY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "TRZatkAhXaiY-XgmcDSIWg_0.png",
-      "lat": 16.3097125874934,
-      "lng": 80.42512271096102,
-      "place_id": "ChIJRWOUaGR1SjoRKEc_FaTY8i0",
-      "relevancy": "XXX"
+      "image": "T9WxrDEgZFD27yzJUYIkkA_0.png",
+      "lat": 16.30986552996522,
+      "lng": 80.42389830383108,
+      "place_id": "ChIJ44iyjmR1SjoR9liAkW3PGwE",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "TRZatkAhXaiY-XgmcDSIWg_180.png",
-      "lat": 16.3097125874934,
-      "lng": 80.42512271096102,
-      "place_id": "ChIJRWOUaGR1SjoRKEc_FaTY8i0",
-      "relevancy": "XXX"
+      "image": "T9WxrDEgZFD27yzJUYIkkA_180.png",
+      "lat": 16.30986552996522,
+      "lng": 80.42389830383108,
+      "place_id": "ChIJ44iyjmR1SjoR9liAkW3PGwE",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "TViXyBRKtef0fSB_lh96dg_0.png",
       "lat": 16.31059361043517,
       "lng": 80.42396214799743,
       "place_id": "ChIJUU02IwB1SjoR_guT-biYxpo",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "TViXyBRKtef0fSB_lh96dg_180.png",
       "lat": 16.31059361043517,
       "lng": 80.42396214799743,
       "place_id": "ChIJUU02IwB1SjoR_guT-biYxpo",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "TXo7hqRbWf3R32bqzh_pVA_0.png",
       "lat": 16.30926794101455,
       "lng": 80.42318124219146,
       "place_id": "ChIJX85V6mR1SjoR9FpCNvjZs6I",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "TXo7hqRbWf3R32bqzh_pVA_180.png",
       "lat": 16.30926794101455,
       "lng": 80.42318124219146,
       "place_id": "ChIJX85V6mR1SjoR9FpCNvjZs6I",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "Tk5lRp0QPjKWobdnUdQBmQ_0.png",
-      "lat": 16.31492759908121,
-      "lng": 80.4259317844397,
-      "place_id": "ChIJiXpTOmJ1SjoR2GbVMpciUao",
-      "relevancy": "XXX"
+      "image": "Tr__7UHGa399AjkbSh1xMA_0.png",
+      "lat": 16.31021557231797,
+      "lng": 80.4211589864959,
+      "place_id": "ChIJA1-DUXt1SjoRGhDv8NUVi0U",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "Tk5lRp0QPjKWobdnUdQBmQ_180.png",
-      "lat": 16.31492759908121,
-      "lng": 80.4259317844397,
-      "place_id": "ChIJiXpTOmJ1SjoR2GbVMpciUao",
-      "relevancy": "XXX"
+      "image": "Tr__7UHGa399AjkbSh1xMA_180.png",
+      "lat": 16.31021557231797,
+      "lng": 80.4211589864959,
+      "place_id": "ChIJA1-DUXt1SjoRGhDv8NUVi0U",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Tsifd3_F5SaWZ2cvOXGrpg_0.png",
       "lat": 16.31309081235954,
       "lng": 80.42355624429374,
       "place_id": "ChIJkyWQGmN1SjoRPv8JkE7WZEg",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Tsifd3_F5SaWZ2cvOXGrpg_180.png",
       "lat": 16.31309081235954,
       "lng": 80.42355624429374,
       "place_id": "ChIJkyWQGmN1SjoRPv8JkE7WZEg",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "U8tNrO9z78R7lkke483RwA_0.png",
-      "lat": 16.31357568589746,
-      "lng": 80.4237774921964,
-      "place_id": "ChIJ5W2JA2N1SjoROX9rL1349Kk",
-      "relevancy": "XXX"
+      "image": "V9Q250iaYNnlv2NHaxuWdA_0.png",
+      "lat": 16.30808024257179,
+      "lng": 80.42266173796548,
+      "place_id": "ChIJz6gc32R1SjoRoE67-Pc7sC8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "U8tNrO9z78R7lkke483RwA_180.png",
-      "lat": 16.31357568589746,
-      "lng": 80.4237774921964,
-      "place_id": "ChIJ5W2JA2N1SjoROX9rL1349Kk",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "UCYWtTbFzcOJmrtO18h3jQ_0.png",
-      "lat": 16.30830771744485,
-      "lng": 80.4229612662096,
-      "place_id": "ChIJA6Q352R1SjoRv4MQk1OgY6U",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "UCYWtTbFzcOJmrtO18h3jQ_180.png",
-      "lat": 16.30830771744485,
-      "lng": 80.4229612662096,
-      "place_id": "ChIJA6Q352R1SjoRv4MQk1OgY6U",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "V9Zsq5IYG_wlvGb-gn64fg_0.png",
-      "lat": 16.30899615499679,
-      "lng": 80.42325544468824,
-      "place_id": "ChIJRbY46WR1SjoRQouDNH00GyA",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "V9Zsq5IYG_wlvGb-gn64fg_180.png",
-      "lat": 16.30899615499679,
-      "lng": 80.42325544468824,
-      "place_id": "ChIJRbY46WR1SjoRQouDNH00GyA",
-      "relevancy": "XXX"
+      "image": "V9Q250iaYNnlv2NHaxuWdA_180.png",
+      "lat": 16.30808024257179,
+      "lng": 80.42266173796548,
+      "place_id": "ChIJz6gc32R1SjoRoE67-Pc7sC8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "VHGK8Z_768R-K-dW57obxA_0.png",
       "lat": 16.31549035000859,
       "lng": 80.42469448463402,
       "place_id": "ChIJf9eFZmJ1SjoRpTHrLyLIN90",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "VHGK8Z_768R-K-dW57obxA_180.png",
       "lat": 16.31549035000859,
       "lng": 80.42469448463402,
       "place_id": "ChIJf9eFZmJ1SjoRpTHrLyLIN90",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "VLdyk2kj0OKJJ5EY0P7i5g_0.png",
       "lat": 16.30941237255257,
       "lng": 80.42097491880551,
       "place_id": "ChIJh1gSSHt1SjoRkeLJwPtKSzM",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "VLdyk2kj0OKJJ5EY0P7i5g_180.png",
       "lat": 16.30941237255257,
       "lng": 80.42097491880551,
       "place_id": "ChIJh1gSSHt1SjoRkeLJwPtKSzM",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "VO60fWTIin23O168jPItKA_0.png",
       "lat": 16.31047394350145,
       "lng": 80.42125475587162,
       "place_id": "ChIJ_5vxU3t1SjoRbL8fscHnrEU",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "VO60fWTIin23O168jPItKA_180.png",
       "lat": 16.31047394350145,
       "lng": 80.42125475587162,
       "place_id": "ChIJ_5vxU3t1SjoRbL8fscHnrEU",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Vo6Wriw2UFTeoPsGkhQiLw_0.png",
       "lat": 16.30934117737122,
       "lng": 80.42135519473534,
       "place_id": "ChIJNdCSSnt1SjoR9R3q585S7jA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Vo6Wriw2UFTeoPsGkhQiLw_180.png",
       "lat": 16.30934117737122,
       "lng": 80.42135519473534,
       "place_id": "ChIJNdCSSnt1SjoR9R3q585S7jA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "W7MdS_XZ-lSRXCfFB57f7g_0.png",
-      "lat": 16.31728502996468,
-      "lng": 80.42144230391399,
-      "place_id": "ChIJoXXcsoKKNToR7koPNpSTmtA",
-      "relevancy": "XXX"
+      "image": "VpUBuJnv8ESRs-p4lhIsKA_0.png",
+      "lat": 16.31152835470259,
+      "lng": 80.42322496563862,
+      "place_id": "ChIJ02FfZmN1SjoRCrZVI_zMf0E",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "W7MdS_XZ-lSRXCfFB57f7g_180.png",
-      "lat": 16.31728502996468,
-      "lng": 80.42144230391399,
-      "place_id": "ChIJoXXcsoKKNToR7koPNpSTmtA",
-      "relevancy": "XXX"
+      "image": "VpUBuJnv8ESRs-p4lhIsKA_180.png",
+      "lat": 16.31152835470259,
+      "lng": 80.42322496563862,
+      "place_id": "ChIJ02FfZmN1SjoRCrZVI_zMf0E",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "WgWsJegsFdcFtHkLeVJ41Q_0.png",
-      "lat": 16.31378982224589,
-      "lng": 80.42537969664052,
-      "place_id": "ChIJx6P6s2N1SjoRpegxjYLl518",
-      "relevancy": "XXX"
+      "image": "W31k_26cxVsoTwgCyxytfg_0.png",
+      "lat": 16.31083462450048,
+      "lng": 80.42140426794855,
+      "place_id": "ChIJhSVYVWN1SjoRHC5xJPDpDXI",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "WgWsJegsFdcFtHkLeVJ41Q_180.png",
-      "lat": 16.31378982224589,
-      "lng": 80.42537969664052,
-      "place_id": "ChIJx6P6s2N1SjoRpegxjYLl518",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "WxEdVlUZYmCp3O7MRDKwNg_0.png",
-      "lat": 16.30967773309706,
-      "lng": 80.42530778827283,
-      "place_id": "ChIJix-aaWR1SjoR6bR_XVZgtIM",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "WxEdVlUZYmCp3O7MRDKwNg_180.png",
-      "lat": 16.30967773309706,
-      "lng": 80.42530778827283,
-      "place_id": "ChIJix-aaWR1SjoR6bR_XVZgtIM",
-      "relevancy": "XXX"
+      "image": "W31k_26cxVsoTwgCyxytfg_180.png",
+      "lat": 16.31083462450048,
+      "lng": 80.42140426794855,
+      "place_id": "ChIJhSVYVWN1SjoRHC5xJPDpDXI",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "X66AzbR6Bi3h2JiJAUKJ3g_0.png",
       "lat": 16.30993634947405,
       "lng": 80.42651511051172,
       "place_id": "ChIJc-muGWR1SjoRYOcST4At5sM",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "X66AzbR6Bi3h2JiJAUKJ3g_180.png",
       "lat": 16.30993634947405,
       "lng": 80.42651511051172,
       "place_id": "ChIJc-muGWR1SjoRYOcST4At5sM",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "X6uayewlY4RiwpWWbXERWQ_0.png",
-      "lat": 16.31243558417898,
-      "lng": 80.42713663566441,
-      "place_id": "ChIJq7cWX2F1SjoRPLK5NrF-Pzo",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "X6uayewlY4RiwpWWbXERWQ_180.png",
-      "lat": 16.31243558417898,
-      "lng": 80.42713663566441,
-      "place_id": "ChIJq7cWX2F1SjoRPLK5NrF-Pzo",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "XDx2l3dkdTctyymBWoBFpQ_0.png",
       "lat": 16.30882444283658,
       "lng": 80.42330298858741,
       "place_id": "ChIJ6TLK6GR1SjoRJJgYFWgvqOw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "XDx2l3dkdTctyymBWoBFpQ_180.png",
       "lat": 16.30882444283658,
       "lng": 80.42330298858741,
       "place_id": "ChIJ6TLK6GR1SjoRJJgYFWgvqOw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "XSlNZDf3GaW9gnXo8-l11w_0.png",
-      "lat": 16.31323848394199,
-      "lng": 80.42546315102025,
-      "place_id": "ChIJc2HiuWN1SjoRpsMTBgZ86mQ",
-      "relevancy": "XXX"
+      "image": "XREP4aXWNkiapa6SSugigw_0.png",
+      "lat": 16.3137215080708,
+      "lng": 80.42725973461917,
+      "place_id": "ChIJx4WK1WN1SjoREndWt6Jsm5Y",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "XSlNZDf3GaW9gnXo8-l11w_180.png",
-      "lat": 16.31323848394199,
-      "lng": 80.42546315102025,
-      "place_id": "ChIJc2HiuWN1SjoRpsMTBgZ86mQ",
-      "relevancy": "XXX"
+      "image": "XREP4aXWNkiapa6SSugigw_180.png",
+      "lat": 16.3137215080708,
+      "lng": 80.42725973461917,
+      "place_id": "ChIJx4WK1WN1SjoREndWt6Jsm5Y",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Xi-HsPbcpDo6ojTIoZI7UQ_0.png",
       "lat": 16.31297452779736,
       "lng": 80.42544591680625,
       "place_id": "ChIJefQIuWN1SjoR1nMqW2q0paI",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "Xi-HsPbcpDo6ojTIoZI7UQ_180.png",
       "lat": 16.31297452779736,
       "lng": 80.42544591680625,
       "place_id": "ChIJefQIuWN1SjoR1nMqW2q0paI",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "XqWNE1r_Wrvq0lKi2BYCgA_0.png",
-      "lat": 16.3166246336903,
-      "lng": 80.42397793923317,
-      "place_id": "ChIJ2f2bhmJ1SjoRO3K1afCuPrE",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "XqWNE1r_Wrvq0lKi2BYCgA_180.png",
-      "lat": 16.3166246336903,
-      "lng": 80.42397793923317,
-      "place_id": "ChIJ2f2bhmJ1SjoRO3K1afCuPrE",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "YEGUw8l_RiH08vaLJAaO6g_0.png",
       "lat": 16.31602901408099,
       "lng": 80.42100624769846,
       "place_id": "ChIJG3okTn11SjoR-a9WhEMM0EI",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "YEGUw8l_RiH08vaLJAaO6g_180.png",
       "lat": 16.31602901408099,
       "lng": 80.42100624769846,
       "place_id": "ChIJG3okTn11SjoR-a9WhEMM0EI",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "YNCvRJ--itPUQkLwIRc0KA_0.png",
+      "lat": 16.31263036023213,
+      "lng": 80.42380550896492,
+      "place_id": "ChIJVX0MDWN1SjoR1sRSeQxWbCw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "YNCvRJ--itPUQkLwIRc0KA_180.png",
+      "lat": 16.31263036023213,
+      "lng": 80.42380550896492,
+      "place_id": "ChIJVX0MDWN1SjoR1sRSeQxWbCw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "YjNj1xu_oSM0ll_PCTnQyQ_0.png",
       "lat": 16.31444828496414,
       "lng": 80.42138304251385,
       "place_id": "ChIJeRScLX11SjoRqQh1STCaANE",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "YjNj1xu_oSM0ll_PCTnQyQ_180.png",
       "lat": 16.31444828496414,
       "lng": 80.42138304251385,
       "place_id": "ChIJeRScLX11SjoRqQh1STCaANE",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "YxM7jLjeFzkPr9m4DsoHVg_0.png",
-      "lat": 16.31381421894837,
-      "lng": 80.42288612954871,
-      "place_id": "ChIJdfsEBwB1SjoRFw-2fNu3KAg",
-      "relevancy": "XXX"
+      "image": "Z5GV8gPq_v6zAI2xIMSbWg_0.png",
+      "lat": 16.31270264248933,
+      "lng": 80.42455677934875,
+      "place_id": "ChIJbczTfUF1SjoRPuPrTwZnOwg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "YxM7jLjeFzkPr9m4DsoHVg_180.png",
-      "lat": 16.31381421894837,
-      "lng": 80.42288612954871,
-      "place_id": "ChIJdfsEBwB1SjoRFw-2fNu3KAg",
-      "relevancy": "XXX"
+      "image": "Z5GV8gPq_v6zAI2xIMSbWg_180.png",
+      "lat": 16.31270264248933,
+      "lng": 80.42455677934875,
+      "place_id": "ChIJbczTfUF1SjoRPuPrTwZnOwg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "ZGmiINgPWCpfJrai2OC6Pg_0.png",
-      "lat": 16.31109429553957,
-      "lng": 80.42246035385892,
-      "place_id": "ChIJv2IrWWN1SjoRHTRtSRBvUsA",
-      "relevancy": "XXX"
+      "image": "ZAiyrbVApI96964b4cxyjQ_0.png",
+      "lat": 16.31434019813387,
+      "lng": 80.42617577840588,
+      "place_id": "ChIJycP_MGJ1SjoRt1rMe69L2GU",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "ZGmiINgPWCpfJrai2OC6Pg_180.png",
-      "lat": 16.31109429553957,
-      "lng": 80.42246035385892,
-      "place_id": "ChIJv2IrWWN1SjoRHTRtSRBvUsA",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "ZMrxXdU_tnS-BKp-JAwR_g_0.png",
-      "lat": 16.31002990021215,
-      "lng": 80.42194857115115,
-      "place_id": "ChIJ38UusGR1SjoR3Hvr2KiqcXw",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "ZMrxXdU_tnS-BKp-JAwR_g_180.png",
-      "lat": 16.31002990021215,
-      "lng": 80.42194857115115,
-      "place_id": "ChIJ38UusGR1SjoR3Hvr2KiqcXw",
-      "relevancy": "XXX"
+      "image": "ZAiyrbVApI96964b4cxyjQ_180.png",
+      "lat": 16.31434019813387,
+      "lng": 80.42617577840588,
+      "place_id": "ChIJycP_MGJ1SjoRt1rMe69L2GU",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "ZY7QWaAh9j1HY4G4kFHdvw_0.png",
       "lat": 16.31019596228526,
       "lng": 80.42246247637523,
       "place_id": "ChIJ-4k4u2R1SjoRru3CRTZspFw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "ZY7QWaAh9j1HY4G4kFHdvw_180.png",
       "lat": 16.31019596228526,
       "lng": 80.42246247637523,
       "place_id": "ChIJ-4k4u2R1SjoRru3CRTZspFw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "ZcNyXtxbN3ciyQjPr10msw_0.png",
-      "lat": 16.31400332368317,
-      "lng": 80.42143568158197,
-      "place_id": "ChIJjY2fLH11SjoRkj7m6T343qE",
-      "relevancy": "XXX"
+      "image": "Zw7tRwB0kv6yqbsKMA1KjQ_0.png",
+      "lat": 16.3164691190388,
+      "lng": 80.42203016113957,
+      "place_id": "ChIJKU07pmJ1SjoROqEse5lkqWg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "ZcNyXtxbN3ciyQjPr10msw_180.png",
-      "lat": 16.31400332368317,
-      "lng": 80.42143568158197,
-      "place_id": "ChIJjY2fLH11SjoRkj7m6T343qE",
-      "relevancy": "XXX"
+      "image": "Zw7tRwB0kv6yqbsKMA1KjQ_180.png",
+      "lat": 16.3164691190388,
+      "lng": 80.42203016113957,
+      "place_id": "ChIJKU07pmJ1SjoROqEse5lkqWg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "Ztq-N7BM3VKLRFymIzznhw_0.png",
-      "lat": 16.30926981663702,
-      "lng": 80.42165370885246,
-      "place_id": "ChIJ0b4-y2R1SjoRHFj5kbtQPks",
-      "relevancy": "XXX"
+      "image": "_H4HEvRnjbbfCHBOXjn39A_0.png",
+      "lat": 16.30917174515365,
+      "lng": 80.42440498065744,
+      "place_id": "ChIJeXmpX2R1SjoRwH4aYlBMMGc",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "Ztq-N7BM3VKLRFymIzznhw_180.png",
-      "lat": 16.30926981663702,
-      "lng": 80.42165370885246,
-      "place_id": "ChIJ0b4-y2R1SjoRHFj5kbtQPks",
-      "relevancy": "XXX"
+      "image": "_H4HEvRnjbbfCHBOXjn39A_180.png",
+      "lat": 16.30917174515365,
+      "lng": 80.42440498065744,
+      "place_id": "ChIJeXmpX2R1SjoRwH4aYlBMMGc",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "_7zIx6KpgYAU3k4Os1Bxtg_0.png",
-      "lat": 16.3085697425219,
-      "lng": 80.42365523709631,
-      "place_id": "ChIJD5Vh-mR1SjoRbyZGhHebNuw",
-      "relevancy": "XXX"
+      "image": "aCRPj56F3sgWehj7UyIo5Q_0.png",
+      "lat": 16.3097223093505,
+      "lng": 80.42493593527588,
+      "place_id": "ChIJnQa_Z2R1SjoRSiDnMx_OMQY",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "_7zIx6KpgYAU3k4Os1Bxtg_180.png",
-      "lat": 16.3085697425219,
-      "lng": 80.42365523709631,
-      "place_id": "ChIJD5Vh-mR1SjoRbyZGhHebNuw",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "_Hqc_lvGDG8O8QsazOUijg_0.png",
-      "lat": 16.31287902980126,
-      "lng": 80.42462172669102,
-      "place_id": "ChIJH_VDpGN1SjoRg-um3olepRQ",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "_Hqc_lvGDG8O8QsazOUijg_180.png",
-      "lat": 16.31287902980126,
-      "lng": 80.42462172669102,
-      "place_id": "ChIJH_VDpGN1SjoRg-um3olepRQ",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "_eVuHusM_kT-AYah_57cuQ_0.png",
-      "lat": 16.31484233323393,
-      "lng": 80.42452383871661,
-      "place_id": "ChIJfWU-WWJ1SjoRsGBE7DQ1XH0",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "_eVuHusM_kT-AYah_57cuQ_180.png",
-      "lat": 16.31484233323393,
-      "lng": 80.42452383871661,
-      "place_id": "ChIJfWU-WWJ1SjoRsGBE7DQ1XH0",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "a52sHTtVi8ds2ihB-2FyWA_0.png",
-      "lat": 16.30995852923569,
-      "lng": 80.4230498170123,
-      "place_id": "ChIJ0whsl2R1SjoRM6kWV-2qh_8",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "a52sHTtVi8ds2ihB-2FyWA_180.png",
-      "lat": 16.30995852923569,
-      "lng": 80.4230498170123,
-      "place_id": "ChIJ0whsl2R1SjoRM6kWV-2qh_8",
-      "relevancy": "XXX"
+      "image": "aCRPj56F3sgWehj7UyIo5Q_180.png",
+      "lat": 16.3097223093505,
+      "lng": 80.42493593527588,
+      "place_id": "ChIJnQa_Z2R1SjoRSiDnMx_OMQY",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "aZj0QmBhZEOjxDU_L_S0Lw_0.png",
       "lat": 16.31459376031344,
       "lng": 80.42229573132977,
       "place_id": "ChIJhT_bxGJ1SjoRsV6Gs76gDxw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "aZj0QmBhZEOjxDU_L_S0Lw_180.png",
       "lat": 16.31459376031344,
       "lng": 80.42229573132977,
       "place_id": "ChIJhT_bxGJ1SjoRsV6Gs76gDxw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "aaOw9ndxkC69Fh1If6U5nA_0.png",
       "lat": 16.30823537354919,
       "lng": 80.42215190921533,
       "place_id": "ChIJT8dI12R1SjoRE5KnlE49GpA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "aaOw9ndxkC69Fh1If6U5nA_180.png",
       "lat": 16.30823537354919,
       "lng": 80.42215190921533,
       "place_id": "ChIJT8dI12R1SjoRE5KnlE49GpA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "arGBvr0DVdcGiKTmotJubw_0.png",
-      "lat": 16.31080053087122,
-      "lng": 80.42277609879103,
-      "place_id": "ChIJiwCpoGR1SjoRr09ukKhgNNY",
-      "relevancy": "XXX"
+      "image": "b5EsyC51Rxb_YiByBKlqaQ_0.png",
+      "lat": 16.31647854783009,
+      "lng": 80.41998792530185,
+      "place_id": "ChIJA7rLMAB1SjoRDuncaeoQBXc",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "arGBvr0DVdcGiKTmotJubw_180.png",
-      "lat": 16.31080053087122,
-      "lng": 80.42277609879103,
-      "place_id": "ChIJiwCpoGR1SjoRr09ukKhgNNY",
-      "relevancy": "XXX"
+      "image": "b5EsyC51Rxb_YiByBKlqaQ_180.png",
+      "lat": 16.31647854783009,
+      "lng": 80.41998792530185,
+      "place_id": "ChIJA7rLMAB1SjoRDuncaeoQBXc",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "bDaPRoXuDHnMXSsvsKHKpQ_0.png",
       "lat": 16.30920271651886,
       "lng": 80.42193260972888,
       "place_id": "ChIJdWz8y2R1SjoRvfX5hKPelqQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "bDaPRoXuDHnMXSsvsKHKpQ_180.png",
       "lat": 16.30920271651886,
       "lng": 80.42193260972888,
       "place_id": "ChIJdWz8y2R1SjoRvfX5hKPelqQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "bHEqJwkbEWIguVLjet_lTQ_0.png",
       "lat": 16.31402000196926,
       "lng": 80.42475382858018,
       "place_id": "ChIJDaphq2N1SjoRaJo9oy6YPD4",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "bHEqJwkbEWIguVLjet_lTQ_180.png",
       "lat": 16.31402000196926,
       "lng": 80.42475382858018,
       "place_id": "ChIJDaphq2N1SjoRaJo9oy6YPD4",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "bN7nR1qM5SnQBalzQA3Aog_0.png",
-      "lat": 16.31541901580072,
-      "lng": 80.42283518940118,
-      "place_id": "ChIJsVfmlWJ1SjoRg0rGtYBpKA0",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "bN7nR1qM5SnQBalzQA3Aog_180.png",
-      "lat": 16.31541901580072,
-      "lng": 80.42283518940118,
-      "place_id": "ChIJsVfmlWJ1SjoRg0rGtYBpKA0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "bhEl7tBlMkihIqUY0IP_yA_0.png",
       "lat": 16.30979378872116,
       "lng": 80.42436830442213,
       "place_id": "ChIJb2YhYmR1SjoRnN1xAdr-dxg",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "bhEl7tBlMkihIqUY0IP_yA_180.png",
       "lat": 16.30979378872116,
       "lng": 80.42436830442213,
       "place_id": "ChIJb2YhYmR1SjoRnN1xAdr-dxg",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "bkYlHZ1GaD1Gd0ovoWCzQA_0.png",
       "lat": 16.31222553353662,
       "lng": 80.4195741911332,
       "place_id": "ChIJ3_ms7Xx1SjoRqszoJW3GssQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "bkYlHZ1GaD1Gd0ovoWCzQA_180.png",
       "lat": 16.31222553353662,
       "lng": 80.4195741911332,
       "place_id": "ChIJ3_ms7Xx1SjoRqszoJW3GssQ",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "bynsTpMMDOJg8KfAK0YQdw_0.png",
-      "lat": 16.31457956316017,
-      "lng": 80.42041744932887,
-      "place_id": "ChIJW1xbO311SjoRS8yzTbUI1CU",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "bynsTpMMDOJg8KfAK0YQdw_180.png",
-      "lat": 16.31457956316017,
-      "lng": 80.42041744932887,
-      "place_id": "ChIJW1xbO311SjoRS8yzTbUI1CU",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "cDCR02V2mCWOWLorJL-OTA_0.png",
       "lat": 16.31157887248279,
       "lng": 80.42295065369096,
       "place_id": "ChIJI-96XWN1SjoRNeCKqej_JoY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "cDCR02V2mCWOWLorJL-OTA_180.png",
       "lat": 16.31157887248279,
       "lng": 80.42295065369096,
       "place_id": "ChIJI-96XWN1SjoRNeCKqej_JoY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "cMiEjvaizVw5gKMbkUrJZw_0.png",
-      "lat": 16.31543557569464,
-      "lng": 80.42487718574664,
-      "place_id": "ChIJgTSHZ2J1SjoRy2ZB9hNCCHQ",
-      "relevancy": "XXX"
+      "image": "cJ1ddkLYRDxdm6rEi9Rkaw_0.png",
+      "lat": 16.31517084829294,
+      "lng": 80.42357526178809,
+      "place_id": "ChIJHcy68mJ1SjoRe999WHm-VpU",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "cMiEjvaizVw5gKMbkUrJZw_180.png",
-      "lat": 16.31543557569464,
-      "lng": 80.42487718574664,
-      "place_id": "ChIJgTSHZ2J1SjoRy2ZB9hNCCHQ",
-      "relevancy": "XXX"
+      "image": "cJ1ddkLYRDxdm6rEi9Rkaw_180.png",
+      "lat": 16.31517084829294,
+      "lng": 80.42357526178809,
+      "place_id": "ChIJHcy68mJ1SjoRe999WHm-VpU",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "cQgTHd4_dwJvrFbIW4JLsg_0.png",
-      "lat": 16.31214166413302,
-      "lng": 80.42537383870027,
-      "place_id": "ChIJE04flGN1SjoRad8Miyc05ps",
-      "relevancy": "XXX"
+      "image": "cSmtjJ4j4MfSzaWGp4ujhg_0.png",
+      "lat": 16.31074352265111,
+      "lng": 80.4232534919918,
+      "place_id": "ChIJB8f-nWR1SjoR5GaRYv2SkYE",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "cQgTHd4_dwJvrFbIW4JLsg_180.png",
-      "lat": 16.31214166413302,
-      "lng": 80.42537383870027,
-      "place_id": "ChIJE04flGN1SjoRad8Miyc05ps",
-      "relevancy": "XXX"
+      "image": "cSmtjJ4j4MfSzaWGp4ujhg_180.png",
+      "lat": 16.31074352265111,
+      "lng": 80.4232534919918,
+      "place_id": "ChIJB8f-nWR1SjoR5GaRYv2SkYE",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "cVCPQOEWYpRYd6hr2sUJgw_0.png",
-      "lat": 16.31388866141576,
-      "lng": 80.42511091014603,
-      "place_id": "ChIJU7ybsmN1SjoRgMK-jb_Uztc",
-      "relevancy": "XXX"
+      "image": "cUen6o-MsjCZENzSaXsf3A_0.png",
+      "lat": 16.31662981474486,
+      "lng": 80.42361915482768,
+      "place_id": "ChIJk-98g2J1SjoROggF0ri5ARw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "cVCPQOEWYpRYd6hr2sUJgw_180.png",
-      "lat": 16.31388866141576,
-      "lng": 80.42511091014603,
-      "place_id": "ChIJU7ybsmN1SjoRgMK-jb_Uztc",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "cWTiOAYWBfx90UQrCEw_Kg_0.png",
-      "lat": 16.3128744861379,
-      "lng": 80.42323829491797,
-      "place_id": "ChIJ5whqF2N1SjoR0xAKbSL2iW8",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "cWTiOAYWBfx90UQrCEw_Kg_180.png",
-      "lat": 16.3128744861379,
-      "lng": 80.42323829491797,
-      "place_id": "ChIJ5whqF2N1SjoR0xAKbSL2iW8",
-      "relevancy": "XXX"
+      "image": "cUen6o-MsjCZENzSaXsf3A_180.png",
+      "lat": 16.31662981474486,
+      "lng": 80.42361915482768,
+      "place_id": "ChIJk-98g2J1SjoROggF0ri5ARw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "cWob21dQlHrYnjgg65Yj5Q_0.png",
       "lat": 16.31323604122915,
       "lng": 80.42699613284225,
       "place_id": "ChIJ9QwL12N1SjoRbEgHxVXlmow",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "cWob21dQlHrYnjgg65Yj5Q_180.png",
       "lat": 16.31323604122915,
       "lng": 80.42699613284225,
       "place_id": "ChIJ9QwL12N1SjoRbEgHxVXlmow",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "cfLmPFiNc2CBgOIiSXMcWw_0.png",
-      "lat": 16.31299186636818,
-      "lng": 80.4274804633244,
-      "place_id": "ChIJJWOnl2N1SjoRl76VXNcMjmY",
-      "relevancy": "XXX"
+      "image": "cXJw4n1SeTTRD-yzlPlAPA_0.png",
+      "lat": 16.31726355913417,
+      "lng": 80.42152109264444,
+      "place_id": "ChIJoXXcsoKKNToR7koPNpSTmtA",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "cfLmPFiNc2CBgOIiSXMcWw_180.png",
-      "lat": 16.31299186636818,
-      "lng": 80.4274804633244,
-      "place_id": "ChIJJWOnl2N1SjoRl76VXNcMjmY",
-      "relevancy": "XXX"
+      "image": "cXJw4n1SeTTRD-yzlPlAPA_180.png",
+      "lat": 16.31726355913417,
+      "lng": 80.42152109264444,
+      "place_id": "ChIJoXXcsoKKNToR7koPNpSTmtA",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "ck46Af7-Il_Dmca99PRY7A_0.png",
+      "lat": 16.31375619227648,
+      "lng": 80.42383140324262,
+      "place_id": "ChIJq947AmN1SjoRuM3tyJqUJUE",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "ck46Af7-Il_Dmca99PRY7A_180.png",
+      "lat": 16.31375619227648,
+      "lng": 80.42383140324262,
+      "place_id": "ChIJq947AmN1SjoRuM3tyJqUJUE",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "coBHpZYH46KoAwLfH_YYqQ_0.png",
       "lat": 16.31518569013082,
       "lng": 80.42062826254633,
       "place_id": "ChIJp4lxR311SjoR48kGwXxgBBc",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "coBHpZYH46KoAwLfH_YYqQ_180.png",
       "lat": 16.31518569013082,
       "lng": 80.42062826254633,
       "place_id": "ChIJp4lxR311SjoR48kGwXxgBBc",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "crn3gSIT5PJOlcr4DxQtwQ_0.png",
-      "lat": 16.30971699617913,
-      "lng": 80.42638640727859,
-      "place_id": "ChIJQ6OjF2R1SjoRSTZdvWzuIhs",
-      "relevancy": "XXX"
+      "image": "crZxqUjap8PXVGZQDh2j9Q_0.png",
+      "lat": 16.3124241141088,
+      "lng": 80.4272498018137,
+      "place_id": "ChIJq7cWX2F1SjoRPLK5NrF-Pzo",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "crn3gSIT5PJOlcr4DxQtwQ_180.png",
-      "lat": 16.30971699617913,
-      "lng": 80.42638640727859,
-      "place_id": "ChIJQ6OjF2R1SjoRSTZdvWzuIhs",
-      "relevancy": "XXX"
+      "image": "crZxqUjap8PXVGZQDh2j9Q_180.png",
+      "lat": 16.3124241141088,
+      "lng": 80.4272498018137,
+      "place_id": "ChIJq7cWX2F1SjoRPLK5NrF-Pzo",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "csrDYxHpXZ5eqJiPEKTsZg_0.png",
       "lat": 16.30976576965482,
       "lng": 80.42187462219573,
       "place_id": "ChIJB047tGR1SjoRRAN5qXspK_A",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "csrDYxHpXZ5eqJiPEKTsZg_180.png",
       "lat": 16.30976576965482,
       "lng": 80.42187462219573,
       "place_id": "ChIJB047tGR1SjoRRAN5qXspK_A",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "d0EqXTzBdZq-tjMUpSwmtA_0.png",
+      "lat": 16.31374997156736,
+      "lng": 80.4278310811819,
+      "place_id": "ChIJmzFad2F1SjoRbKTAtOtHF60",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "d0EqXTzBdZq-tjMUpSwmtA_180.png",
+      "lat": 16.31374997156736,
+      "lng": 80.4278310811819,
+      "place_id": "ChIJmzFad2F1SjoRbKTAtOtHF60",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "dIK8qNWKG8okRRZPk0On2w_0.png",
       "lat": 16.31307790496986,
       "lng": 80.42508348810185,
       "place_id": "ChIJe8nnumN1SjoRdhzsiTPKo4Q",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "dIK8qNWKG8okRRZPk0On2w_180.png",
       "lat": 16.31307790496986,
       "lng": 80.42508348810185,
       "place_id": "ChIJe8nnumN1SjoRdhzsiTPKo4Q",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "e-Fl-ItWbcy8aFi5vyBQUw_0.png",
-      "lat": 16.31273254380947,
-      "lng": 80.42194797684293,
-      "place_id": "ChIJR801MWN1SjoRNkX4YR1SQ4Y",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "e-Fl-ItWbcy8aFi5vyBQUw_180.png",
-      "lat": 16.31273254380947,
-      "lng": 80.42194797684293,
-      "place_id": "ChIJR801MWN1SjoRNkX4YR1SQ4Y",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "e36ej3LfrylDv6qrAro4Vw_0.png",
       "lat": 16.30887535610511,
       "lng": 80.42254109434116,
       "place_id": "ChIJe_hdw2R1SjoRPoZR5iJBGcg",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "e36ej3LfrylDv6qrAro4Vw_180.png",
       "lat": 16.30887535610511,
       "lng": 80.42254109434116,
       "place_id": "ChIJe_hdw2R1SjoRPoZR5iJBGcg",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "eJMsFYQvzDPYvDzDTc6uIA_0.png",
-      "lat": 16.31490012675964,
-      "lng": 80.42012640225576,
-      "place_id": "ChIJJTO-P311SjoREG0dQR1-28E",
-      "relevancy": "XXX"
+      "image": "fSN2m57hSwO-jNa6v7A56A_0.png",
+      "lat": 16.31350196456294,
+      "lng": 80.42375066400922,
+      "place_id": "ChIJ06tYA2N1SjoRod2KRUDW1Ok",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "eJMsFYQvzDPYvDzDTc6uIA_180.png",
-      "lat": 16.31490012675964,
-      "lng": 80.42012640225576,
-      "place_id": "ChIJJTO-P311SjoREG0dQR1-28E",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "eKQSjJe8yt8b1trCgCyzGg_0.png",
-      "lat": 16.31270430836653,
-      "lng": 80.42630507624125,
-      "place_id": "ChIJ3-Igw2N1SjoRHF5v8-i-zdI",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "eKQSjJe8yt8b1trCgCyzGg_180.png",
-      "lat": 16.31270430836653,
-      "lng": 80.42630507624125,
-      "place_id": "ChIJ3-Igw2N1SjoRHF5v8-i-zdI",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "eZLoMf4uXothJsHSn-7prw_0.png",
-      "lat": 16.31412873397268,
-      "lng": 80.42106949976356,
-      "place_id": "ChIJU76BLn11SjoR-vAiL60aIAQ",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "eZLoMf4uXothJsHSn-7prw_180.png",
-      "lat": 16.31412873397268,
-      "lng": 80.42106949976356,
-      "place_id": "ChIJU76BLn11SjoR-vAiL60aIAQ",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "edTxg5nbRK78Wym71E7O5w_0.png",
-      "lat": 16.31369034176954,
-      "lng": 80.42243445915565,
-      "place_id": "ChIJj2kyJ2N1SjoRs5cskM-4zqc",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "edTxg5nbRK78Wym71E7O5w_180.png",
-      "lat": 16.31369034176954,
-      "lng": 80.42243445915565,
-      "place_id": "ChIJj2kyJ2N1SjoRs5cskM-4zqc",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "esA7mfT0rMHyH1YuBJScgA_0.png",
-      "lat": 16.31387424498974,
-      "lng": 80.42269977335768,
-      "place_id": "ChIJkSW_IGN1SjoRJTGs6BvKdjw",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "esA7mfT0rMHyH1YuBJScgA_180.png",
-      "lat": 16.31387424498974,
-      "lng": 80.42269977335768,
-      "place_id": "ChIJkSW_IGN1SjoRJTGs6BvKdjw",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "f1nWMbnPJ3u9-ehmQ2fTLw_0.png",
-      "lat": 16.31259823351986,
-      "lng": 80.4238961813513,
-      "place_id": "ChIJew6hDmN1SjoRVJzVCN0iCPc",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "f1nWMbnPJ3u9-ehmQ2fTLw_180.png",
-      "lat": 16.31259823351986,
-      "lng": 80.4238961813513,
-      "place_id": "ChIJew6hDmN1SjoRVJzVCN0iCPc",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "fCBu9OxvRhimVEfi2zIpnw_0.png",
-      "lat": 16.30919654744993,
-      "lng": 80.42421574129803,
-      "place_id": "ChIJo5Sf9WR1SjoRpt46udH_MYo",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "fCBu9OxvRhimVEfi2zIpnw_180.png",
-      "lat": 16.30919654744993,
-      "lng": 80.42421574129803,
-      "place_id": "ChIJo5Sf9WR1SjoRpt46udH_MYo",
-      "relevancy": "XXX"
+      "image": "fSN2m57hSwO-jNa6v7A56A_180.png",
+      "lat": 16.31350196456294,
+      "lng": 80.42375066400922,
+      "place_id": "ChIJ06tYA2N1SjoRod2KRUDW1Ok",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "fcQ8dml5YePjHbDr5DDbuw_0.png",
       "lat": 16.3128946513319,
       "lng": 80.42299599036106,
       "place_id": "ChIJ6dVAFmN1SjoReuWOf_um154",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "fcQ8dml5YePjHbDr5DDbuw_180.png",
       "lat": 16.3128946513319,
       "lng": 80.42299599036106,
       "place_id": "ChIJ6dVAFmN1SjoReuWOf_um154",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "febx1yXCpWaLWhL6GFgejw_0.png",
       "lat": 16.31396130559238,
       "lng": 80.42238895237895,
       "place_id": "ChIJO6wW2WJ1SjoRUF_aw3SCK6I",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "febx1yXCpWaLWhL6GFgejw_180.png",
       "lat": 16.31396130559238,
       "lng": 80.42238895237895,
       "place_id": "ChIJO6wW2WJ1SjoRUF_aw3SCK6I",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "g3Qb3RorvDM7zLhaThYd0A_0.png",
-      "lat": 16.30845482061592,
-      "lng": 80.42551468384578,
-      "place_id": "ChIJawslSmR1SjoRpj2qicvYpEU",
-      "relevancy": "XXX"
+      "image": "gNZ9Q9wGvLZ8az7G0SmP-w_0.png",
+      "lat": 16.30896361135674,
+      "lng": 80.42601413460551,
+      "place_id": "ChIJTYRiN2R1SjoR5B9ZXg3vok4",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "g3Qb3RorvDM7zLhaThYd0A_180.png",
-      "lat": 16.30845482061592,
-      "lng": 80.42551468384578,
-      "place_id": "ChIJawslSmR1SjoRpj2qicvYpEU",
-      "relevancy": "XXX"
+      "image": "gNZ9Q9wGvLZ8az7G0SmP-w_180.png",
+      "lat": 16.30896361135674,
+      "lng": 80.42601413460551,
+      "place_id": "ChIJTYRiN2R1SjoR5B9ZXg3vok4",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "gUsellt5gSjDXLlopbGn5w_0.png",
       "lat": 16.31132640100902,
       "lng": 80.42271115001179,
       "place_id": "ChIJuRV-XmN1SjoR5N6DNdmP4e0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "gUsellt5gSjDXLlopbGn5w_180.png",
       "lat": 16.31132640100902,
       "lng": 80.42271115001179,
       "place_id": "ChIJuRV-XmN1SjoR5N6DNdmP4e0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "gYvHkg3i2TYPtAaRJc4qaw_0.png",
-      "lat": 16.30842198558112,
-      "lng": 80.42588882648587,
-      "place_id": "ChIJe2o1NGR1SjoRdSCQ0hMpEfw",
-      "relevancy": "XXX"
+      "image": "gb-2bL8HhIPPZ5pyD3tJ3Q_0.png",
+      "lat": 16.31267517802872,
+      "lng": 80.42639328390754,
+      "place_id": "ChIJe9vawmN1SjoRXU5_eayPctM",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "gYvHkg3i2TYPtAaRJc4qaw_180.png",
-      "lat": 16.30842198558112,
-      "lng": 80.42588882648587,
-      "place_id": "ChIJe2o1NGR1SjoRdSCQ0hMpEfw",
-      "relevancy": "XXX"
+      "image": "gb-2bL8HhIPPZ5pyD3tJ3Q_180.png",
+      "lat": 16.31267517802872,
+      "lng": 80.42639328390754,
+      "place_id": "ChIJe9vawmN1SjoRXU5_eayPctM",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "gfNJuyIkeRLi0A--zazrUA_0.png",
       "lat": 16.31551009348258,
       "lng": 80.42256580040369,
       "place_id": "ChIJ2_imuGJ1SjoRoXUC502l41A",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "gfNJuyIkeRLi0A--zazrUA_180.png",
       "lat": 16.31551009348258,
       "lng": 80.42256580040369,
       "place_id": "ChIJ2_imuGJ1SjoRoXUC502l41A",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "h0u_PVbMDixgq7sbpdOxcA_0.png",
-      "lat": 16.31355652830274,
-      "lng": 80.42717016953561,
-      "place_id": "ChIJcVsK1mN1SjoR29fhqdvdiSU",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "h0u_PVbMDixgq7sbpdOxcA_180.png",
-      "lat": 16.31355652830274,
-      "lng": 80.42717016953561,
-      "place_id": "ChIJcVsK1mN1SjoR29fhqdvdiSU",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "hnTS-n4dTusae2xfW8JQkg_0.png",
-      "lat": 16.30973363876743,
-      "lng": 80.42484118890481,
-      "place_id": "ChIJiWL_ZmR1SjoRPG_cFDfx34E",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "hnTS-n4dTusae2xfW8JQkg_180.png",
-      "lat": 16.30973363876743,
-      "lng": 80.42484118890481,
-      "place_id": "ChIJiWL_ZmR1SjoRPG_cFDfx34E",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "hpULNajDwZX8q1fya6VTkA_0.png",
-      "lat": 16.31250708390269,
-      "lng": 80.4241542744958,
-      "place_id": "ChIJZUQbCmN1SjoRGW2rbe2DTSA",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "hpULNajDwZX8q1fya6VTkA_180.png",
-      "lat": 16.31250708390269,
-      "lng": 80.4241542744958,
-      "place_id": "ChIJZUQbCmN1SjoRGW2rbe2DTSA",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "hv0mO25l-IbLz5Qq8lwiDw_0.png",
-      "lat": 16.31522127231016,
-      "lng": 80.42216413495372,
-      "place_id": "ChIJD9QLuGJ1SjoRaqUftIQ6EVA",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "hv0mO25l-IbLz5Qq8lwiDw_180.png",
-      "lat": 16.31522127231016,
-      "lng": 80.42216413495372,
-      "place_id": "ChIJD9QLuGJ1SjoRaqUftIQ6EVA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "i22fFIwZgYjCtEFjD6R4FQ_0.png",
       "lat": 16.31204603061846,
       "lng": 80.42564279414228,
       "place_id": "ChIJk-Lf6mN1SjoR6sv8gDnAC5Y",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "i22fFIwZgYjCtEFjD6R4FQ_180.png",
       "lat": 16.31204603061846,
       "lng": 80.42564279414228,
       "place_id": "ChIJk-Lf6mN1SjoR6sv8gDnAC5Y",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "iNIv3f686mNnLCMf_mAOuA_0.png",
-      "lat": 16.30846147579503,
-      "lng": 80.4250376431781,
-      "place_id": "ChIJF0nST2R1SjoR3ZK-4Fg5a6E",
-      "relevancy": "XXX"
+      "image": "iQ-8UVUksK9BXqLcUa7-cw_0.png",
+      "lat": 16.31346832110639,
+      "lng": 80.41992713461063,
+      "place_id": "ChIJiYt84Hx1SjoRmm-2md9xVgw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "iNIv3f686mNnLCMf_mAOuA_180.png",
-      "lat": 16.30846147579503,
-      "lng": 80.4250376431781,
-      "place_id": "ChIJF0nST2R1SjoR3ZK-4Fg5a6E",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "iWApzZsWcB4zbOSr1lr2Sw_0.png",
-      "lat": 16.31572428822396,
-      "lng": 80.42187784844316,
-      "place_id": "ChIJac6NsWJ1SjoRCinP8kIORd4",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "iWApzZsWcB4zbOSr1lr2Sw_180.png",
-      "lat": 16.31572428822396,
-      "lng": 80.42187784844316,
-      "place_id": "ChIJac6NsWJ1SjoRCinP8kIORd4",
-      "relevancy": "XXX"
+      "image": "iQ-8UVUksK9BXqLcUa7-cw_180.png",
+      "lat": 16.31346832110639,
+      "lng": 80.41992713461063,
+      "place_id": "ChIJiYt84Hx1SjoRmm-2md9xVgw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "iiI0hrvlYnmAcMjtC-qlag_0.png",
       "lat": 16.31229870444048,
       "lng": 80.42753420218612,
       "place_id": "ChIJ4dmKW2F1SjoR8qhNWs0ZHw0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "iiI0hrvlYnmAcMjtC-qlag_180.png",
       "lat": 16.31229870444048,
       "lng": 80.42753420218612,
       "place_id": "ChIJ4dmKW2F1SjoR8qhNWs0ZHw0",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "ijlReVy0MeEAwFZCvNfeTg_0.png",
-      "lat": 16.31237804514944,
-      "lng": 80.42525752878657,
-      "place_id": "ChIJickilmN1SjoRTjx63sVbTUY",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "ijlReVy0MeEAwFZCvNfeTg_180.png",
-      "lat": 16.31237804514944,
-      "lng": 80.42525752878657,
-      "place_id": "ChIJickilmN1SjoRTjx63sVbTUY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "iz9ELOUp8gBZuNDkrF172A_0.png",
       "lat": 16.30820743716279,
       "lng": 80.42347575949287,
       "place_id": "ChIJF9x-pCN1SjoRGAkQc0uTcss",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "iz9ELOUp8gBZuNDkrF172A_180.png",
       "lat": 16.30820743716279,
       "lng": 80.42347575949287,
       "place_id": "ChIJF9x-pCN1SjoRGAkQc0uTcss",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "j7TfEzgp7HF05XYXWPVOCA_0.png",
       "lat": 16.31334658738373,
       "lng": 80.42664279478947,
       "place_id": "ChIJvcb10GN1SjoRXepYZMXa1cQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "j7TfEzgp7HF05XYXWPVOCA_180.png",
       "lat": 16.31334658738373,
       "lng": 80.42664279478947,
       "place_id": "ChIJvcb10GN1SjoRXepYZMXa1cQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "j8R7M7RRRFqxIIok2gDX_A_0.png",
       "lat": 16.3147649077968,
       "lng": 80.42480434306475,
       "place_id": "ChIJsbwJWmJ1SjoR9gBJcvxUA8A",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "j8R7M7RRRFqxIIok2gDX_A_180.png",
       "lat": 16.3147649077968,
       "lng": 80.42480434306475,
       "place_id": "ChIJsbwJWmJ1SjoR9gBJcvxUA8A",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "jsZhvEOCdg_kXihWGlnYhw_0.png",
-      "lat": 16.30968979262904,
-      "lng": 80.42213611763394,
-      "place_id": "ChIJ167at2R1SjoRrGFurKH7D2w",
-      "relevancy": "XXX"
+      "image": "jIXnYyeB9OobK-D6oA8zzg_0.png",
+      "lat": 16.31409704539611,
+      "lng": 80.42116195806506,
+      "place_id": "ChIJKxhHLH11SjoRZ0Ki9q_D4ds",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "jsZhvEOCdg_kXihWGlnYhw_180.png",
-      "lat": 16.30968979262904,
-      "lng": 80.42213611763394,
-      "place_id": "ChIJ167at2R1SjoRrGFurKH7D2w",
-      "relevancy": "XXX"
+      "image": "jIXnYyeB9OobK-D6oA8zzg_180.png",
+      "lat": 16.31409704539611,
+      "lng": 80.42116195806506,
+      "place_id": "ChIJKxhHLH11SjoRZ0Ki9q_D4ds",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "jsIJ4J_2jltCnuAoEqaw7A_0.png",
+      "lat": 16.31373971661306,
+      "lng": 80.42188506504876,
+      "place_id": "ChIJZ6_11WJ1SjoR9zILbHc2Zdk",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "jsIJ4J_2jltCnuAoEqaw7A_180.png",
+      "lat": 16.31373971661306,
+      "lng": 80.42188506504876,
+      "place_id": "ChIJZ6_11WJ1SjoR9zILbHc2Zdk",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "jsJQ2_phHRJoChVJebFu6A_0.png",
+      "lat": 16.3153443493689,
+      "lng": 80.42429554619463,
+      "place_id": "ChIJw9aiimJ1SjoRdvl0YbKFd98",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "jsJQ2_phHRJoChVJebFu6A_180.png",
+      "lat": 16.3153443493689,
+      "lng": 80.42429554619463,
+      "place_id": "ChIJw9aiimJ1SjoRdvl0YbKFd98",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "kB6Obi4zmAEMY7esM7xXnQ_0.png",
       "lat": 16.31566731132235,
       "lng": 80.42205894260447,
       "place_id": "ChIJrxEksWJ1SjoRZA5zcBO_kvM",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "kB6Obi4zmAEMY7esM7xXnQ_180.png",
       "lat": 16.31566731132235,
       "lng": 80.42205894260447,
       "place_id": "ChIJrxEksWJ1SjoRZA5zcBO_kvM",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "kGwYJUIGQqyPqhvOgUTN3Q_0.png",
-      "lat": 16.30854961641261,
-      "lng": 80.42391604775987,
-      "place_id": "ChIJ-4KP-WR1SjoRVMRhkeN-gyw",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "kGwYJUIGQqyPqhvOgUTN3Q_180.png",
-      "lat": 16.30854961641261,
-      "lng": 80.42391604775987,
-      "place_id": "ChIJ-4KP-WR1SjoRVMRhkeN-gyw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "krOwwHj57KmCjTbjt_W2dw_0.png",
       "lat": 16.31035264896833,
       "lng": 80.42513833218119,
       "place_id": "ChIJ89tHcGR1SjoRXZ-PEryrQuA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "krOwwHj57KmCjTbjt_W2dw_180.png",
       "lat": 16.31035264896833,
       "lng": 80.42513833218119,
       "place_id": "ChIJ89tHcGR1SjoRXZ-PEryrQuA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "lBd098GJAM-KwL3pXZf61Q_0.png",
       "lat": 16.31410113378859,
       "lng": 80.42685257352083,
       "place_id": "ChIJPVYXK2J1SjoRuTqFwlD_clk",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "lBd098GJAM-KwL3pXZf61Q_180.png",
       "lat": 16.31410113378859,
       "lng": 80.42685257352083,
       "place_id": "ChIJPVYXK2J1SjoRuTqFwlD_clk",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "lNEToxVIXlxIGdd12KNw7w_0.png",
-      "lat": 16.31471349364074,
-      "lng": 80.42280080478399,
-      "place_id": "ChIJISVWwmJ1SjoR7Wz6BudYnYQ",
-      "relevancy": "XXX"
+      "image": "lc8Niy-56gEQtsAVIyZ_4w_0.png",
+      "lat": 16.31147322327807,
+      "lng": 80.42736458082702,
+      "place_id": "ChIJX0LfGAB1SjoRSdNNUdHKlq8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "lNEToxVIXlxIGdd12KNw7w_180.png",
-      "lat": 16.31471349364074,
-      "lng": 80.42280080478399,
-      "place_id": "ChIJISVWwmJ1SjoR7Wz6BudYnYQ",
-      "relevancy": "XXX"
+      "image": "lc8Niy-56gEQtsAVIyZ_4w_180.png",
+      "lat": 16.31147322327807,
+      "lng": 80.42736458082702,
+      "place_id": "ChIJX0LfGAB1SjoRSdNNUdHKlq8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "lpqcmyqR_c0riTt1PCwxjQ_0.png",
-      "lat": 16.30914788682984,
-      "lng": 80.42499018516573,
-      "place_id": "ChIJl_a0RGR1SjoRfbeHgkHRYMk",
-      "relevancy": "XXX"
+      "image": "lets_3MfiGM4pmMSy2UbqQ_0.png",
+      "lat": 16.30835553547223,
+      "lng": 80.42752308087636,
+      "place_id": "ChIJ_0QMh2Z1SjoR0N53IPOrrYA",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "lpqcmyqR_c0riTt1PCwxjQ_180.png",
-      "lat": 16.30914788682984,
-      "lng": 80.42499018516573,
-      "place_id": "ChIJl_a0RGR1SjoRfbeHgkHRYMk",
-      "relevancy": "XXX"
+      "image": "lets_3MfiGM4pmMSy2UbqQ_180.png",
+      "lat": 16.30835553547223,
+      "lng": 80.42752308087636,
+      "place_id": "ChIJ_0QMh2Z1SjoR0N53IPOrrYA",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "m2l4VkOQtCiuAKXk7bo6TA_0.png",
+      "lat": 16.31505310642783,
+      "lng": 80.41951484350267,
+      "place_id": "ChIJZ9dCEn11SjoRjGitcXZQMNI",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "m2l4VkOQtCiuAKXk7bo6TA_180.png",
+      "lat": 16.31505310642783,
+      "lng": 80.41951484350267,
+      "place_id": "ChIJZ9dCEn11SjoRjGitcXZQMNI",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "m4HX6S774oIdwRLNXJa1vg_0.png",
       "lat": 16.31024550236418,
       "lng": 80.41985598567277,
       "place_id": "ChIJ5wMYZ3t1SjoRNQ-yK5Ip09M",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "m4HX6S774oIdwRLNXJa1vg_180.png",
       "lat": 16.31024550236418,
       "lng": 80.41985598567277,
       "place_id": "ChIJ5wMYZ3t1SjoRNQ-yK5Ip09M",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "m5YgFT6TtvYp23RELrvzJw_0.png",
-      "lat": 16.3087334072632,
-      "lng": 80.4215238943975,
-      "place_id": "ChIJ1bFTLXt1SjoRH2hNKSEQ1Mw",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "m5YgFT6TtvYp23RELrvzJw_180.png",
-      "lat": 16.3087334072632,
-      "lng": 80.4215238943975,
-      "place_id": "ChIJ1bFTLXt1SjoRH2hNKSEQ1Mw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "mBgQtULIDLAHsCgfdgrpkw_0.png",
       "lat": 16.31029341967983,
       "lng": 80.422089167377,
       "place_id": "ChIJdci9r2R1SjoRA8wNcg-A5xQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "mBgQtULIDLAHsCgfdgrpkw_180.png",
       "lat": 16.31029341967983,
       "lng": 80.422089167377,
       "place_id": "ChIJdci9r2R1SjoRA8wNcg-A5xQ",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "mXeZeCg09rq6A9JxjcBy0g_0.png",
-      "lat": 16.3102269803068,
-      "lng": 80.42722280495182,
-      "place_id": "ChIJTx9ZpmZ1SjoRVPg5FURxrKA",
-      "relevancy": "XXX"
+      "image": "md1IWlD6QhJFp7f-fGtBEA_0.png",
+      "lat": 16.3123215377184,
+      "lng": 80.4248374533826,
+      "place_id": "ChIJlW0NmGN1SjoRjY9E3lMODsg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "mXeZeCg09rq6A9JxjcBy0g_180.png",
-      "lat": 16.3102269803068,
-      "lng": 80.42722280495182,
-      "place_id": "ChIJTx9ZpmZ1SjoRVPg5FURxrKA",
-      "relevancy": "XXX"
+      "image": "md1IWlD6QhJFp7f-fGtBEA_180.png",
+      "lat": 16.3123215377184,
+      "lng": 80.4248374533826,
+      "place_id": "ChIJlW0NmGN1SjoRjY9E3lMODsg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "mfqIvn67_EEdqaCLhaT-pA_0.png",
       "lat": 16.30914505855244,
       "lng": 80.42478923117174,
       "place_id": "ChIJF2p1XGR1SjoRBr_HDdI6f4g",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "mfqIvn67_EEdqaCLhaT-pA_180.png",
       "lat": 16.30914505855244,
       "lng": 80.42478923117174,
       "place_id": "ChIJF2p1XGR1SjoRBr_HDdI6f4g",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "mqhaMQ3-e3AHJE0QJn7vGQ_0.png",
       "lat": 16.31011965221672,
       "lng": 80.42040777041686,
       "place_id": "ChIJO8I9Wjp1SjoR7N4_2eoHx_E",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "mqhaMQ3-e3AHJE0QJn7vGQ_180.png",
       "lat": 16.31011965221672,
       "lng": 80.42040777041686,
       "place_id": "ChIJO8I9Wjp1SjoR7N4_2eoHx_E",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "nGBvstA9wj4hdqAXipFu2g_0.png",
-      "lat": 16.31458212680237,
-      "lng": 80.4231494047155,
-      "place_id": "ChIJJZ-D6GJ1SjoR8rSti85vTz4",
-      "relevancy": "XXX"
+      "image": "ms4iTjDTIbl4xDwG7AgDZg_0.png",
+      "lat": 16.30971426334646,
+      "lng": 80.42307274002357,
+      "place_id": "ChIJMx0glGR1SjoRfXb8OUOBd_I",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "nGBvstA9wj4hdqAXipFu2g_180.png",
-      "lat": 16.31458212680237,
-      "lng": 80.4231494047155,
-      "place_id": "ChIJJZ-D6GJ1SjoR8rSti85vTz4",
-      "relevancy": "XXX"
+      "image": "ms4iTjDTIbl4xDwG7AgDZg_180.png",
+      "lat": 16.30971426334646,
+      "lng": 80.42307274002357,
+      "place_id": "ChIJMx0glGR1SjoRfXb8OUOBd_I",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "naUhS4jANiG20477_b5_Mg_0.png",
-      "lat": 16.30984641426278,
-      "lng": 80.42151064974587,
-      "place_id": "ChIJfXxeS3t1SjoR8LLVT1I9WzY",
-      "relevancy": "XXX"
+      "image": "n5VIXsi6fFbDUHGvY1U1bQ_0.png",
+      "lat": 16.3083104572353,
+      "lng": 80.42644532553793,
+      "place_id": "ChIJLQpnLWR1SjoRDbj9xoRgWmM",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "naUhS4jANiG20477_b5_Mg_180.png",
-      "lat": 16.30984641426278,
-      "lng": 80.42151064974587,
-      "place_id": "ChIJfXxeS3t1SjoR8LLVT1I9WzY",
-      "relevancy": "XXX"
+      "image": "n5VIXsi6fFbDUHGvY1U1bQ_180.png",
+      "lat": 16.3083104572353,
+      "lng": 80.42644532553793,
+      "place_id": "ChIJLQpnLWR1SjoRDbj9xoRgWmM",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "ni-e4XnHYWaffnBs6HFeLg_0.png",
-      "lat": 16.31554100369413,
-      "lng": 80.42610327644593,
-      "place_id": "ChIJy05SFGJ1SjoRgzmXnhiAfH0",
-      "relevancy": "XXX"
+      "image": "n9uq6D7sdNXLkew0igsLxQ_0.png",
+      "lat": 16.31384514753692,
+      "lng": 80.42279256945382,
+      "place_id": "ChIJr257Vmx1SjoRER73OxvToN0",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "ni-e4XnHYWaffnBs6HFeLg_180.png",
-      "lat": 16.31554100369413,
-      "lng": 80.42610327644593,
-      "place_id": "ChIJy05SFGJ1SjoRgzmXnhiAfH0",
-      "relevancy": "XXX"
+      "image": "n9uq6D7sdNXLkew0igsLxQ_180.png",
+      "lat": 16.31384514753692,
+      "lng": 80.42279256945382,
+      "place_id": "ChIJr257Vmx1SjoRER73OxvToN0",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "oNnIT-zzOxiG0fRuYAnUXg_0.png",
-      "lat": 16.31242763203705,
-      "lng": 80.41988986208392,
-      "place_id": "ChIJXVrY6nx1SjoRGz66NhBYU7c",
-      "relevancy": "XXX"
+      "image": "nETMFcXQmPUDEP6t0nU_Gw_0.png",
+      "lat": 16.31144051493558,
+      "lng": 80.42079764289699,
+      "place_id": "ChIJR4HPpHx1SjoRPXeTU3DckOs",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "oNnIT-zzOxiG0fRuYAnUXg_180.png",
-      "lat": 16.31242763203705,
-      "lng": 80.41988986208392,
-      "place_id": "ChIJXVrY6nx1SjoRGz66NhBYU7c",
-      "relevancy": "XXX"
+      "image": "nETMFcXQmPUDEP6t0nU_Gw_180.png",
+      "lat": 16.31144051493558,
+      "lng": 80.42079764289699,
+      "place_id": "ChIJR4HPpHx1SjoRPXeTU3DckOs",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "osl67WQpn2jOyvpdrGaNKQ_0.png",
-      "lat": 16.31553945099285,
-      "lng": 80.42077777574583,
-      "place_id": "ChIJu3A0RH11SjoRwZIQaVHHOtw",
-      "relevancy": "XXX"
+      "image": "o76NDxAxsrKSFIMRVMQGcw_0.png",
+      "lat": 16.3126039365012,
+      "lng": 80.42258770474169,
+      "place_id": "ChIJfw8zOWN1SjoRkYt4ZZ7MLQQ",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "osl67WQpn2jOyvpdrGaNKQ_180.png",
-      "lat": 16.31553945099285,
-      "lng": 80.42077777574583,
-      "place_id": "ChIJu3A0RH11SjoRwZIQaVHHOtw",
-      "relevancy": "XXX"
+      "image": "o76NDxAxsrKSFIMRVMQGcw_180.png",
+      "lat": 16.3126039365012,
+      "lng": 80.42258770474169,
+      "place_id": "ChIJfw8zOWN1SjoRkYt4ZZ7MLQQ",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "otHDi38EHYT34A8xQ3D_kw_0.png",
-      "lat": 16.31295425936798,
-      "lng": 80.42112264844158,
-      "place_id": "ChIJqVIPznx1SjoRk585pE1PTh8",
-      "relevancy": "XXX"
+      "image": "or2p8OGzPStK9eFeCKV_IA_0.png",
+      "lat": 16.30936351241215,
+      "lng": 80.42628181453121,
+      "place_id": "ChIJFU2qJGR1SjoRr3e2t5b9Km0",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "otHDi38EHYT34A8xQ3D_kw_180.png",
-      "lat": 16.31295425936798,
-      "lng": 80.42112264844158,
-      "place_id": "ChIJqVIPznx1SjoRk585pE1PTh8",
-      "relevancy": "XXX"
+      "image": "or2p8OGzPStK9eFeCKV_IA_180.png",
+      "lat": 16.30936351241215,
+      "lng": 80.42628181453121,
+      "place_id": "ChIJFU2qJGR1SjoRr3e2t5b9Km0",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "p22Ik7hzsv7ou-BQxNB3wA_0.png",
-      "lat": 16.31534072005883,
-      "lng": 80.42027651067461,
-      "place_id": "ChIJp3gLQX11SjoRHTxDL7biwWM",
-      "relevancy": "XXX"
+      "image": "ouFtCCmpgjrXOjdbCgKCQQ_0.png",
+      "lat": 16.30856236531053,
+      "lng": 80.42375091870723,
+      "place_id": "ChIJD5Vh-mR1SjoRbyZGhHebNuw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "p22Ik7hzsv7ou-BQxNB3wA_180.png",
-      "lat": 16.31534072005883,
-      "lng": 80.42027651067461,
-      "place_id": "ChIJp3gLQX11SjoRHTxDL7biwWM",
-      "relevancy": "XXX"
+      "image": "ouFtCCmpgjrXOjdbCgKCQQ_180.png",
+      "lat": 16.30856236531053,
+      "lng": 80.42375091870723,
+      "place_id": "ChIJD5Vh-mR1SjoRbyZGhHebNuw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "pcKRC-FjoGmwo3o0tkiqHA_0.png",
-      "lat": 16.30846029452198,
-      "lng": 80.42180721057652,
-      "place_id": "ChIJWcPc02R1SjoRMb_C94OaRUI",
-      "relevancy": "XXX"
+      "image": "q1heONAX7RYib_4I6X2Etg_0.png",
+      "lat": 16.31385569189569,
+      "lng": 80.42520064723688,
+      "place_id": "ChIJ9XkAs2N1SjoRz2pIbe8FKCY",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "pcKRC-FjoGmwo3o0tkiqHA_180.png",
-      "lat": 16.30846029452198,
-      "lng": 80.42180721057652,
-      "place_id": "ChIJWcPc02R1SjoRMb_C94OaRUI",
-      "relevancy": "XXX"
+      "image": "q1heONAX7RYib_4I6X2Etg_180.png",
+      "lat": 16.31385569189569,
+      "lng": 80.42520064723688,
+      "place_id": "ChIJ9XkAs2N1SjoRz2pIbe8FKCY",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "qgFCgNrcrSPmQ5uTh0uaCw_0.png",
-      "lat": 16.3107292087641,
-      "lng": 80.42332361923523,
-      "place_id": "ChIJs9UYnGR1SjoRak2dfBlmzoA",
-      "relevancy": "XXX"
+      "image": "qW6R0dRDmpEWOsIoFUjVBQ_0.png",
+      "lat": 16.31653783919819,
+      "lng": 80.42389032330684,
+      "place_id": "ChIJk-98g2J1SjoROggF0ri5ARw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "qgFCgNrcrSPmQ5uTh0uaCw_180.png",
-      "lat": 16.3107292087641,
-      "lng": 80.42332361923523,
-      "place_id": "ChIJs9UYnGR1SjoRak2dfBlmzoA",
-      "relevancy": "XXX"
+      "image": "qW6R0dRDmpEWOsIoFUjVBQ_180.png",
+      "lat": 16.31653783919819,
+      "lng": 80.42389032330684,
+      "place_id": "ChIJk-98g2J1SjoROggF0ri5ARw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "qo3XD4htbiYnQA8eV0I5hA_0.png",
-      "lat": 16.31003187912793,
-      "lng": 80.42077514377246,
-      "place_id": "ChIJIVQIUHt1SjoRN9bZ4sAUf6U",
-      "relevancy": "XXX"
+      "image": "qWIEZ18y3deiO7H-bj97mA_0.png",
+      "lat": 16.31299686830641,
+      "lng": 80.42691038780121,
+      "place_id": "ChIJgd2j2GN1SjoRVxrso7z-I5M",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "qo3XD4htbiYnQA8eV0I5hA_180.png",
-      "lat": 16.31003187912793,
-      "lng": 80.42077514377246,
-      "place_id": "ChIJIVQIUHt1SjoRN9bZ4sAUf6U",
-      "relevancy": "XXX"
+      "image": "qWIEZ18y3deiO7H-bj97mA_180.png",
+      "lat": 16.31299686830641,
+      "lng": 80.42691038780121,
+      "place_id": "ChIJgd2j2GN1SjoRVxrso7z-I5M",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "qp1LQ-nrzbbIJuM45CLCYw_0.png",
-      "lat": 16.31002988065586,
-      "lng": 80.42621551013237,
-      "place_id": "ChIJiyKF_ex1SjoR3Hd-o8H4oiM",
-      "relevancy": "XXX"
+      "image": "qWxYDJUbcn-BIaETttzj1w_0.png",
+      "lat": 16.30969491111196,
+      "lng": 80.42521660803384,
+      "place_id": "ChIJix-aaWR1SjoR6bR_XVZgtIM",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "qp1LQ-nrzbbIJuM45CLCYw_180.png",
-      "lat": 16.31002988065586,
-      "lng": 80.42621551013237,
-      "place_id": "ChIJiyKF_ex1SjoR3Hd-o8H4oiM",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "qy7PaP-y1xmFoPYzXmeYcg_0.png",
-      "lat": 16.31375555770943,
-      "lng": 80.42049708805355,
-      "place_id": "ChIJ3XFYJ311SjoR_8j1yJXUw5c",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "qy7PaP-y1xmFoPYzXmeYcg_180.png",
-      "lat": 16.31375555770943,
-      "lng": 80.42049708805355,
-      "place_id": "ChIJ3XFYJ311SjoR_8j1yJXUw5c",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "rJyTwqcr6plgZ67zkjJKAA_0.png",
-      "lat": 16.31436943243963,
-      "lng": 80.4260918153575,
-      "place_id": "ChIJ-QP9MGJ1SjoRa5tOImuK4zc",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "rJyTwqcr6plgZ67zkjJKAA_180.png",
-      "lat": 16.31436943243963,
-      "lng": 80.4260918153575,
-      "place_id": "ChIJ-QP9MGJ1SjoRa5tOImuK4zc",
-      "relevancy": "XXX"
+      "image": "qWxYDJUbcn-BIaETttzj1w_180.png",
+      "lat": 16.30969491111196,
+      "lng": 80.42521660803384,
+      "place_id": "ChIJix-aaWR1SjoR6bR_XVZgtIM",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "rN1n3TKUw7e9aAPEJB11fg_0.png",
       "lat": 16.31105404588072,
       "lng": 80.42274748737427,
       "place_id": "ChIJld8eX2N1SjoRTMtCNPrvwF4",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "rN1n3TKUw7e9aAPEJB11fg_180.png",
       "lat": 16.31105404588072,
       "lng": 80.42274748737427,
       "place_id": "ChIJld8eX2N1SjoRTMtCNPrvwF4",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "rPlRy5o-f2LDwWsXCYslEA_0.png",
+      "lat": 16.31502767704883,
+      "lng": 80.42107459388751,
+      "place_id": "ChIJNcAQNn11SjoRKp_sg11iuGw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "rPlRy5o-f2LDwWsXCYslEA_180.png",
+      "lat": 16.31502767704883,
+      "lng": 80.42107459388751,
+      "place_id": "ChIJNcAQNn11SjoRKp_sg11iuGw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "rZHZjBRWiZPDVXgm5IYoxw_0.png",
       "lat": 16.31621328786196,
       "lng": 80.42533240861822,
       "place_id": "ChIJ6eR7cWJ1SjoR-GsmYump6AE",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "rZHZjBRWiZPDVXgm5IYoxw_180.png",
       "lat": 16.31621328786196,
       "lng": 80.42533240861822,
       "place_id": "ChIJ6eR7cWJ1SjoR-GsmYump6AE",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "raiVNpFif-TC3TLXaSlQPA_0.png",
-      "lat": 16.30920921733041,
-      "lng": 80.42000889638197,
-      "place_id": "ChIJvy3RFHt1SjoRPRlywqxsfZ4",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "raiVNpFif-TC3TLXaSlQPA_180.png",
-      "lat": 16.30920921733041,
-      "lng": 80.42000889638197,
-      "place_id": "ChIJvy3RFHt1SjoRPRlywqxsfZ4",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "rbvOfKOnE7KElpbcpLYNCA_0.png",
       "lat": 16.31097392766982,
       "lng": 80.4267907690769,
       "place_id": "ChIJPRUtB2R1SjoRKb8ucGHKaH4",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "rbvOfKOnE7KElpbcpLYNCA_180.png",
       "lat": 16.31097392766982,
       "lng": 80.4267907690769,
       "place_id": "ChIJPRUtB2R1SjoRKb8ucGHKaH4",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "roV6Buozs_GisI9ZC53dng_0.png",
       "lat": 16.31425649968859,
       "lng": 80.42081564219224,
       "place_id": "ChIJa2AJJX11SjoRnKH7PYhYtws",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "roV6Buozs_GisI9ZC53dng_180.png",
       "lat": 16.31425649968859,
       "lng": 80.42081564219224,
       "place_id": "ChIJa2AJJX11SjoRnKH7PYhYtws",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "sG0fuLvocD4SkFFVsdGY5Q_0.png",
       "lat": 16.30925577143325,
       "lng": 80.4236580387777,
       "place_id": "ChIJ66Mb7mR1SjoRpfsbF4oAukI",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "sG0fuLvocD4SkFFVsdGY5Q_180.png",
       "lat": 16.30925577143325,
       "lng": 80.4236580387777,
       "place_id": "ChIJ66Mb7mR1SjoRpfsbF4oAukI",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "sKlSv4XhkC-JRVYz62ptag_0.png",
       "lat": 16.309476974319,
       "lng": 80.42593203913106,
       "place_id": "ChIJn6aYFWR1SjoRuaaJYNfLKpU",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "sKlSv4XhkC-JRVYz62ptag_180.png",
       "lat": 16.309476974319,
       "lng": 80.42593203913106,
       "place_id": "ChIJn6aYFWR1SjoRuaaJYNfLKpU",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "sXLjtFdfbgCwYHzSgsP-lw_0.png",
-      "lat": 16.31303704853664,
-      "lng": 80.42279808797412,
-      "place_id": "ChIJJyk1PWN1SjoRiyVozsWQ-VY",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "sXLjtFdfbgCwYHzSgsP-lw_180.png",
-      "lat": 16.31303704853664,
-      "lng": 80.42279808797412,
-      "place_id": "ChIJJyk1PWN1SjoRiyVozsWQ-VY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "sxAMk9NZoPU3X9_ofPqn-Q_0.png",
       "lat": 16.3135925012795,
       "lng": 80.42593297299936,
       "place_id": "ChIJwZVmyWN1SjoRrdGC30Cvhf4",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "sxAMk9NZoPU3X9_ofPqn-Q_180.png",
       "lat": 16.3135925012795,
       "lng": 80.42593297299936,
       "place_id": "ChIJwZVmyWN1SjoRrdGC30Cvhf4",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "t4fpTYy04xi88yI-lU9Scg_0.png",
       "lat": 16.31306085985807,
       "lng": 80.42254610347469,
       "place_id": "ChIJGzpqI2N1SjoRN-oOn6qaAG8",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "t4fpTYy04xi88yI-lU9Scg_180.png",
       "lat": 16.31306085985807,
       "lng": 80.42254610347469,
       "place_id": "ChIJGzpqI2N1SjoRN-oOn6qaAG8",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "tDee6he3-vFYsKnwUTYcIA_0.png",
       "lat": 16.30847307131531,
       "lng": 80.4247513665289,
       "place_id": "ChIJN9TvUGR1SjoR1jRsUPTgS84",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "tDee6he3-vFYsKnwUTYcIA_180.png",
       "lat": 16.30847307131531,
       "lng": 80.4247513665289,
       "place_id": "ChIJN9TvUGR1SjoR1jRsUPTgS84",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "tLMROWcyVNwCYceqE3nC9w_0.png",
       "lat": 16.31496090705427,
       "lng": 80.42223562152698,
       "place_id": "ChIJoZvYyGJ1SjoRTsmPW9N9mXA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "tLMROWcyVNwCYceqE3nC9w_180.png",
       "lat": 16.31496090705427,
       "lng": 80.42223562152698,
       "place_id": "ChIJoZvYyGJ1SjoRTsmPW9N9mXA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "uhzJtBZUSnPJXvXUsIQLpw_0.png",
-      "lat": 16.30989178051318,
-      "lng": 80.42369403613012,
-      "place_id": "ChIJmeIxjmR1SjoR8TjotEb5G4M",
-      "relevancy": "XXX"
+      "image": "u_D0_DvdIeXIsdtCIlZ8gw_0.png",
+      "lat": 16.3133400876128,
+      "lng": 80.42417278246036,
+      "place_id": "ChIJrSWvAGN1SjoRnLY8CfH_xUA",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "uhzJtBZUSnPJXvXUsIQLpw_180.png",
-      "lat": 16.30989178051318,
-      "lng": 80.42369403613012,
-      "place_id": "ChIJmeIxjmR1SjoR8TjotEb5G4M",
-      "relevancy": "XXX"
+      "image": "u_D0_DvdIeXIsdtCIlZ8gw_180.png",
+      "lat": 16.3133400876128,
+      "lng": 80.42417278246036,
+      "place_id": "ChIJrSWvAGN1SjoRnLY8CfH_xUA",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "vG-SAMw4akbNtmTwW7IN0Q_0.png",
-      "lat": 16.30898511250533,
-      "lng": 80.4259222759617,
-      "place_id": "ChIJNVQWOWR1SjoR-ddag4DsRbk",
-      "relevancy": "XXX"
+      "image": "ukYDvRg270FTMlp8EQH_1A_0.png",
+      "lat": 16.31050080114812,
+      "lng": 80.42442408285694,
+      "place_id": "ChIJJ67FfWR1SjoRljvMSQWL6x4",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "vG-SAMw4akbNtmTwW7IN0Q_180.png",
-      "lat": 16.30898511250533,
-      "lng": 80.4259222759617,
-      "place_id": "ChIJNVQWOWR1SjoR-ddag4DsRbk",
-      "relevancy": "XXX"
+      "image": "ukYDvRg270FTMlp8EQH_1A_180.png",
+      "lat": 16.31050080114812,
+      "lng": 80.42442408285694,
+      "place_id": "ChIJJ67FfWR1SjoRljvMSQWL6x4",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "vLABVG275rfhGMk2lH0bGg_0.png",
-      "lat": 16.30855028933875,
-      "lng": 80.42214307951429,
-      "place_id": "ChIJu-o_0GR1SjoRw7dEAWrMVC4",
-      "relevancy": "XXX"
+      "image": "v80mSzKP2SeCGZl-G61sNQ_0.png",
+      "lat": 16.31273279605817,
+      "lng": 80.42737527767967,
+      "place_id": "ChIJ6_0cYWF1SjoRFF90UEGMnHQ",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "vLABVG275rfhGMk2lH0bGg_180.png",
-      "lat": 16.30855028933875,
-      "lng": 80.42214307951429,
-      "place_id": "ChIJu-o_0GR1SjoRw7dEAWrMVC4",
-      "relevancy": "XXX"
+      "image": "v80mSzKP2SeCGZl-G61sNQ_180.png",
+      "lat": 16.31273279605817,
+      "lng": 80.42737527767967,
+      "place_id": "ChIJ6_0cYWF1SjoRFF90UEGMnHQ",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "vQ6FqRGO2itTpZfK26DW4Q_0.png",
-      "lat": 16.31280893006383,
-      "lng": 80.42598365656393,
-      "place_id": "ChIJ42EuxGN1SjoRDXnZKevXLsg",
-      "relevancy": "XXX"
+      "image": "vFmtNIkCMG3BDbzMHEkmpw_0.png",
+      "lat": 16.30963261699177,
+      "lng": 80.42235193565422,
+      "place_id": "ChIJd5ISuWR1SjoRFGy8ATm6pgY",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "vQ6FqRGO2itTpZfK26DW4Q_180.png",
-      "lat": 16.31280893006383,
-      "lng": 80.42598365656393,
-      "place_id": "ChIJ42EuxGN1SjoRDXnZKevXLsg",
-      "relevancy": "XXX"
+      "image": "vFmtNIkCMG3BDbzMHEkmpw_180.png",
+      "lat": 16.30963261699177,
+      "lng": 80.42235193565422,
+      "place_id": "ChIJd5ISuWR1SjoRFGy8ATm6pgY",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "vlGb6KBrk7gza33UArNOtg_0.png",
-      "lat": 16.31264505085401,
-      "lng": 80.42648497223945,
-      "place_id": "ChIJe9vawmN1SjoRXU5_eayPctM",
-      "relevancy": "XXX"
+      "image": "vRDoTYMiuug3Kf7FMRoMxA_0.png",
+      "lat": 16.31213910682457,
+      "lng": 80.42659754499797,
+      "place_id": "ChIJ3SYb5mN1SjoRVyxgfhFzZP8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "vlGb6KBrk7gza33UArNOtg_180.png",
-      "lat": 16.31264505085401,
-      "lng": 80.42648497223945,
-      "place_id": "ChIJe9vawmN1SjoRXU5_eayPctM",
-      "relevancy": "XXX"
+      "image": "vRDoTYMiuug3Kf7FMRoMxA_180.png",
+      "lat": 16.31213910682457,
+      "lng": 80.42659754499797,
+      "place_id": "ChIJ3SYb5mN1SjoRVyxgfhFzZP8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "vtvWFa32LuJTVW6dHfznxA_0.png",
-      "lat": 16.31388720509668,
-      "lng": 80.42738656880043,
-      "place_id": "ChIJaRoMmUN1SjoRb7Z2TB_ME-k",
-      "relevancy": "XXX"
+      "image": "vTR2VTwoxiXOGXkr4FaY-A_0.png",
+      "lat": 16.31405415403556,
+      "lng": 80.42567870574076,
+      "place_id": "ChIJ_6dKNWJ1SjoROn2bXm3myBg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "vtvWFa32LuJTVW6dHfznxA_180.png",
-      "lat": 16.31388720509668,
-      "lng": 80.42738656880043,
-      "place_id": "ChIJaRoMmUN1SjoRb7Z2TB_ME-k",
-      "relevancy": "XXX"
+      "image": "vTR2VTwoxiXOGXkr4FaY-A_180.png",
+      "lat": 16.31405415403556,
+      "lng": 80.42567870574076,
+      "place_id": "ChIJ_6dKNWJ1SjoROn2bXm3myBg",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "vdGjn15RdFO1amjz0uu6ZQ_0.png",
+      "lat": 16.31545400012926,
+      "lng": 80.42607942040084,
+      "place_id": "ChIJ1TIrPWJ1SjoRq2HbnofR0G0",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "vdGjn15RdFO1amjz0uu6ZQ_180.png",
+      "lat": 16.31545400012926,
+      "lng": 80.42607942040084,
+      "place_id": "ChIJ1TIrPWJ1SjoRq2HbnofR0G0",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "w37bC5enLu5VMOOy5IIhhA_0.png",
       "lat": 16.3118047988,
       "lng": 80.42647121899608,
       "place_id": "ChIJTW1r5WN1SjoR9fekbDuxaJc",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "w37bC5enLu5VMOOy5IIhhA_180.png",
       "lat": 16.3118047988,
       "lng": 80.42647121899608,
       "place_id": "ChIJTW1r5WN1SjoR9fekbDuxaJc",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "w9LR_OgSE9qvADsLB_vLbg_0.png",
       "lat": 16.3147388092996,
       "lng": 80.42175380763044,
       "place_id": "ChIJCxrdcAB1SjoRuexuidoszu0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "w9LR_OgSE9qvADsLB_vLbg_180.png",
       "lat": 16.3147388092996,
       "lng": 80.42175380763044,
       "place_id": "ChIJCxrdcAB1SjoRuexuidoszu0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "wh10nmnpRzPUsu-oJRsEFQ_0.png",
       "lat": 16.30844139581088,
       "lng": 80.42240364020326,
       "place_id": "ChIJl8W3aY11SjoR_mT9e8oL5Vw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "wh10nmnpRzPUsu-oJRsEFQ_180.png",
       "lat": 16.30844139581088,
       "lng": 80.42240364020326,
       "place_id": "ChIJl8W3aY11SjoR_mT9e8oL5Vw",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "wiNm2X-3w_pJvLEc1mNAiQ_0.png",
-      "lat": 16.31382825684924,
-      "lng": 80.42187241476321,
-      "place_id": "ChIJZRbw1WJ1SjoRtpxV08XimFs",
-      "relevancy": "XXX"
+      "image": "wsawIfy21i25aE7-ym7y8Q_0.png",
+      "lat": 16.31330450356749,
+      "lng": 80.42182970942274,
+      "place_id": "ChIJ--e5LWN1SjoRUE3j4GZ68Bo",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "wiNm2X-3w_pJvLEc1mNAiQ_180.png",
-      "lat": 16.31382825684924,
-      "lng": 80.42187241476321,
-      "place_id": "ChIJZRbw1WJ1SjoRtpxV08XimFs",
-      "relevancy": "XXX"
+      "image": "wsawIfy21i25aE7-ym7y8Q_180.png",
+      "lat": 16.31330450356749,
+      "lng": 80.42182970942274,
+      "place_id": "ChIJ--e5LWN1SjoRUE3j4GZ68Bo",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "x3MgqCoWtXuV2AjlSmCrAA_0.png",
+      "lat": 16.30841405089287,
+      "lng": 80.4259839961522,
+      "place_id": "ChIJ9R02NGR1SjoREtlkI_mtEFI",
+      "relevancy": "NO",
+      "ambiguous": "NO"
+    },
+    {
+      "image": "x3MgqCoWtXuV2AjlSmCrAA_180.png",
+      "lat": 16.30841405089287,
+      "lng": 80.4259839961522,
+      "place_id": "ChIJ9R02NGR1SjoREtlkI_mtEFI",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "xGMFnRN_j9_lQhPNvoQDfg_0.png",
       "lat": 16.31022496627002,
       "lng": 80.4238915118956,
       "place_id": "ChIJ9ZP8hWR1SjoRSzk_89HZsZA",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "xGMFnRN_j9_lQhPNvoQDfg_180.png",
       "lat": 16.31022496627002,
       "lng": 80.4238915118956,
       "place_id": "ChIJ9ZP8hWR1SjoRSzk_89HZsZA",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "xJz137LqhMb4T5IM23r6Zg_0.png",
-      "lat": 16.31557166408179,
-      "lng": 80.42239192390431,
-      "place_id": "ChIJb5fEu2J1SjoRPzDK3itYFa0",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "xJz137LqhMb4T5IM23r6Zg_180.png",
-      "lat": 16.31557166408179,
-      "lng": 80.42239192390431,
-      "place_id": "ChIJb5fEu2J1SjoRPzDK3itYFa0",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "xKBX9kepye48r8oViL7xhg_0.png",
       "lat": 16.3142165497176,
       "lng": 80.42653013719551,
       "place_id": "ChIJbQ3ALWJ1SjoRP6fFn_dthfg",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "xKBX9kepye48r8oViL7xhg_180.png",
       "lat": 16.3142165497176,
       "lng": 80.42653013719551,
       "place_id": "ChIJbQ3ALWJ1SjoRP6fFn_dthfg",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "xRTfvsFIipbqPd51JaYs7g_0.png",
       "lat": 16.30908146130058,
       "lng": 80.42240780033798,
       "place_id": "ChIJaSk2xGR1SjoR4J4dbUr6Gsk",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "xRTfvsFIipbqPd51JaYs7g_180.png",
       "lat": 16.30908146130058,
       "lng": 80.42240780033798,
       "place_id": "ChIJaSk2xGR1SjoR4J4dbUr6Gsk",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "xUhHqCesS1a27NvGZCqG4A_0.png",
-      "lat": 16.31041485702593,
-      "lng": 80.42457978684442,
-      "place_id": "ChIJcZpnfGR1SjoRzthbRC0RHAI",
-      "relevancy": "XXX"
+      "image": "xtkI62_rNu_vK9ehPFiiPA_0.png",
+      "lat": 16.31074592063274,
+      "lng": 80.42212822184213,
+      "place_id": "ChIJWS9sqGR1SjoR45LKIIY_6Qw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "xUhHqCesS1a27NvGZCqG4A_180.png",
-      "lat": 16.31041485702593,
-      "lng": 80.42457978684442,
-      "place_id": "ChIJcZpnfGR1SjoRzthbRC0RHAI",
-      "relevancy": "XXX"
+      "image": "xtkI62_rNu_vK9ehPFiiPA_180.png",
+      "lat": 16.31074592063274,
+      "lng": 80.42212822184213,
+      "place_id": "ChIJWS9sqGR1SjoR45LKIIY_6Qw",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "yJ1v5yLWzq20RPLmJWKK5g_0.png",
-      "lat": 16.31581421691962,
-      "lng": 80.42161057889244,
-      "place_id": "ChIJYY82s2J1SjoRHhG1-qq0GR0",
-      "relevancy": "XXX"
+      "image": "yMm9AAjHtq3HFUHWvXtJsA_0.png",
+      "lat": 16.30878715114858,
+      "lng": 80.42672735155729,
+      "place_id": "ChIJcZzDLmR1SjoRmth8zzK70AQ",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "yJ1v5yLWzq20RPLmJWKK5g_180.png",
-      "lat": 16.31581421691962,
-      "lng": 80.42161057889244,
-      "place_id": "ChIJYY82s2J1SjoRHhG1-qq0GR0",
-      "relevancy": "XXX"
+      "image": "yMm9AAjHtq3HFUHWvXtJsA_180.png",
+      "lat": 16.30878715114858,
+      "lng": 80.42672735155729,
+      "place_id": "ChIJcZzDLmR1SjoRmth8zzK70AQ",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "yOSCX8rhPRo2vYTjkgPQtg_0.png",
-      "lat": 16.30962680583072,
-      "lng": 80.42309744592866,
-      "place_id": "ChIJVZB5k2R1SjoRXWOFvvIqkUY",
-      "relevancy": "XXX"
+      "image": "yNojdsCrrUnJZn_N6ksHfQ_0.png",
+      "lat": 16.31478330443719,
+      "lng": 80.42262446666034,
+      "place_id": "ChIJsSAl7JF1SjoR9K1bYhnZe5g",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "yOSCX8rhPRo2vYTjkgPQtg_180.png",
-      "lat": 16.30962680583072,
-      "lng": 80.42309744592866,
-      "place_id": "ChIJVZB5k2R1SjoRXWOFvvIqkUY",
-      "relevancy": "XXX"
+      "image": "yNojdsCrrUnJZn_N6ksHfQ_180.png",
+      "lat": 16.31478330443719,
+      "lng": 80.42262446666034,
+      "place_id": "ChIJsSAl7JF1SjoR9K1bYhnZe5g",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "yfb1kOAH1ZUzx7BpdqFBKA_0.png",
-      "lat": 16.31326061520105,
-      "lng": 80.42444539241656,
-      "place_id": "ChIJLbmEqWN1SjoRXeXRe1-otIY",
-      "relevancy": "XXX"
+      "image": "yW1_vCC-R4CNr0nfwHKxYA_0.png",
+      "lat": 16.30983079543863,
+      "lng": 80.42157551455811,
+      "place_id": "ChIJf0PhsmR1SjoRDkwXrKDpZes",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "yfb1kOAH1ZUzx7BpdqFBKA_180.png",
-      "lat": 16.31326061520105,
-      "lng": 80.42444539241656,
-      "place_id": "ChIJLbmEqWN1SjoRXeXRe1-otIY",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "ygHRIfvvN2CjqUJFa9fy0A_0.png",
-      "lat": 16.31132676965828,
-      "lng": 80.42161168261217,
-      "place_id": "ChIJiUl3U2N1SjoRBwKtwPDv3Dk",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "ygHRIfvvN2CjqUJFa9fy0A_180.png",
-      "lat": 16.31132676965828,
-      "lng": 80.42161168261217,
-      "place_id": "ChIJiUl3U2N1SjoRBwKtwPDv3Dk",
-      "relevancy": "XXX"
+      "image": "yW1_vCC-R4CNr0nfwHKxYA_180.png",
+      "lat": 16.30983079543863,
+      "lng": 80.42157551455811,
+      "place_id": "ChIJf0PhsmR1SjoRDkwXrKDpZes",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "ykGzVPuSNZJvszZfpWOKWA_0.png",
       "lat": 16.31145160853092,
       "lng": 80.4235946188761,
       "place_id": "ChIJ-Xc8e2N1SjoRkYTps0YSQpc",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "ykGzVPuSNZJvszZfpWOKWA_180.png",
       "lat": 16.31145160853092,
       "lng": 80.4235946188761,
       "place_id": "ChIJ-Xc8e2N1SjoRkYTps0YSQpc",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "z3lWkJ0irwxmIssSet3mUw_0.png",
-      "lat": 16.31730606083259,
-      "lng": 80.42174633630934,
-      "place_id": "ChIJobxYTJ2KNToRWutXE1-T5as",
-      "relevancy": "XXX"
+      "image": "z3Z2BeDnzUGzE3x4aU6Yow_0.png",
+      "lat": 16.31180587997137,
+      "lng": 80.42228647713979,
+      "place_id": "ChIJYWnpRWN1SjoRoirEu7ePh_8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
-      "image": "z3lWkJ0irwxmIssSet3mUw_180.png",
-      "lat": 16.31730606083259,
-      "lng": 80.42174633630934,
-      "place_id": "ChIJobxYTJ2KNToRWutXE1-T5as",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "zE1Eb0jXGB1rcVeS9XJqVQ_0.png",
-      "lat": 16.30915539599795,
-      "lng": 80.42211701491053,
-      "place_id": "ChIJp-g8yWR1SjoR-4465j1VL9U",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "zE1Eb0jXGB1rcVeS9XJqVQ_180.png",
-      "lat": 16.30915539599795,
-      "lng": 80.42211701491053,
-      "place_id": "ChIJp-g8yWR1SjoR-4465j1VL9U",
-      "relevancy": "XXX"
+      "image": "z3Z2BeDnzUGzE3x4aU6Yow_180.png",
+      "lat": 16.31180587997137,
+      "lng": 80.42228647713979,
+      "place_id": "ChIJYWnpRWN1SjoRoirEu7ePh_8",
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "zSLQTL-cqmdvrJVgX5zRBg_0.png",
       "lat": 16.31278589062086,
       "lng": 80.420435193998,
       "place_id": "ChIJAVkTw3x1SjoR_1EBkTdB1ng",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     },
     {
       "image": "zSLQTL-cqmdvrJVgX5zRBg_180.png",
       "lat": 16.31278589062086,
       "lng": 80.420435193998,
       "place_id": "ChIJAVkTw3x1SjoR_1EBkTdB1ng",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "zVwoeaESHpcxnIhYO6PlGg_0.png",
-      "lat": 16.30938984587076,
-      "lng": 80.4261985307644,
-      "place_id": "ChIJw8wbPGR1SjoRd7GCU-aYZHg",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "zVwoeaESHpcxnIhYO6PlGg_180.png",
-      "lat": 16.30938984587076,
-      "lng": 80.4261985307644,
-      "place_id": "ChIJw8wbPGR1SjoRd7GCU-aYZHg",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "z_k8qvXdLvldDi-U33xovA_0.png",
-      "lat": 16.31634137388875,
-      "lng": 80.42487837432134,
-      "place_id": "ChIJ2def7mN1SjoR7HUFEcWDIwY",
-      "relevancy": "XXX"
-    },
-    {
-      "image": "z_k8qvXdLvldDi-U33xovA_180.png",
-      "lat": 16.31634137388875,
-      "lng": 80.42487837432134,
-      "place_id": "ChIJ2def7mN1SjoR7HUFEcWDIwY",
-      "relevancy": "XXX"
+      "relevancy": "NO",
+      "ambiguous": "NO"
     }
   ]
 }

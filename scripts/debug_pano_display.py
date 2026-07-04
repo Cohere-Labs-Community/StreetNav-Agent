@@ -49,7 +49,7 @@ def save_pano(pano_id: str, num: int, fov: int, pitch: int, step: int):
     saved = []
     for h in headings:
         params = {
-            "size": "640x640",
+            "size": "640x360",
             "pano": pano_id,
             "heading": h,
             "pitch": pitch,

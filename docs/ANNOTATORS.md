@@ -30,6 +30,7 @@ yourname_XXX — set once per query, unique, do not reuse across queries
 ```bash
 export QUERY="cafes near NTR stadium guntur"
 export SAMPLE_NAME="ram_001"
+export HEADING_SEED="42"
 ```
 
 ## 3 — pre_annotation.py

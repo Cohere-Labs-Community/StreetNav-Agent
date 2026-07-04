@@ -285,7 +285,7 @@ def save_pano_images(
 
         def _download(pano_id: str, heading: int):
             params = {
-                "size": "640x640",
+                "size": config.SV_IMAGE_SIZE,
                 "pano": pano_id,
                 "heading": heading,
                 "pitch": pitch,

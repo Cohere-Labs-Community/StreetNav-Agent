@@ -1,6 +1,6 @@
 """Annotator step 1: geocode query, fetch Street View panos, write metadata skeleton.
 
-Requires QUERY and SAMPLE_NAME env vars and GCP_GMAP_KEY in .env.local. See docs/ANNOTATORS.md.
+Requires QUERY, SAMPLE_NAME, HEADING_SEED env vars and GCP_GMAP_KEY in .env.local. See docs/ANNOTATORS.md.
 """
 from __future__ import annotations
 
@@ -35,8 +35,9 @@ SV_IMAGE_URL = "https://maps.googleapis.com/maps/api/streetview"
 DEFAULT_RADIUS_M = 500
 DEFAULT_STEP_M = 30
 DEFAULT_DEDUP_M = 30
-DEFAULT_IMAGES_PER_PANO = 3
+DEFAULT_IMAGES_PER_PANO = 2
 DEFAULT_PITCH = 0
+SV_IMAGE_SIZE = "640x360"
 GCP_WORKERS = 24
 
 
@@ -126,7 +127,7 @@ def _tight_dedup(panos: List[dict]) -> List[dict]:
         for j in range(i + 1, len(panos)):
             if j in drop:
                 continue
-            if dist_matrix[i, j] < 8:
+            if dist_matrix[i, j] < 15:
                 drop.add(i if neighbor_counts[i] < neighbor_counts[j] else j)
     return [p for idx, p in enumerate(panos) if idx not in drop]
 
@@ -185,19 +186,20 @@ def find_street_view_panos(center_lat, center_lng, total_radius=DEFAULT_RADIUS_M
     return _tight_dedup(available)
 
 
-def render_images(panos, images_dir: Path, images_per_pano: int, pitch: int):
+def render_images(panos, images_dir: Path, images_per_pano: int, pitch: int, heading_seed: int):
     """Download evenly-spaced headings per pano with a 5-deg overlap on each side.
 
     fov = (360 / images_per_pano) + 10 so neighbouring images overlap by 5 deg.
+    Headings start at heading_seed (e.g. seed 42 → 42, 222 for 2 images/pano).
     """
     interval = 360.0 / images_per_pano
     fov = int(round(interval)) + 10
-    headings = [int(round(i * interval)) % 360 for i in range(images_per_pano)]
+    headings = [int(round(heading_seed + i * interval)) % 360 for i in range(images_per_pano)]
 
     tasks = [(p["pano_id"], h) for p in panos for h in headings]
 
     def _download(pano_id, heading):
-        params = {"size": "640x640", "pano": pano_id, "heading": heading,
+        params = {"size": SV_IMAGE_SIZE, "pano": pano_id, "heading": heading,
                   "pitch": pitch, "fov": fov, "key": GCP_GMAP_KEY}
         try:
             resp = requests.get(SV_IMAGE_URL, params=params, timeout=15)
@@ -251,6 +253,19 @@ def _require_query() -> str:
     return query
 
 
+def _require_heading_seed() -> int:
+    raw = os.environ.get("HEADING_SEED", "").strip()
+    if not raw:
+        raise SystemExit('Missing HEADING_SEED — run: export HEADING_SEED="42"')
+    try:
+        seed = int(raw)
+    except ValueError:
+        raise SystemExit(f'Invalid HEADING_SEED={raw!r} — must be an integer 0–179')
+    if not 0 <= seed <= 179:
+        raise SystemExit(f'HEADING_SEED must be 0–179, got {seed}')
+    return seed
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Annotator step 1: build a sample for manual annotation.")
     parser.add_argument("--images-per-pano", type=int, default=DEFAULT_IMAGES_PER_PANO,
@@ -259,6 +274,7 @@ def main() -> int:
 
     sample_name = _require_sample_name()
     query = _require_query()
+    heading_seed = _require_heading_seed()
 
     sample_dir = SAMPLES_DIR / sample_name
     images_dir = sample_dir / "images"
@@ -275,8 +291,9 @@ def main() -> int:
     if not panos:
         print("No panoramas found — nothing to annotate.", file=sys.stderr)
 
-    print(f"\u25b6 render_images  (images_per_pano={args.images_per_pano})", flush=True)
-    rendered, fov, headings = render_images(panos, images_dir, args.images_per_pano, DEFAULT_PITCH)
+    print(f"\u25b6 render_images  (images_per_pano={args.images_per_pano} seed={heading_seed})", flush=True)
+    rendered, fov, headings = render_images(
+        panos, images_dir, args.images_per_pano, DEFAULT_PITCH, heading_seed)
     _log(f"{len(rendered)} images @ fov={fov} headings={headings}")
 
     pano_latlng = {p["pano_id"]: (p["lat"], p["lng"]) for p in panos}
