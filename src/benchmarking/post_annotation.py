@@ -1,20 +1,7 @@
-"""Annotator step 2 — generate a response skeleton from YES-marked images, then
-push the completed bundle to a HuggingFace dataset repo.
+"""Annotator step 2: build response skeleton from YES images; --push uploads to HF.
 
-Two-phase workflow:
-
-  Phase 1 (default): reads the edited _annotated_metadata.json, writes
-  _annotated_response.json with YES images only (name=XXX). Annotator then
-  fills in each "name" field.
-
-  Phase 2 (--push): validates all names are filled, pushes the full sample
-  folder to HF. Repo is created automatically if it does not exist.
-
-Usage:
-    python3 src/benchmarking/post_annotation.py <sample_name>           # phase 1
-    python3 src/benchmarking/post_annotation.py <sample_name> --push    # phase 2
-
-HF repo is read from HF_ANNOTATION_REPO in .env.local.
+Requires SAMPLE_NAME env var; HF_ANNOTATION_REPO and HUGGINGFACE_API_KEY in .env.local.
+See docs/ANNOTATORS.md.
 """
 from __future__ import annotations
 
@@ -49,6 +36,13 @@ HF_TOKEN = _env("HUGGINGFACE_API_KEY") or _env("HF_TOKEN")
 HF_ANNOTATION_REPO = _env("HF_ANNOTATION_REPO")
 
 
+def _require_sample_name() -> str:
+    sample_name = os.environ.get("SAMPLE_NAME", "").strip()
+    if not sample_name:
+        raise SystemExit('Missing SAMPLE_NAME — run: export SAMPLE_NAME="yourname_001"')
+    return sample_name
+
+
 def _ensure_repo(api: HfApi, repo_id: str) -> None:
     try:
         api.repo_info(repo_id=repo_id, repo_type="dataset", token=HF_TOKEN)
@@ -67,6 +61,7 @@ def build_response_skeleton(metadata: Dict[str, Any]) -> List[Dict[str, Any]]:
             "lat": img.get("lat"),
             "lng": img.get("lng"),
             "place_id": img.get("place_id"),
+            "ambiguous": str(img.get("ambiguous", "NO")).strip().upper() or "NO",
             "name": "XXX",
         })
     return out
@@ -74,14 +69,13 @@ def build_response_skeleton(metadata: Dict[str, Any]) -> List[Dict[str, Any]]:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Annotator step 2: generate response skeleton or push to HF.")
-    parser.add_argument("sample_name", help="annotator_key, e.g. ram_001")
     parser.add_argument("--push", action="store_true", help="validate and push to HF (phase 2)")
     args = parser.parse_args()
 
     if not HF_TOKEN or HF_TOKEN.startswith("your_"):
         raise SystemExit("Missing HUGGINGFACE_API_KEY / HF_TOKEN in .env.local")
 
-    sample_name = args.sample_name
+    sample_name = _require_sample_name()
     sample_dir = SAMPLES_DIR / sample_name
     meta_path = sample_dir / f"{sample_name}_annotated_metadata.json"
     resp_path = sample_dir / f"{sample_name}_annotated_response.json"
@@ -94,7 +88,14 @@ def main() -> int:
     pending_meta = [i for i in metadata.get("images", [])
                     if str(i.get("relevancy", "")).strip().upper() not in {"YES", "NO"}]
     if pending_meta:
-        print(f"\u2717 {len(pending_meta)} images still have relevancy=XXX — edit metadata first.",
+        print(f"\u2717 {len(pending_meta)} images still have invalid relevancy — set each to YES or NO.",
+              file=sys.stderr)
+        return 2
+
+    pending_ambiguous = [i for i in metadata.get("images", [])
+                         if str(i.get("ambiguous", "NO")).strip().upper() not in {"YES", "NO"}]
+    if pending_ambiguous:
+        print(f"\u2717 {len(pending_ambiguous)} images still have invalid ambiguous — set each to YES or NO.",
               file=sys.stderr)
         return 2
 
@@ -104,13 +105,17 @@ def main() -> int:
             existing = json.loads(resp_path.read_text())
             existing_map = {e["image"]: e for e in existing}
             for entry in skeleton:
-                if entry["image"] in existing_map and existing_map[entry["image"]].get("name", "XXX") != "XXX":
-                    entry["name"] = existing_map[entry["image"]]["name"]
+                prev = existing_map.get(entry["image"])
+                if not prev:
+                    continue
+                if prev.get("name", "XXX") != "XXX":
+                    entry["name"] = prev["name"]
+                if str(prev.get("ambiguous", "")).strip().upper() in {"YES", "NO"}:
+                    entry["ambiguous"] = prev["ambiguous"]
         resp_path.write_text(json.dumps(skeleton, indent=2))
-        yes_count = sum(1 for e in skeleton if e.get("relevancy") == "YES")
-        print(f"\u2713 {len(skeleton)} images ({yes_count} YES) \u2192 {resp_path}", flush=True)
-        print(f"  fill each \"name\" field, then run:", flush=True)
-        print(f"  python3 src/benchmarking/post_annotation.py {sample_name} --push", flush=True)
+        print(f"\u2713 {len(skeleton)} YES images \u2192 {resp_path}", flush=True)
+        print(f"  fill each \"name\" field (set \"ambiguous\" YES if unsure), then run:", flush=True)
+        print(f"  python3 src/benchmarking/post_annotation.py --push", flush=True)
         return 0
 
     if not resp_path.exists():

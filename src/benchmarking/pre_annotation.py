@@ -1,15 +1,6 @@
-"""Annotator step 1 — geocode a query, crawl Street View panos, render images,
-and write a skeleton metadata JSON for manual relevancy/language annotation.
+"""Annotator step 1: geocode query, fetch Street View panos, write metadata skeleton.
 
-Standalone: depends only on the shared requirements.txt and a .env.local with
-GCP_GMAP_KEY. Run, then hand-edit the produced
-``samples/<sample_name>/<sample_name>_annotated_metadata.json`` (set each
-``relevancy`` to YES/NO and fill ``langs``), then run post_annotation.py.
-
-Usage:
-    python3 src/benchmarking/pre_annotation.py "<query>" <sample_name> [--images-per-pano N]
-
-    <sample_name> is "<annotator>_<key>", e.g. ram_001.
+Requires QUERY and SAMPLE_NAME env vars and GCP_GMAP_KEY in .env.local. See docs/ANNOTATORS.md.
 """
 from __future__ import annotations
 
@@ -42,9 +33,9 @@ SV_METADATA_URL = "https://maps.googleapis.com/maps/api/streetview/metadata"
 SV_IMAGE_URL = "https://maps.googleapis.com/maps/api/streetview"
 
 DEFAULT_RADIUS_M = 500
-DEFAULT_STEP_M = 24
-DEFAULT_DEDUP_M = 24
-DEFAULT_IMAGES_PER_PANO = 2
+DEFAULT_STEP_M = 30
+DEFAULT_DEDUP_M = 30
+DEFAULT_IMAGES_PER_PANO = 3
 DEFAULT_PITCH = 0
 GCP_WORKERS = 24
 
@@ -135,7 +126,7 @@ def _tight_dedup(panos: List[dict]) -> List[dict]:
         for j in range(i + 1, len(panos)):
             if j in drop:
                 continue
-            if dist_matrix[i, j] < 5:
+            if dist_matrix[i, j] < 8:
                 drop.add(i if neighbor_counts[i] < neighbor_counts[j] else j)
     return [p for idx, p in enumerate(panos) if idx not in drop]
 
@@ -246,19 +237,28 @@ def reverse_geocode_place_ids(pano_ids_latlng: Dict[str, Tuple[float, float]]):
     return out
 
 
+def _require_sample_name() -> str:
+    sample_name = os.environ.get("SAMPLE_NAME", "").strip()
+    if not sample_name:
+        raise SystemExit('Missing SAMPLE_NAME — run: export SAMPLE_NAME="yourname_001"')
+    return sample_name
+
+
+def _require_query() -> str:
+    query = os.environ.get("QUERY", "").strip()
+    if not query:
+        raise SystemExit('Missing QUERY — run: export QUERY="cafes near NTR stadium guntur"')
+    return query
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Annotator step 1: build a sample for manual annotation.")
-    parser.add_argument("query", nargs="+", help='Free-text query, e.g. "cafes near NTR stadium guntur"')
-    parser.add_argument("sample_name", help="annotator_key, e.g. ram_001 (last token before flags)")
     parser.add_argument("--images-per-pano", type=int, default=DEFAULT_IMAGES_PER_PANO,
                         help=f"headings per pano (default {DEFAULT_IMAGES_PER_PANO}); fov auto = 360/N + 10")
     args = parser.parse_args()
 
-    sample_name = args.sample_name
-    query = " ".join(args.query).strip()
-    if not query:
-        print("Empty query.", file=sys.stderr)
-        return 2
+    sample_name = _require_sample_name()
+    query = _require_query()
 
     sample_dir = SAMPLES_DIR / sample_name
     images_dir = sample_dir / "images"
@@ -293,7 +293,8 @@ def main() -> int:
             "lat": pano.get("lat"),
             "lng": pano.get("lng"),
             "place_id": place_ids.get(pid),
-            "relevancy": "XXX",
+            "relevancy": "NO",
+            "ambiguous": "NO",
         })
 
     metadata = {
@@ -314,8 +315,8 @@ def main() -> int:
     out_path = sample_dir / f"{sample_name}_annotated_metadata.json"
     out_path.write_text(json.dumps(metadata, indent=2))
     print(f"\u2713 wrote {out_path}", flush=True)
-    print(f"  edit each image's 'relevancy' to YES/NO and fill 'langs', then run:", flush=True)
-    print(f"  python3 src/benchmarking/post_annotation.py {sample_name} <hf_repo>", flush=True)
+    print(f"  mark relevant images 'relevancy' NO -> YES, then run:", flush=True)
+    print(f"  python3 src/benchmarking/post_annotation.py", flush=True)
     return 0
 
 

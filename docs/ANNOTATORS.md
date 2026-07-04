@@ -1,6 +1,6 @@
 # StreetNav-Agent — Annotators
 
-Run a query to fetch street view images for a location, annotate which images are relevant and what languages appear, then name the relevant ones and push everything to HuggingFace. Three steps total — one script run, one JSON edit, one script run with `--push`.
+Run a query to fetch street view images for a location, annotate which images are relevant, then name the relevant ones and push everything to HuggingFace.
 
 - `GCP_GMAP_KEY` — Google Maps API key (needed for step 1)
 - `HUGGINGFACE_API_KEY` — HuggingFace token (needed for step 3)
@@ -9,37 +9,48 @@ Run a query to fetch street view images for a location, annotate which images ar
 | Step | Action | What to annotate |
 |------|--------|-----------------|
 | 1 | run `pre_annotation.py` | — |
-| 2 | edit `_annotated_metadata.json` | `relevancy` YES/NO per image |
+| 2 | edit `_annotated_metadata.json` | `relevancy` NO → YES; `ambiguous` NO → YES if unclear |
 | 3 | run `post_annotation.py`, edit `_annotated_response.json`, run again with `--push` | `name` per YES image |
 
-## 1 Setup
+## 1 - Setup
 
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 2 Keys
+## 2 - Keys, query, and sample name
 
 ```text
 # create .env.local (see .env.example for variable names)
 ```
 
-## 3 Step 1 — pre_annotation.py
+yourname_XXX — set once per query, unique, do not reuse across queries
 
 ```bash
-python3 src/benchmarking/pre_annotation.py "cafes near NTR stadium guntur" ram_001  # query, sample_name (yourname_samplenumber)
+export QUERY="cafes near NTR stadium guntur"
+export SAMPLE_NAME="ram_001"
 ```
 
-## 4 Produced files
+## 3 — pre_annotation.py
+
+```bash
+python3 src/benchmarking/pre_annotation.py
+```
+
+## 3.1 - Produced files
+
+Verify they exist.
 
 ```text
-src/benchmarking/samples/<sample_name>/
+src/benchmarking/samples/$SAMPLE_NAME/
   images/<pano_id>_<heading>.png
-  <sample_name>_annotated_metadata.json
+  $SAMPLE_NAME_annotated_metadata.json
 ```
 
-## 5 Skeleton metadata
+## 3.2 - Skeleton metadata
+
+View each image in `src/benchmarking/samples/$SAMPLE_NAME/images/` (~1–3 sec/image, ~5–10 min/query). Update relevancy in `$SAMPLE_NAME_annotated_metadata.json` for images relevant to the query. Only edit `relevancy` and `ambiguous`; leave everything else unchanged.
 
 ```json
 {
@@ -49,62 +60,56 @@ src/benchmarking/samples/<sample_name>/
   "state": "AP",                                              // state/province (query)
   "city": "Guntur",                                           // city (query)
   "query_center": {"lat": 0.0, "lng": 0.0, "place_id": "..."},// query anchor
-  "images_per_pano": 4,                                       // headings/pano
+  "images_per_pano": 3,                                       // headings/pano
   "images": [                                                 // one per image
     {
       "image": "<pano_id>_0.png",                             // pano_heading.png
       "lat": 0.0,                                             // image lat
       "lng": 0.0,                                             // image lng
       "place_id": "...",                                      // nearest place
-      "relevancy": "XXX"                                      // edit: YES/NO
+      "relevancy": "NO",                                      // EDIT: NO -> YES if relevant
+      "ambiguous": "NO"                                       // EDIT: NO -> YES if match is unclear
     }
   ]
 }
 ```
 
-## 6 Manual edits per image
-
-```text
-relevancy : "XXX" -> "YES" or "NO"
-```
-
-## 7 Step 2 phase 1 — generate response skeleton
+## 4 — generate response skeleton
 
 ```bash
-python3 src/benchmarking/post_annotation.py ram_001   # sample_name
+python3 src/benchmarking/post_annotation.py
 ```
 
-## 8 Response skeleton (YES images only)
+## 5 - Response skeleton (YES images only)
+
+For YES images above, `image` / `lat` / `lng` / `place_id` / `ambiguous` are copied automatically — only `name` needs filling in.
+
+Edit `src/benchmarking/samples/$SAMPLE_NAME/$SAMPLE_NAME_annotated_response.json`:
 
 ```json
 [
   {
-    "image": "<pano_id>_0.png",                               // file name
-    "lat": 0.0,                                               // image lat
-    "lng": 0.0,                                               // image lng
-    "place_id": "...",                                        // nearest place
-    "name": "XXX"                                             // edit: visible name in image
+    "image": "<pano_id>_0.png",                               // auto from metadata
+    "lat": 0.0,                                               // auto from metadata
+    "lng": 0.0,                                               // auto from metadata
+    "place_id": "...",                                        // auto from metadata
+    "ambiguous": "NO",                                        // EDIT: change to YES if ambiguous case
+    "name": "XXX"                                             // EDIT: visible name in image
   }
 ]
 ```
 
-## 9 Manual edit per YES image
-
-```text
-name : "XXX" -> "Cafe Coffee Day"
-```
-
-## 10 Step 2 phase 2 — push
+## 6 - push to hf
 
 ```bash
-python3 src/benchmarking/post_annotation.py ram_001 --push   # validates name, creates repo if needed, uploads
+python3 src/benchmarking/post_annotation.py --push
 ```
 
-## 11 Pushed layout
+## 6.1 Pushed layout
 
 ```text
 HF_ANNOTATION_REPO (dataset)
-  <sample_name>/images/<pano_id>_<heading>.png
-  <sample_name>/<sample_name>_annotated_metadata.json
-  <sample_name>/<sample_name>_annotated_response.json
+  $SAMPLE_NAME/images/<pano_id>_<heading>.png
+  $SAMPLE_NAME/$SAMPLE_NAME_annotated_metadata.json
+  $SAMPLE_NAME/$SAMPLE_NAME_annotated_response.json
 ```
